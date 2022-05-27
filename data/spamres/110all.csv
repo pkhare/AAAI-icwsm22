@@ -1,0 +1,18 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<161066453800.27477.16616804699164995367@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+2,<161098508625.7783.1372690078958446686@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+3,<161257290585.16296.10283421370309856637@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+4,<4DA31EF0-F93A-4199-B4C8-472BE000CADD@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+5,<161317668188.31345.990668140860630096@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+6,<161367713356.31254.15032546021903822665@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+7,<8C02F081-2611-4674-9CF3-65CC0D0248CC@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+8,<161400602747.23027.7261638650494153163@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+9,<CA73518D-8754-4BBB-847C-3451B547D181@ietf.org>,NO,-1.888,,"No, score=-1.888 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, T_KAM_HTML_FONT_INVALID=0.01, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+10,<161516310404.21038.2614148238381020187@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+11,<161530315859.30877.9504957493883492178@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+12,<161547656768.1095.12025688321923954947@ietfa.amsl.com>,,,,,False,-2.0,False,0.15960297761042466
+13,<161556176252.14934.12585351007629183735@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+14,<77FC4F5A-D14F-4439-B6C2-C2F5B14577E6@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.49999999999999784
+15,<583EA4FA-D2B9-488E-9A66-A8956169ABCC@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.22737794128918348
+16,<790B473C-5862-47D0-8604-773021CE7FBA@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.22737794128918348
+17,<161672973120.7574.13148486975536133134@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784

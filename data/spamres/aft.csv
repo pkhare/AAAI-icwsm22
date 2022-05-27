@@ -1,0 +1,2 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<mailman.1138.1244402262.7831.aft-general@aft1966.org>,NO,-0.185,,"No, score=-0.185 tagged_above=-999 required=5 tests=[BAYES_40=-0.185]",False,-0.8,False,5.862434643465709e-08

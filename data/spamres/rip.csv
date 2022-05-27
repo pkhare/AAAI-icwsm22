@@ -1,0 +1,16 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<200201041802.KAA11550@windsor.research.att.com>,,,,,False,-1.0,False,3.752168711985962e-08
+2,<200201041819.KAA11784@windsor.research.att.com>,,,,,False,-1.0,False,6.649538068464832e-05
+3,<200204022250.g32Mo757044817@stash.attlabs.att.com>,,,,,False,-1.0,False,0.0007902487862894225
+4,<1059550603.175452903@monster.coolgoose.com>,,,,,True,6.4,False,0.150203869989123
+5,<1079366365.6514.44.camel@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8380923741461609
+6,<F6242D340921D5118D1E00508BB9837A04BBB6A8@tlnmail1.toplayer.com>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,False,0.7189408625521978
+7,,,,,"No, hits=0.5 required=5.0 tests=HTML_40_50,HTML_MESSAGE  autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+8,<F6242D340921D5118D1E00508BB9837A04BBB6B9@tlnmail1.toplayer.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,False,0.8035799187328447
+9,,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+10,<F6242D340921D5118D1E00508BB9837A04BBB6BA@tlnmail1.toplayer.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,False,0.7189408625521978
+11,<000001ce73cc$cadb85f0$609291d0$@com>,NO,-3.999,,"No, score=-3.999 tagged_above=-999 required=5 tests=[HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.49999999999999784
+12,<20140418093229.2560.95474.ARCHIVE@ietfa.amsl.com>,,,,,False,0.0,False,0.3375960185978163
+13,<20140418093229.2560.5259.ARCHIVE@ietfa.amsl.com>,,,,,False,0.0,False,0.6652285420075991
+14,<20140418093229.2560.52085.ARCHIVE@ietfa.amsl.com>,,,,,True,5.2,True,0.9914376806303495
+15,<20140418093230.2560.94193.ARCHIVE@ietfa.amsl.com>,,,,,False,0.3,True,0.9999734865345645

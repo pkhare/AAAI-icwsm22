@@ -1,0 +1,451 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<E1GLRZ2-0005gP-2P@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+2,<E1GLRZ2-0005gN-1r@stiedprstage1.ietf.org>,,-1.6 (-),,,False,0.0,False,0.49999999999999784
+3,<E1GQVu8-0004rM-I0@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+4,<E1GQVu8-0004rK-HT@stiedprstage1.ietf.org>,,-5.7 (-----),,,False,0.0,False,0.49999999999999784
+5,<E1GVbGY-0003YZ-0p@stiedprstage1.ietf.org>,,-1.6 (-),,,False,0.0,False,0.5247436434332635
+6,<E1GVbGY-0003Yb-1Q@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.5247436434332635
+7,<E1GafMp-0006AV-CM@stiedprstage1.ietf.org>,,-1.6 (-),,,False,-0.0,False,0.001324111096588
+8,<E1Gn4Gc-0005Jb-6V@stiedprstage1.ietf.org>,,-1.6 (-),,,False,-0.0,False,0.0014662458227576371
+9,<E1H2bK6-00015O-Uq@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.00013774952339677912
+10,<E1H2bK6-00015M-UH@stiedprstage1.ietf.org>,,-1.6 (-),,,False,-0.0,False,0.49999999999999784
+11,<E1H7gFe-0007ry-7F@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+12,<E1H7gFe-0007ro-6i@stiedprstage1.ietf.org>,,-1.6 (-),,,False,-0.0,False,0.49999999999999784
+13,<E1HCmbM-00033k-M5@stiedprstage1.ietf.org>,,-1.1 (-),,,False,-0.0,False,0.49999999999999784
+14,<E1HCmbM-00033n-Mc@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+15,<E1HI5aR-0007st-Aw@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+16,<E1HI5aR-0007sr-AN@stiedprstage1.ietf.org>,,-1.1 (-),,,False,-0.0,False,0.49999999999999784
+17,<E1HMxz7-0000SS-9g@stiedprstage1.ietf.org>,,-1.6 (-),,,False,-0.0,False,0.49999999999999784
+18,<E1HMxz7-0000SU-AG@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+19,<E1HX5Zq-0002kn-2G@stiedprstage1.ietf.org>,,-1.6 (-),,,False,-0.0,False,0.49999999999999784
+20,<E1HX5Zq-0002kp-2p@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+21,<E1Hc2JQ-0002UE-ND@stiedprstage1.ietf.org>,,-1.1 (-),,,False,-0.0,False,0.49999999999999784
+22,<E1Hc2JQ-0002UG-Nl@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+23,<E1Hc2JZ-0002qu-5J@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+24,<E1Hc2JZ-0002qs-4g@stiedprstage1.ietf.org>,,-1.1 (-),,,False,-0.0,False,0.49999999999999784
+25,<E1Hc3ob-0004jx-LB@stiedprstage1.ietf.org>,,-1.1 (-),,,False,-0.0,False,0.49999999999999784
+26,<E1Hc3ob-0004jz-Lj@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+27,<E1HcRKl-0000sA-IJ@stiedprstage1.ietf.org>,,-1.0 (-),,,False,-0.0,False,0.49999999999999784
+28,<E1HcRKl-0000sF-Iq@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+29,<E1HjiFz-0001Eu-1e@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+30,<E1HjiFz-0001Es-13@stiedprstage1.ietf.org>,,-1.1 (-),,,False,-0.0,False,0.49999999999999784
+31,<E1HopGf-0004X2-UA@stiedprstage1.ietf.org>,,-1.1 (-),,,False,0.0,False,0.669270692071739
+32,<E1HopGf-0004XB-Uo@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.669270692071739
+33,<E1Hyxcw-0008VZ-Bv@stiedprstage1.ietf.org>,,-1.1 (-),,,False,0.0,False,0.49999999999999784
+34,<E1Hyxcw-0008Vb-CT@stiedprstage1.ietf.org>,,-2.8 (--),,,False,-1.0,False,0.49999999999999784
+35,<E1I42Ek-0000C6-D4@stiedprstage1.ietf.org>,,0.1 (/),,,False,-1.0,False,0.49999999999999784
+36,<E1I42Ek-0000C4-CS@stiedprstage1.ietf.org>,,-1.6 (-),,,False,-0.0,False,0.49999999999999784
+37,<E1I97XR-0008Lw-BO@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.11858111180284887
+38,<E1I97XR-0008Ly-Bu@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,9.370187828774806e-05
+39,<E1ILnC4-0002KC-BA@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+40,<E1ILnC4-0002KE-Bk@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+41,<E1IQs3C-0005Yb-0O@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+42,<E1IQs3B-0005YZ-W8@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+43,<E1IVyTg-0004NR-Hx@stiedprstage1.ietf.org>,,0.2 (/),,,False,-0.0,False,0.49999999999999784
+44,<E1IVyTg-0004NT-IU@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+45,<E1Ib6xd-00022y-68@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+46,<E1Ib6xd-000230-6g@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+47,<E1IgCZw-0005Vn-Th@stiedprstage1.ietf.org>,,-1.4 (-),,,False,-1.0,False,0.49999999999999784
+48,<E1IgCZw-0005Vl-T5@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+49,<E1IlBub-0004w9-F9@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.15960297761042466
+50,<E1IqJ3N-0006En-Fh@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,6.965943693855408e-10
+51,<E1IqJ3N-0006El-F7@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+52,<E1IvPn3-0001Eo-Oj@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+53,<E1IvPn3-0001Em-O1@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+54,<E1J2y9O-0007fi-66@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+55,<E1J2y9O-0007fk-6f@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+56,<E1JAZEn-00009O-Lv@stiedprstage1.ietf.org>,,-1.4 (-),,,False,-1.0,False,0.49999999999999784
+57,<E1JAZEn-00009M-LL@stiedprstage1.ietf.org>,,1.7 (+),,,False,-0.0,False,0.49999999999999784
+58,<E1JFf0M-0006UU-TJ@stiedprstage1.ietf.org>,,0.2 (/),,,False,-0.0,False,0.49999999999999784
+59,<E1JFf0M-0006UW-Tt@stiedprstage1.ietf.org>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+60,<E1JKceG-000819-88@stiedprstage1.ietf.org>,,0.2 (/),,,False,-0.0,False,0.49999999999999784
+61,<20080215025930.1997E3A695C@core3.amsl.com>,NO,-2.016,,"No, score=-2.016 tagged_above=-999 required=5 tests=[AWL=-0.417, BAYES_00=-2.599, HTML_MESSAGE=1]",False,0.2,False,0.49999999999999784
+62,<20080228231247.9115928C321@core3.amsl.com>,NO,-2.099,,"No, score=-2.099 tagged_above=-999 required=5 tests=[AWL=0.500,  BAYES_00=-2.599]",False,-0.8,False,0.49999999999999784
+63,<20080228231247.8ED9228C29B@core3.amsl.com>,NO,-1.912,,"No, score=-1.912 tagged_above=-999 required=5 tests=[AWL=-0.313, BAYES_00=-2.599, HTML_MESSAGE=1]",False,0.2,False,0.49999999999999784
+64,<20080228234934.BD74F3A6CE4@core3.amsl.com>,NO,-2.391,,"No, score=-2.391 tagged_above=-999 required=5 tests=[AWL=0.208,  BAYES_00=-2.599]",False,-0.8,False,0.49999999999999784
+65,<20080228234934.BB17A3A6D1F@core3.amsl.com>,NO,-1.912,,"No, score=-1.912 tagged_above=-999 required=5 tests=[AWL=-0.313, BAYES_00=-2.599, HTML_MESSAGE=1]",False,0.2,False,0.49999999999999784
+66,<20080320212414.4FFFA28C801@core3.amsl.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.000,  BAYES_00=-2.599]",False,-0.8,False,0.49999999999999784
+67,<20080320212414.47EA328C800@core3.amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,0.2,False,0.49999999999999784
+68,<20080320212551.A511B28C6FC@core3.amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[AWL=-0.000, BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,0.2,False,0.49999999999999784
+69,<20080320212551.A9CEF28C72A@core3.amsl.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.000,  BAYES_00=-2.599]",False,-0.8,False,0.49999999999999784
+70,<20080404012210.4DAFB3A6DE0@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+71,<20080404012210.506C13A6DE9@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+72,<20080417221450.5C0A63A6DD9@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+73,<20080417221450.588693A7023@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+74,<20080501223541.811FC3A69BB@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+75,<20080501223541.862263A68E7@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+76,<20080529230624.4F6133A6B3C@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+77,<20080529230624.47E053A6901@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+78,<20080612224417.6E1793A6AAB@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+79,<20080612224417.680B83A694F@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+80,<20080627022301.1F7203A6913@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+81,<20080627022301.2F0C93A695A@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+82,<20080710230723.4E09C3A685E@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+83,<20080710230723.51E833A6843@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+84,<20080807223823.3E6693A6A7D@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+85,<20080807223823.452F63A6AD7@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+86,<20080821222133.07B923A67BD@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+87,<20080821222133.099FC3A6783@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+88,<20080904220100.1C6803A69E7@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+89,<20080904220100.178DF3A6A24@core3.amsl.com>,,,,,False,0.2,False,0.49999999999999784
+90,<20080918224037.421CA3A6978@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+91,<20080918224037.3A4BD3A695A@core3.amsl.com>,,,,,False,-0.0,False,0.49999999999999784
+92,<20080919050418.01FFB3A688A@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+93,<20080919050417.EE8E33A67F4@core3.amsl.com>,,,,,False,-0.0,False,0.49999999999999784
+94,<20081002221659.98E303A69B2@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+95,<20081002221659.921DB3A6994@core3.amsl.com>,,,,,False,-0.0,False,0.49999999999999784
+96,<20081003150833.3D80528C247@core3.amsl.com>,,,,,False,2.3,False,0.006803068167124697
+97,<20081003150833.432D028C28A@core3.amsl.com>,,,,,False,2.3,False,0.006803068167124697
+98,<20081016231140.509603A6806@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+99,<20081016231140.4C9E93A67B3@core3.amsl.com>,,,,,False,-0.0,False,0.49999999999999784
+100,<20081030223113.881BA28C1A0@core3.amsl.com>,,,,,False,0.0,False,0.49999999999999784
+101,<20081030223113.90FC428C1A1@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+102,<20081126222836.101E03A6A32@core3.amsl.com>,,,,,False,-0.0,False,0.49999999999999784
+103,<20081126222836.168D43A6A39@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+104,<20081201141708.CC7673A6A88@core3.amsl.com>,,,,,False,-0.0,False,0.49999999999999784
+105,<20081201141708.D04733A6A49@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+106,<20081204225927.9EB5B3A6874@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+107,<20081204225927.951E03A685C@core3.amsl.com>,,,,,False,0.0,False,0.49999999999999784
+108,<20081211230621.C899E28C0E5@core3.amsl.com>,,,,,False,0.0,False,0.49999999999999784
+109,<20081211230621.CFCD63A6778@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+110,<20090102171946.3A6E23A6937@core3.amsl.com>,,,,,False,0.0,False,0.49999999999999784
+111,<20090102171946.424413A6825@core3.amsl.com>,,,,,False,-1.0,False,0.5247436434332635
+112,<20090108230453.750193A67F8@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+113,<20090108230453.732EE3A6A47@core3.amsl.com>,,,,,False,0.0,False,0.49999999999999784
+114,<20090122224024.750973A6828@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+115,<20090122224024.6E0483A68B2@core3.amsl.com>,,,,,False,0.7,False,0.03481168340193519
+116,<20090123145825.61CA33A6ABF@core3.amsl.com>,,,,,False,-1.0,False,0.49999999999999784
+117,<20090123145825.5B50128C1A7@core3.amsl.com>,,,,,False,0.7,False,0.03481168340193519
+118,<20090205235453.97D053A6AE6@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+119,<20090205235453.9BB2E3A6889@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+120,<20090220003840.EF1AB3A68D4@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+121,<20090220003840.E181A3A6844@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+122,<20090306000427.92C6E28C1F6@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+123,<20090306000427.94A5A3A63D2@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+124,<20090402215410.3E4C73A6B92@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+125,<20090402215410.348913A6950@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+126,<20090416212908.9905B3A6946@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+127,<20090416212908.9129C3A69B4@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+128,<20090430223422.B545528C0D9@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+129,<20090430223422.BF26C3A6EEC@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+130,<20090514231337.487E13A7030@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+131,<20090514231337.4D76828C108@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+132,<20090528222257.808E63A6DB3@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+133,<20090528222257.876833A6E0D@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+134,<20090625224100.AF9733A6A43@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+135,<20090625224100.B578428C0E7@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+136,<20090709221406.E10183A6D42@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+137,<20090709221406.EA3143A6D46@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+138,<20090820222013.7398F3A6AC4@core3.amsl.com>,,,,,False,1.0,False,0.006803068167124697
+139,<20090820222013.786CE3A69F0@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+140,<20090821223302.A94743A6B9F@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+141,<20090821223302.B10B23A6C72@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+142,<20090821231718.059D53A6A1D@core3.amsl.com>,,,,,False,1.0,False,0.006803068167124697
+143,<20090821231718.0A7BB3A68AD@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+144,<20090903204708.1E0903A693E@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+145,<20090903204708.186213A693D@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+146,<20090917221223.AB7123A69BC@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+147,<20090917221223.A8B183A6A18@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+148,<20091001215328.760893A6857@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+149,<20091001215328.711893A6861@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+150,<20091015220246.5373C28C0E8@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+151,<20091015220246.502CE3A68C9@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+152,<20091113002115.4CF7528C10A@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+153,<20091113002115.4638228C0FA@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+154,<20091127230312.DEA433A67A1@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+155,<20091127230312.D4C273A67C0@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+156,<20091210232951.EC7D53A67C0@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+157,<20091210232951.E0BCB3A67B0@core3.amsl.com>,,,,,False,1.0,False,0.49999999999999784
+158,<98276460-4E8D-4150-801E-E47518342E89@ietf.org>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+159,<20100114231155.DB9453A6A09@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+160,<20100128232511.34DEA3A69AC@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+161,<20100211232324.2A71A3A6E17@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+162,<20100225232039.4DE5A28C444@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+163,<20100304231128.631653A8CC9@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+164,<20100401222605.675F53A6960@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+165,<20100416013234.3C38E3A6A70@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+166,<20100503190408.6495C28C18A@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+167,<20100513221145.2B8873A6D3E@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+168,<20100527214550.A66FB3A6999@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+169,<20100610220615.6F5483A67EC@core3.amsl.com>,,,,,False,-0.8,False,0.006803068167124697
+170,<20100624222354.671233A684E@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+171,<20100708221655.44ED43A68FA@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+172,<20100805225422.CC6F93A697A@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+173,<20100819222527.C46A63A69FD@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+174,<20100902214745.8D6893A69B8@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+175,<20100916230321.239D03A69D6@core3.amsl.com>,,,,,False,-0.8,False,0.006803068167124697
+176,<20100930221929.687473A6C53@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+177,<20101014230432.0B5EF3A6AF5@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+178,<20101021223621.346643A65A5@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+179,<20101111235522.AFAD43A6781@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+180,<20101125233337.8E2883A6A79@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+181,<20101209230841.8846E28C118@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+182,<20101230231259.698C63A6870@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+183,<20110113225354.B4BE128B23E@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+184,<20110210231801.C789D3A6A63@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+185,<20110225000716.B7E7C3A68B0@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+186,<20110310232142.754833A69B6@core3.amsl.com>,,,,,False,-0.8,False,0.006803068167124697
+187,<20110407222640.CD3C228C0D8@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+188,<20110421222445.20608E065C@ietfc.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+189,<20110505230058.DAC66E069D@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+190,<20110519215731.56131E0699@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+191,<20110602222750.EAEEFE071A@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+192,<20110616231055.8EEBB11E80E6@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+193,<20110623223938.8DDE311E8084@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+194,<20110707213150.EA47721F8811@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+195,<20110804225031.E903821F8596@ietfa.amsl.com>,,,,,False,-0.8,False,0.006803068167124697
+196,<20110818221237.82B7821F877B@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+197,<20110901224236.091E321F9761@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+198,<20110915211501.9069D21F8ADE@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+199,<20110929224429.C445F21F8BAC@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+200,<20111013220402.4BFBB21F8BA0@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+201,<20111027223935.DD7EE21F84AB@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+202,<20111125002217.5014421F8C0F@ietfa.amsl.com>,,,,,False,-0.0,False,0.49999999999999784
+203,<20120112230939.7BC6821F8570@ietfa.amsl.com>,,,,,False,-0.8,False,0.006803068167124697
+204,<20120126231720.E115121F84EB@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+205,<20120209231714.C347521F85D2@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+206,<20120223230627.A7BE421E8018@ietfa.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+207,<20120308230416.4961.42246.idtracker@ietfa.amsl.com>,NO,-101.852,,"No, score=-101.852 tagged_above=-999 required=5 tests=[AWL=-0.649, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+208,<20120405220651.6682.18300.idtracker@ietfa.amsl.com>,NO,-102.28,,"No, score=-102.28 tagged_above=-999 required=5 tests=[AWL=-0.281, BAYES_00=-2.599, J_CHICKENPOX_14=0.6, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+209,<20120419220212.6285.20839.idtracker@ietfa.amsl.com>,NO,-102.441,,"No, score=-102.441 tagged_above=-999 required=5 tests=[AWL=0.158, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.5247436434332635
+210,<20120503223157.19912.14908.idtracker@ietfa.amsl.com>,NO,-101.827,,"No, score=-101.827 tagged_above=-999 required=5 tests=[AWL=-0.624, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+211,<20120517222111.9850.6160.idtracker@ietfa.amsl.com>,NO,-102.134,,"No, score=-102.134 tagged_above=-999 required=5 tests=[AWL=-0.135, BAYES_00=-2.599, J_CHICKENPOX_57=0.6, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+212,<20120531224724.24053.38089.idtracker@ietfa.amsl.com>,NO,-102.434,,"No, score=-102.434 tagged_above=-999 required=5 tests=[AWL=0.165, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+213,<20120614224042.3722.61253.idtracker@ietfa.amsl.com>,NO,-102.496,,"No, score=-102.496 tagged_above=-999 required=5 tests=[AWL=0.103, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+214,<20120628220918.29220.55132.idtracker@ietfa.amsl.com>,NO,-102.531,,"No, score=-102.531 tagged_above=-999 required=5 tests=[AWL=0.068, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+215,<20120712224354.13043.7504.idtracker@ietfa.amsl.com>,NO,-102.558,,"No, score=-102.558 tagged_above=-999 required=5 tests=[AWL=0.041, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+216,<20120809225047.30809.14914.idtracker@ietfa.amsl.com>,NO,-102.528,,"No, score=-102.528 tagged_above=-999 required=5 tests=[AWL=0.071, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+217,<20120823220332.751.79814.idtracker@ietfa.amsl.com>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[AWL=0.000, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+218,<20120920221213.28653.10040.idtracker@ietfa.amsl.com>,NO,-102.531,,"No, score=-102.531 tagged_above=-999 required=5 tests=[AWL=0.068, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+219,<20121004215637.3452.17430.idtracker@ietfa.amsl.com>,NO,-102.501,,"No, score=-102.501 tagged_above=-999 required=5 tests=[AWL=0.098, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+220,<20121019000936.21588.41196.idtracker@ietfa.amsl.com>,NO,-102.531,,"No, score=-102.531 tagged_above=-999 required=5 tests=[AWL=0.068, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+221,<20121108231217.12473.66688.idtracker@ietfa.amsl.com>,NO,-102.564,,"No, score=-102.564 tagged_above=-999 required=5 tests=[AWL=0.035, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+222,<20121123030716.19357.15203.idtracker@ietfa.amsl.com>,NO,-101.849,,"No, score=-101.849 tagged_above=-999 required=5 tests=[AWL=-0.646, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+223,<20121206235355.8615.82452.idtracker@ietfa.amsl.com>,NO,-102.194,,"No, score=-102.194 tagged_above=-999 required=5 tests=[AWL=-0.195, BAYES_00=-2.599, J_CHICKENPOX_14=0.6, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+224,<20121214121653.30833.7485.idtracker@ietfa.amsl.com>,NO,-102.466,,"No, score=-102.466 tagged_above=-999 required=5 tests=[AWL=0.133, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+225,<20130103234633.9163.94191.idtracker@ietfa.amsl.com>,NO,-100.813,,"No, score=-100.813 tagged_above=-999 required=5 tests=[AWL=-0.210, BAYES_00=-2.599, J_CHICKENPOX_46=0.6, MIME_QP_LONG_LINE=1.396, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+226,<20130117233329.13942.52486.idtracker@ietfa.amsl.com>,NO,-102.464,,"No, score=-102.464 tagged_above=-999 required=5 tests=[AWL=0.135, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+227,<20130131222822.3478.48185.idtracker@ietfa.amsl.com>,NO,-102.52,,"No, score=-102.52 tagged_above=-999 required=5 tests=[AWL=0.079, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+228,<20130215001805.25312.54571.idtracker@ietfa.amsl.com>,NO,-102.533,,"No, score=-102.533 tagged_above=-999 required=5 tests=[AWL=0.066, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+229,<20130222144423.31635.38700.idtracker@ietfa.amsl.com>,NO,-102.538,,"No, score=-102.538 tagged_above=-999 required=5 tests=[AWL=0.061, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+230,<20130321212609.30536.78230.idtracker@ietfa.amsl.com>,NO,-102.398,,"No, score=-102.398 tagged_above=-999 required=5 tests=[AWL=0.202, BAYES_00=-2.599, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+231,<20130404211034.5344.58207.idtracker@ietfa.amsl.com>,NO,-102.525,,"No, score=-102.525 tagged_above=-999 required=5 tests=[AWL=0.075, BAYES_00=-2.599, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+232,<20130418220652.8672.81414.idtracker@ietfa.amsl.com>,NO,-102.467,,"No, score=-102.467 tagged_above=-999 required=5 tests=[AWL=0.133, BAYES_00=-2.599, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+233,<20130509231058.24043.26818.idtracker@ietfa.amsl.com>,NO,-101.839,,"No, score=-101.839 tagged_above=-999 required=5 tests=[AWL=-0.634, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+234,<20130523224002.2642.11943.idtracker@ietfa.amsl.com>,NO,-102.357,,"No, score=-102.357 tagged_above=-999 required=5 tests=[AWL=0.243, BAYES_00=-2.599, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+235,<20130621155716.11678.21327.idtracker@ietfa.amsl.com>,NO,-101.772,,"No, score=-101.772 tagged_above=-999 required=5 tests=[AWL=-0.568, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.5231955227565752
+236,<20130704215858.3437.65849.idtracker@ietfa.amsl.com>,NO,-101.776,,"No, score=-101.776 tagged_above=-999 required=5 tests=[AWL=-0.572, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.5231955227565752
+237,<20130712135629.13078.65331.idtracker@ietfa.amsl.com>,NO,-101.791,,"No, score=-101.791 tagged_above=-999 required=5 tests=[AWL=-0.587, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+238,<20130822230140.29008.44036.idtracker@ietfa.amsl.com>,NO,-102.472,,"No, score=-102.472 tagged_above=-999 required=5 tests=[AWL=0.128, BAYES_00=-2.599, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+239,<20130905220909.26812.39202.idtracker@ietfa.amsl.com>,NO,-102.495,,"No, score=-102.495 tagged_above=-999 required=5 tests=[AWL=0.105, BAYES_00=-2.599, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+240,<20130919214910.8601.13514.idtracker@ietfa.amsl.com>,NO,-102.504,,"No, score=-102.504 tagged_above=-999 required=5 tests=[AWL=0.096, BAYES_00=-2.599, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+241,<20131003222226.30291.40486.idtracker@ietfa.amsl.com>,NO,-101.663,,"No, score=-101.663 tagged_above=-999 required=5 tests=[AWL=-0.459, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+242,<20131017225859.32568.90502.idtracker@ietfa.amsl.com>,NO,-101.749,,"No, score=-101.749 tagged_above=-999 required=5 tests=[AWL=-0.545, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+243,<20131114230329.16565.11105.idtracker@ietfa.amsl.com>,NO,-101.775,,"No, score=-101.775 tagged_above=-999 required=5 tests=[AWL=-0.571, BAYES_00=-2.599, MIME_QP_LONG_LINE=1.396, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+244,<20131128221955.8173.22113.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+245,<20131212234322.18980.67636.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+246,<20140103001753.12434.6098.idtracker@ietfa.amsl.com>,NO,1.4,*,"No, score=1.4 tagged_above=-999 required=5 tests=[BAYES_50=0.8, J_CHICKENPOX_37=0.6] autolearn=no",False,-2.0,False,0.5720890902329775
+247,<20140117000150.30143.12438.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.5720890902329775
+248,<20140130234822.4124.16034.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=unavailable",False,-2.0,False,0.5720890902329775
+249,<20140213233357.15870.40506.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.5720890902329775
+250,<20140320224110.21951.63897.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+251,<20140403222139.25928.71986.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+252,<20140417220347.30384.65100.idtracker@ietfa.amsl.com>,NO,0.4,,"No, score=0.4 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, MANGLED_TOOL=2.3] autolearn=no",False,-2.0,False,0.49999999999999784
+253,<20140522225006.13486.44271.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+254,<20140619223558.21435.31164.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+255,<20140703233246.27316.21474.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+256,<20140731221911.6264.53650.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+257,<20140814214705.29639.95573.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+258,<20140828215924.1678.92853.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+259,<20140911211704.7607.1239.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+260,<20140925225121.20461.84011.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.5231955227565752
+261,<20141023222638.21825.36401.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.6328552385253586
+262,<20141119030803.26969.25789.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+263,<20141127223524.1846.32289.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+264,<20141212000658.28151.56283.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+265,<20150101231048.14356.70806.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+266,<20150115233625.2873.57644.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+267,<20150129232100.11565.62686.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+268,<20150213004713.9897.79289.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+269,<20150226232758.20489.35990.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+270,<20150402221900.27185.30951.idtracker@ietfa.amsl.com>,NO,-101.3,,"No, score=-101.3 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, J_CHICKENPOX_12=0.6, USER_IN_WHITELIST=-100] autolearn=no",False,-2.0,False,0.49999999999999784
+271,<20150416215424.29267.46163.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+272,<20150508000023.7614.88956.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+273,<20150522045100.5700.21049.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+274,<20150604221742.2657.60859.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+275,<20150618213451.18249.57205.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+276,<20150703000434.5053.42527.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+277,<20150730231515.11973.32632.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+278,<20150813230909.6398.1082.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+279,<20150827225146.19871.19339.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+280,<20150910223511.15233.23289.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+281,<20150925104036.25389.7558.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+282,<20151008215655.7821.13013.idtracker@ietfa.amsl.com>,NO,-101.9,,"No, score=-101.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, USER_IN_WHITELIST=-100] autolearn=ham",False,-2.0,False,0.49999999999999784
+283,<20151113004144.4128.69056.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.6328552385253586
+284,<20151126224809.8684.61376.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+285,<20151210233558.25331.326.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+286,<20151231230125.12230.49161.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+287,<20160114231220.24709.45272.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+288,<20160129001649.10722.9588.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+289,<20160212144150.10088.68240.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+290,<20160225230800.7051.29220.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+291,<20160311010829.4946.58522.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+292,<20160415000549.6969.56259.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+293,<20160428232247.23579.47019.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+294,<20160513004418.31649.76505.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+295,<20160526224141.14579.52046.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+296,<20160609224615.16741.19376.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+297,<20160623231743.12617.66067.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+298,<20160701100523.24577.95535.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+299,<20160728221148.24709.50658.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+300,<147096174502.21336.9033918547065966466.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+301,<147216387240.32404.2766462034739614019.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+302,<147337147824.21985.1258083638153148335.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+303,<147458448052.22506.15777842999750384827.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+304,<147587528350.8923.12897917928130773156.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+305,<147700003834.20522.9127388629549711881.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+306,<147766253275.24979.1738149573512113841.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.5247436434332635
+307,<148002731524.2483.11281943225962354711.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+308,<148126445558.6971.15281468501055540102.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+309,<148304795543.30234.338697984334981603.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+310,<148426021638.2903.2403827749207971033.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+311,<148547342376.26955.5800628253682696619.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+312,<148668873257.8146.14980049899746182722.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+313,<148789687430.21108.7950738450735554722.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+314,<148911377436.5718.6274005758397571079.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+315,<149151774945.22016.1098221648261502604.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+316,<149273081996.22236.7691287607880861996.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+317,<149393999522.6819.9788631609855162560.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+318,<149514698300.6715.12402918760449833333.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+319,<149635501484.31762.8098983206382419034.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+320,<149756627826.11112.3053322899665039108.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+321,<149877874658.4634.1177118098164077681.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+322,<150119391631.25315.9586305934199679389.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+323,<150240568582.8468.11933420751782312629.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+324,<150361352033.19722.9971984149628856972.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+325,<150483132411.7896.16906770991059212947.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+326,<150603283521.16551.7719681106524121767.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+327,<150724168651.3162.7854568618510505488.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+328,<150845608095.26794.79424759624097792.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+329,<151148200230.9045.11380625544070558257.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+330,<151510792116.14723.11149574733585453766.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+331,<151631751692.27067.1984619618241930051.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+332,<151753009230.25629.5088088623609184317.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+333,<151873555903.4997.4642113586278512335.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+334,<151995327701.15771.7386608470022003857.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+335,<152237519714.20406.3853712714456132690.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+336,<152357966354.26362.5300817759827233788.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+337,<152538606495.11713.12240019762131495500.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+338,<152659886471.1659.2457485675027768060.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+339,<152780486325.6098.1239783078628238584.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+340,<152901418115.26605.897095588567591716.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+341,<153022343587.18517.16160804142812146056.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+342,<153264488226.24677.11725387865814534398.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.6555534642531284
+343,<153385352337.28996.14405616864531515751.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+344,<153506199270.11982.1557333225759371304.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+345,<153627562208.11633.11016412492202422607.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+346,<153753730218.7376.10312536255235923967.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+347,<153869122869.4541.14335032006451050578.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+348,<153990035927.22298.12534861898297214455.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+349,<154231946899.10155.8799615019626437689.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+350,<154353263964.25875.11346558498787246544.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+351,<154474212598.32096.5163426815486533271.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+352,<154655676961.29561.8569521990460876424.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+353,<154776553606.10473.16304108090902038564.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+354,<154897566064.9948.4882419583294555863.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+355,<155018546197.26611.5003264105650309575.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+356,<155139506475.28659.5369595375551478685.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+357,<155205527335.3269.2228593343953984162.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+358,<155441878083.30979.886126034196249567.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+359,<155622921110.15078.4117665823557587986.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+360,<155740914818.24656.13055055581298199636.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+361,<155743928173.24716.4227165614806676392.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+362,<155864577604.8664.3063656689273555774.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+363,<155864898428.8709.5966579726237426223.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+364,<155985874881.1559.4447318087353757708.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+365,<155985887275.1545.6231588940235350285.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+366,<156103875409.3043.4046152260028213697.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+367,<156106806121.12416.1822948559534132544.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+368,<156223913370.12060.5014696215216059173.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+369,<156227770091.12387.4673351670012783240.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+370,<156466583625.19212.12264170376541787423.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+371,<156469688258.19343.5884420370350083411.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+372,<156587641783.15799.1849562714972229921.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+373,<156590675911.15885.941391823489953552.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+374,<156708510506.21077.11965642193571767764.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+375,<156712096732.12397.353561431773029831.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+376,<156829413113.16489.16990377117777724988.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+377,<156832574417.16456.11029053723365975696.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+378,<CAHw9_i+h_g2hAy3qbTPePAUADiu4NL7W7kMKc5CcjiNp1U5q-g@mail.gmail.com>,NO,-1.889,,"No, score=-1.889 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001, SPF_PASS=-0.001, T_FILL_THIS_FORM_SHORT=0.01, URIBL_BLOCKED=0.001] autolearn=unavailable autolearn_force=no",False,-0.9,False,0.03481168340193519
+379,<156950469573.6077.5151813435254431864.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+380,<156953537064.10491.12604879285057107350.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+381,<157071479940.20381.14211936399553669824.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+382,<157074513720.20455.8864534550618639860.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+383,<157192441136.11404.4046409459927887316.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+384,<157195462186.11531.9074999615667290842.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+385,<157495845260.5550.5367704321976309260.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+386,<157500572070.5764.12549620557888290228.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+387,<157616115054.20911.1704883443425627558.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+388,<157619210102.20989.7623506846338848055.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.6328552385253586
+389,<157798408784.6384.13591083561862241858.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+390,<157800588715.6393.11383333937664800994.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+391,<157918287643.26266.868117294250756837.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+392,<157921596459.26224.9923767575188213485.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+393,<158039257695.10239.14365292198821745093.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+394,<158042536626.10194.9435912237822813841.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+395,<158160414313.20564.8591682791357631710.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+396,<158163487716.20665.6373476587931061862.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+397,<158281222916.2108.13313322553478745645.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+398,<158290990099.22316.2437032903277761653@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+399,<158341878594.14666.401823714898151242@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+400,<158351478644.2221.18055488576911281548@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+401,<158404127111.18275.7828047007554890736@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+402,<158411468205.3473.5004979395032284838@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+403,<158594903552.23497.12592308283282139585@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+404,<158594925627.23409.4391971861929115277@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+405,<158713067982.6578.3278639056792096661@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+406,<158716090463.20192.15202296054807970963@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+407,<158826351911.16745.10291462578249105550@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+408,<158828409937.18634.5014535056361403157@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+409,<158948775734.27778.7385386409935353374@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+410,<158949376335.16860.3283962324402246016@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+411,<159127697492.2579.7660392243724864026@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+412,<159131202145.25356.6420349599162001286@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+413,<159248708444.28418.12673167677398039017@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+414,<159251770070.5548.8296002278410782110@ietfa.amsl.com>,,,,,False,-2.0,False,0.5796512578270125
+415,<159372733482.5253.6667452162613677335@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+416,<159431003601.29808.6962747343255260742@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+417,<159439777527.16950.9944875002923323951@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+418,<159673017281.20028.13632097888169555423@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+419,<159675151615.29370.7869747592118427183@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+420,<159796089982.22224.5269784632084814930@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+421,<159799176424.22308.10050138993778899297@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+422,<159914195189.30419.6124115053620889886@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+423,<159917054281.17089.11753862850210871468@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+424,<160035061931.4982.15044996411240821883@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+425,<160038011258.17328.11616217647359628203@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+426,<160156570650.24001.9105119499795056556@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+427,<160158987471.15573.10071798807586562713@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+428,<160278136698.23428.7936765216963512022@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+429,<160279954212.796.16572055258667388194@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+430,<160399279096.7904.8821985564935001676@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+431,<160400897652.1009.9441373409105687899@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+432,<160640540805.15782.9433767359177844454@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+433,<160643414120.18198.15881606799989986320@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+434,<160761091437.27182.4161044118846048601@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+435,<160764149807.20313.5867852970638242115@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+436,<160943503145.11960.1960606802132551293@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+437,<160945587670.23287.10934287361120693079@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+438,<161063531635.21693.10040908128242387009@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+439,<161066531492.21996.6532031579009580910@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+440,<161185183289.8255.13283484153065100013@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+441,<161187495442.1954.6369367257580215990@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+442,<161306965651.578.13290698963286742503@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+443,<161308461453.31685.18386984729674056538@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+444,<161366993442.23907.9867905689717790210@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+445,<161375596796.32021.3987771027398963605@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+446,<161608197739.2780.13275334516811623827@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+447,<161730828195.14263.8363605719448323811@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+448,<161731462063.19865.1334721297236317051@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+449,<161851399329.17552.12390000043104028679@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+450,<161852427403.12150.7220736210717276226@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784

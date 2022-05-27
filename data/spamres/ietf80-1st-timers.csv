@@ -1,0 +1,6 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<D226F978-9138-407A-A9F5-C99EC2ACE63C@ietf.org>,NO,-103.599,,"No, score=-103.599 tagged_above=-999 required=5 tests=[AWL=1.000, BAYES_00=-2.599, GB_I_INVITATION=-2, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+2,<FCF2D147-933F-4630-B1F6-2659E245855A@ericsson.com>,NO,-5.488,,"No, score=-5.488 tagged_above=-999 required=5 tests=[AWL=3.111, BAYES_00=-2.599, GB_I_INVITATION=-2, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.03481168340193519
+3,<B92DEE3F-C2C1-4317-96C4-C1294ED4CA3C@amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.22737794128918348
+4,,NO,-1.71,,"No, score=-1.71 tagged_above=-999 required=5 tests=[AWL=-0.739, BAYES_00=-2.599, FS_WE_WANT=1.629]",False,-2.0,False,0.669270692071739
+5,,NO,-2.485,,"No, score=-2.485 tagged_above=-999 required=5 tests=[AWL=0.114, BAYES_00=-2.599]",False,-2.0,False,0.669270692071739

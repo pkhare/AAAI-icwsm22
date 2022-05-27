@@ -1,0 +1,4 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<20150325124030.6966.91910.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
+2,<55144FC8.6090409@gmail.com>,NO,-2,,"No, score=-2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9,  DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, SPF_PASS=-0.001] autolearn=ham",False,-1.9,False,0.49999999999999784
+3,<55E654A9.3020700@bbiw.net>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3] autolearn=ham",False,-2.0,False,0.49999999999999784

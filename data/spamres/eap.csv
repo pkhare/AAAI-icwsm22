@@ -1,0 +1,3 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<0aed01c9de9f$6cb24ac0$4616e040$@yegin>,NO,-0.815,,"No, score=-0.815 tagged_above=-999 required=5 tests=[AWL=0.334, BAYES_00=-2.599, HTML_MESSAGE=0.001, MSGID_MULTIPLE_AT=1.449]",False,2.8,False,0.49999999999999784
+2,<4A1D15EE.8050905@deployingradius.com>,NO,-1.715,,"No, score=-1.715 tagged_above=-999 required=5 tests=[AWL=0.884, BAYES_00=-2.599]",False,-1.8,False,0.49999999999999784

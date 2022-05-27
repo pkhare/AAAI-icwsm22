@@ -1,0 +1,6 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<E1BAx4a-0004Zr-2d@optimus.ietf.org>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+2,<200510252345.j9PNjSL29280@boreas.isi.edu>,,-14.6 (--------------),,,False,-14.1,False,0.49999999999999784
+3,<200511010056.jA10uXL18783@boreas.isi.edu>,,-14.6 (--------------),,,False,-14.1,False,0.49999999999999784
+4,<200511050149.jA51nMM24526@boreas.isi.edu>,,-14.6 (--------------),,,False,-14.1,False,0.49999999999999784
+5,<085091CB2CA14E4B8B163FFC37C84E9D06FB73CB@zcarhxm0.corp.nortel.com>,,0.6 (/),,,False,0.0,False,0.09104101603020599

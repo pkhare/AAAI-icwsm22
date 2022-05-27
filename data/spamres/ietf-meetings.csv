@@ -1,0 +1,3 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<20180905131327.cidwbwi5pdw7sgh2@faui48f.informatik.uni-erlangen.de>,NO,-3.95,,"No, score=-3.95 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HEADER_FROM_DIFFERENT_DOMAINS=0.25, RCVD_IN_DNSWL_MED=-2.3] autolearn=ham autolearn_force=no",False,-0.8,False,0.49999999999999784
+2,<20181011082842.4il4gzxvgmiecxas@faui48f.informatik.uni-erlangen.de>,NO,-3.95,,"No, score=-3.95 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HEADER_FROM_DIFFERENT_DOMAINS=0.25, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.8,False,0.49999999999999784

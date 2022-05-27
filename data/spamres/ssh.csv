@@ -1,0 +1,48 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<Roam.SIMC.2.0.6.905940964.12704.erikg@ffm-home-1.germany>,,,,,False,0.8,False,0.5443878172410942
+2,<3.0.1.32.19980918201800.006b82a4@rzdspc1.informatik.uni-hamburg.de>,,,,,False,0.0,False,7.244369673802814e-05
+3,<199809222149.RAA23937@smtp.cert.org>,,,,,False,2.5,False,2.2088734899112318e-07
+4,<3608A5DE.5FBC22D2@fel.tno.nl>,,,,,False,1.8,True,0.997796521792821
+5,<199809260809.EAA06634@po1.cert.org>,,,,,False,0.9,False,0.710366877944523
+6,<199810091354.JAA27188@ietf.org>,,,,,False,-1.0,False,0.31853667704185223
+7,<36220531.52A144D6@sun.com>,,,,,False,1.0,False,0.00017967117574157644
+8,<E0zSkVg-00005X-00@ermine.ox.ac.uk>,,,,,False,0.8,True,0.9307705971610203
+9,<36222E98.9F9B9533@sun.com>,,,,,False,-0.0,False,0.7707825944409225
+10,<199810131831.OAA21336@smtp.cert.org>,,,,,False,2.5,False,1.3541563839895893e-09
+11,<Pine.GSO.3.96.981013114131.1250M-100000@archimedes.nasa.gov>,,,,,False,0.0,False,0.004065110525297791
+12,<Pine.3.89.9810151236.A20926-h200000@mallow.singnet.com.sg>,,,,,False,1.0,False,0.20031644462495554
+13,<Pine.NEB.4.02.9810142222060.9809-200000@corinne.cpio.org>,,,,,False,1.0,False,0.0005970863656239889
+14,<3625AB51.8F9D953C@sun.com>,,,,,False,-0.0,True,0.9970093795156442
+15,<v04011705b24d6e0248c0@[128.29.230.9]>,,,,,False,0.0,False,0.0003613406440653671
+16,<199810312042.OAA31179@revnet4.revnet.com>,,,,,False,0.8,True,0.9987755850962887
+17,<199810312050.OAA31552@revnet4.revnet.com>,,,,,False,0.8,True,0.9987755850962887
+18,<4.0.2.19981106112715.00ac7320@pop03.ca.us.ibm.net>,,,,,False,3.9,False,0.0006033050195576664
+19,<3647AAB6.7DED5421@lucent.com>,,,,,False,0.7,False,9.575875816794163e-10
+20,<199811111743.MAA11190@ietf.org>,,,,,False,1.5,False,7.080059697673104e-07
+21,<v04011701b27f8a17cd1d@[128.29.230.9]>,,,,,False,0.0,False,0.49999999999999784
+22,<199811232313.SAA05279@ietf.org>,,,,,False,-1.0,False,0.31853667704185223
+23,<bulk.26919.19981126224409@muggins.com>,,,,,False,0.0,True,0.9999999759153387
+24,<199812021627.QAA98684@out1.ibm.net>,,,,,True,6.4,False,1.26802138707245e-09
+25,<E1299C7C475BD1118FAD0000F830372E363A7F@stmail01.cubis.de>,,,,,False,-0.0,False,6.766100192573809e-06
+26,<199812231530.KAA00137@ietf.org>,,,,,False,-1.0,False,3.421348593416124e-12
+27,<Pine.GSO.3.96.981231085613.8709K-100000@archimedes.nasa.gov>,,,,,False,0.0,False,0.001767630907597741
+28,<1365618133.5165add55294e@eel.singnet.com.sg>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,0.0,False,0.007906952785927032
+29,<1368806087.519652c76acb7@discus.singnet.com.sg>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[BAYES_50=0.001]",False,4.0,False,0.030085414886780276
+30,<1370340436.51adbc54a3141@eel.singnet.com.sg>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,3.5,False,8.988598733687867e-06
+31,<f182e32d9aba5.5203a564@streamyx.com>,NO,4.075,****,"No, score=4.075 tagged_above=-999 required=5 tests=[BAYES_50=0.001, HELO_EQ_MY=0.35, HTML_MESSAGE=0.001, MISSING_SUBJECT=1.762, RCVD_IN_BL_SPAMCOP_NET=1.96, UPPERCASE_50_75=0.001]",False,4.5,False,0.12223759572246222
+32,<20130813011256.M69034@entermail.net>,NO,3.015,***,"No, score=3.015 tagged_above=-999 required=5 tests=[AWL=3.014, BAYES_50=0.001]",False,3.7,False,0.2850604072009961
+33,<20130817184849.M76830@entermail.net>,NO,-0.74,,"No, score=-0.74 tagged_above=-999 required=5 tests=[BAYES_20=-0.74]",False,3.7,False,0.008006073969062727
+34,<20130828135735.kqhcrd2aoks00800@webmail.unizar.es>,NO,-3.999,,"No, score=-3.999 tagged_above=-999 required=5 tests=[BAYES_50=0.001, RCVD_IN_DNSWL_MED=-4]",False,1.5,True,0.9999979848801778
+35,<bd9eac3ef699fa0e946119ab1c873751.squirrel@webmail.platinum.ca>,NO,3.334,***,"No, score=3.334 tagged_above=-999 required=5 tests=[BAYES_95=3, IP_NOT_FRIENDLY=0.334]",False,-1.0,False,0.7315186829769041
+36,<e7d32441b51546049e9959996920ed50@thebranch.com.sg>,NO,2.955,**,"No, score=2.955 tagged_above=-999 required=5 tests=[BAYES_50=0.001, RCVD_IN_BL_SPAMCOP_NET=1.96, RELAY_IS_203=0.994]",False,0.0,False,0.7995766312754957
+37,<1381014647.52509c77726fa@discus.singnet.com.sg>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[BAYES_50=0.001]",False,3.5,True,0.9999717537467869
+38,<1381838562.525d2ee29b925@discus.singnet.com.sg>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[BAYES_50=0.001]",False,4.8,True,0.9597573507485649
+39,<20131110100347.M79852@pubalibankbd.com>,NO,0.995,,"No, score=0.995 tagged_above=-999 required=5 tests=[BAYES_50=0.001, RELAY_IS_203=0.994]",True,6.0,False,0.8995479756213841
+40,<E6CD6BE0C90E764381E0304B9619414811C02311@mscc-server01.mscc.local>,NO,3.261,***,"No, score=3.261 tagged_above=-999 required=5 tests=[BAYES_50=0.8, HTML_MESSAGE=0.001, MISSING_HEADERS=1.021, RCVD_IN_BRBL_LASTEXT=1.449, T_RP_MATCHES_RCVD=-0.01] autolearn=no",False,2.5,True,0.9997373718024716
+41,<DB8B91BB24ABCB44AB55F928BE75DD5E3970F7@ITS-HCWNEM106.ds.vanderbilt.edu>,NO,4.46,****,"No, score=4.46 tagged_above=-999 required=5 tests=[BAYES_40=-0.001, HTML_MESSAGE=0.001, J_CHICKENPOX_62=0.6, RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_LOW=-0.7, UNRESOLVED_TEMPLATE=1.252] autolearn=no",False,-0.3,False,4.802124193168213e-08
+42,<CAH+F+Ftrq2ym_kSEFO0X9ESbNnqcCTK9nqH=5zqHVj6jZPnbQw@mail.gmail.com>,NO,1.001,*,"No, score=1.001 tagged_above=-999 required=5 tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLYTO=1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=no",False,3.6,True,0.9999984778838832
+43,<FBA037B28B17B240AEEA4CB0F32DBBDD0255F178C5@MBX26.stu.nus.edu.sg>,NO,0.158,,"No, score=0.158 tagged_above=-999 required=5 tests=[BAYES_40=-0.001, HTML_MESSAGE=0.001, IXHASH_X1=1.5, RCVD_IN_DNSWL_LOW=-0.7, RP_MATCHES_RCVD=-0.651, SPF_PASS=-0.001, T_FILL_THIS_FORM_SHORT=0.01] autolearn=no",False,1.5,False,0.19856084100452603
+44,<484460929.8561201.1401273433965.JavaMail.root@wested.org>,NO,0.147,,"No, score=0.147 tagged_above=-999 required=5 tests=[BAYES_50=0.8, RP_MATCHES_RCVD=-0.651, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham",False,0.0,False,1.1270069196371086e-09
+45,<62771443.8562088.1401273585710.JavaMail.root@wested.org>,NO,-2.553,,"No, score=-2.553 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RP_MATCHES_RCVD=-0.651, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham",False,0.0,False,1.1270069196371086e-09
+47,<53bcf8b6.058b420a.2834.fffffa10@mx.google.com>,NO,0.402,,"No, score=0.402 tagged_above=-999 required=5 tests=[BAYES_05=-0.5, DKIM_ADSP_CUSTOM_MED=0.001, FREEMAIL_FROM=0.001, NML_ADSP_CUSTOM_MED=0.9, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=no",False,0.5,False,0.798635836866055
+48,<3027ae6180b944d3aa7ee111d7ecd6a8@smtp.acplcpl.com>,NO,2.631,**,"No, score=2.631 tagged_above=-999 required=5 tests=[BAYES_50=0.8, HTML_MESSAGE=0.001, RCVD_IN_BL_SPAMCOP_NET=1.347, RCVD_IN_SBL=0.141, RELAY_IS_203=0.994, RP_MATCHES_RCVD=-0.651, SPF_PASS=-0.001] autolearn=no",False,1.3,True,0.9945720833224598

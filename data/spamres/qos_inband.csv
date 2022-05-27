@@ -1,0 +1,11 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<816DD9299957E547B5D758D7F977D6DC01179A3A@tayexc14.americas.cpqcorp.net>,,0.0 (/),,,False,0.3,False,0.01595151571336624
+2,,,0.0 (/),,,False,-2.0,False,0.15960297761042466
+3,<00cf01c735ee$4e4323e0$6501a8c0@eng17>,,0.0 (/),,,False,1.3,False,0.002786382303257127
+4,<816DD9299957E547B5D758D7F977D6DC0139A64E@tayexc14.americas.cpqcorp.net>,,0.0 (/),,,False,0.3,False,0.15960297761042466
+5,<1A5D7A2D-51A2-46FF-A7EC-4B1CBE28E506@nokia.com>,,0.0 (/),,,False,-2.0,False,0.016182055177790217
+6,<070d01c744e3$4de7f2a0$6501a8c0@eng17>,,0.0 (/),,,False,0.3,False,0.15960297761042466
+7,<45C06856.3060804@ericsson.com>,,0.0 (/),,,False,0.5,False,0.49999999999999784
+8,<F341B66C-DEA7-4DF5-8F0A-73029C0CC346@nokia.com>,,0.0 (/),,,False,-2.0,False,0.016182055177790217
+9,<BDA38860DCFD334EAEA905E44EE8E7EF6DD79D@G3W0067.americas.hpqcorp.net>,,0.0 (/),,,False,0.3,False,0.49999999999999784
+10,<45C1C6FC.6090205@ericsson.com>,,0.0 (/),,,False,0.5,False,0.49999999999999784

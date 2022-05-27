@@ -1,0 +1,5 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<c=US%a=_%p=msft%l=RED-68-MSG960213092214YB004B00@red-01-imc.itg.microsoft.com>,,,,,False,-0.0,False,5.436229907617202e-05
+2,<9602141514.AA16888@nissan.cc.iastate.edu>,,,,,False,0.0,False,3.8691900090275734e-08
+3,<v0212000ead47fdcf16ad@[132.236.199.117]>,,,,,False,0.2,False,9.45970557921183e-13
+4,<9602151350.AA01287@pooh.cc.iastate.edu>,,,,,False,-0.0,False,3.487848447984171e-10

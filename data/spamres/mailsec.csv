@@ -1,0 +1,5 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<159225414010.20572.15936256756428139294@ietfa.amsl.com>,,,,,False,-2.0,False,0.669270692071739
+2,<2841d94c-07c8-c90b-70f4-e74fca55eb5e@linuxmagic.com>,NO,-1.107,,"No, score=-1.107 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, NICE_REPLY_A=-0.001, RDNS_NONE=0.793, SPF_HELO_NONE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no autolearn_force=no",False,-0.8,False,0.49999999999999784
+3,<11c583d2-ef3a-e24e-5e32-98c2e6e66d86@linuxmagic.com>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, SPF_HELO_NONE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.8,False,0.669270692071739
+4,<70a175d5-c32b-9096-7203-996475054f48@dcrocker.net>,NO,-1.901,,"No, score=-1.901 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, NICE_REPLY_A=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784

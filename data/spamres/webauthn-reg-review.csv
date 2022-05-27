@@ -1,0 +1,3 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<159414081348.11271.6345276200288289005@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+2,<CH2PR00MB0678F025B540C0BBF2F92038F5660@CH2PR00MB0678.namprd00.prod.outlook.com>,NO,-2.1,,"No, score=-2.1 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIMWL_WL_HIGH=-0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, DKIM_VALID_EF=-0.1, HTML_MESSAGE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,0.4,False,0.49999999999999784

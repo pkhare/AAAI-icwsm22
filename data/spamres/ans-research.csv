@@ -1,0 +1,135 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<3E7DCCE7.2050903@iam.unibe.ch>,,,,,False,0.3,False,0.49999999999999784
+2,<20030327043801.GA23721@localhost>,,,,,False,-1.0,False,0.16605644023286953
+3,<Pine.SOL.4.33.0303311029120.23951-100000@cheetah.cs.ucla.edu>,,,,,False,-1.0,False,0.03813740723243072
+4,<5.1.1.5.2.20030331160135.02f33248@pop.itd.nrl.navy.mil>,,,,,False,0.3,False,0.03813740723243072
+5,<20030331220722.GA9407@localhost>,,,,,False,-1.0,False,0.49999999999999784
+6,<Pine.SOL.4.33.0303311515580.23951-100000@cheetah.cs.ucla.edu>,,,,,False,-1.0,False,0.03813740723243072
+7,<748C6D0A58C0F94CA63C198B6674697A0117877A@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.00747371667236491
+8,<748C6D0A58C0F94CA63C198B6674697A011789CA@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.49999999999999784
+9,<20030405153724.GA12200@localhost>,,,,,False,-1.0,False,0.49999999999999784
+10,<20030405154131.GA12252@localhost>,,,,,False,-1.0,False,0.16605644023286953
+11,<200304071856.h37IuZC11845@letters.cs.ucsb.edu>,,,,,False,-1.0,False,0.0033728715992302786
+12,<5.1.1.5.2.20030407162028.032dc5a0@pop.itd.nrl.navy.mil>,,,,,False,0.3,False,0.007789778709285686
+13,<3E91E265.693AA23B@mitre.org>,,,,,False,-1.0,False,0.49999999999999784
+14,<5.1.1.5.2.20030407163745.03370c80@pop.itd.nrl.navy.mil>,,,,,False,0.3,False,0.007833247761067946
+15,<6CD1FA3A-6951-11D7-8E6D-000393B4A8C0@cs.ucr.edu>,,,,"No, hits=-2.3 required=5.0 tests=IN_REP_TO,DOUBLE_CAPSWORD version=2.31",False,-1.0,False,0.49999999999999784
+16,<3E92912A.5090306@telecom.lth.se>,,,,,False,-1.0,False,0.49999999999999784
+17,<CC6742A6-69AC-11D7-BD1F-000A9575BD30@ncl.ac.uk>,,,,,False,-1.0,False,0.49999999999999784
+18,<20E55256-69AF-11D7-BD1F-000A9575BD30@ncl.ac.uk>,,,,,False,-1.0,False,0.49999999999999784
+19,,,,,,False,0.5,False,0.49999999999999784
+20,,,,,,False,0.5,False,0.49999999999999784
+21,<20030408121254.GA12240@localhost>,,,,,False,-1.0,False,0.49999999999999784
+22,<Pine.GSO.4.05.10304080743040.23136-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+23,<20030408124248.GC12240@localhost>,,,,,False,-1.0,False,0.16605644023286953
+24,<20030408122234.GB12240@localhost>,,,,,False,-1.0,False,0.49999999999999784
+25,<E992894E-69C1-11D7-BD1F-000A9575BD30@ncl.ac.uk>,,,,,False,-1.0,False,0.49999999999999784
+26,<20030408134353.GA12552@localhost>,,,,,False,-1.0,False,0.16605644023286953
+27,<3E94098E@webmail.ualberta.ca>,,,,,False,-1.0,False,0.49999999999999784
+28,<200304081611.h38GBeC06370@letters.cs.ucsb.edu>,,,,,False,-1.0,False,0.0002489317063992351
+29,<3E92F496.6175DEFE@earthlink.net>,,,,,False,-1.0,False,0.16605644023286953
+30,<D9223EB959A5D511A98F00508B68C20C13DC8F0E@orsmsx108.jf.intel.com>,,,,,False,-1.0,False,0.03813740723243072
+31,<200304082019.h38KJdC28602@letters.cs.ucsb.edu>,,,,,False,-1.0,False,0.49999999999999784
+32,<5.1.1.5.2.20030408165258.0294ac28@pop.itd.nrl.navy.mil>,,,,,False,0.3,False,0.0015608533068961316
+33,<748C6D0A58C0F94CA63C198B6674697A01178B67@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.0014280074691026489
+34,<8EABE7E2-6A58-11D7-BC43-000393B4A8C0@cs.ucr.edu>,,,,,False,2.6,False,0.15554026765218756
+35,<3E93CAC9.2BB821A@inrialpes.fr>,,,,,False,-1.0,False,0.0014280074691026489
+36,<3E93F6D9.3080302@telecom.lth.se>,,,,,False,-1.0,False,0.49999999999999784
+37,,,,,,False,0.5,False,0.49999999999999784
+38,<573D45B4-6A87-11D7-BD1F-000A9575BD30@ncl.ac.uk>,,,,,False,-1.0,False,0.362638437278437
+39,<5.1.1.5.2.20030409110951.02d07a38@pop.itd.nrl.navy.mil>,,,,,False,0.3,False,0.24455595106312453
+40,<E6EB4FCA-6ACB-11D7-B91B-000393414368@yahoo.com>,,,,,True,11.1,False,0.24455595106312453
+41,<3E94971C.EDDB051E@mitre.org>,,,,,False,-1.0,False,0.49999999999999784
+42,<5.1.1.5.2.20030409183154.014df620@pop.itd.nrl.navy.mil>,,,,,False,0.3,False,0.10176469831008732
+43,<3E952C80.4010106@telecom.lth.se>,,,,,False,-1.0,False,0.49999999999999784
+44,<748C6D0A58C0F94CA63C198B6674697A01178DAD@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.0014280074691026489
+45,<748C6D0A58C0F94CA63C198B6674697A01178DAF@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.03813740723243072
+46,<341C4BC4-6E36-11D7-BA8C-000393414368@yahoo.com>,,,,,True,11.1,False,0.362638437278437
+47,<07116D61-6E3B-11D7-BA8C-000393414368@yahoo.com>,,,,,True,11.1,False,0.49999999999999784
+48,<1054253509.24461.64.camel@yosemite.cs.ucsb.edu>,,,,,False,-1.0,False,0.49999999999999784
+49,<4A6359613D1AE645A362805BB11E05211808A6@engmail.adf.bham.ac.uk>,,,,,False,-1.0,False,0.49999999999999784
+50,<4ECB0B13-9C3E-11D7-9AA9-000393414368@yahoo.com>,,,,,True,11.1,False,0.016953354507083955
+51,<748C6D0A58C0F94CA63C198B6674697A0171914E@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.0014280074691026489
+52,<748C6D0A58C0F94CA63C198B6674697A017192C5@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.0014280074691026489
+53,<Pine.GSO.4.33.0306141507210.1574-100000@buckwheat.cis.udel.edu>,,,,"No, hits=-5.0 required=6.0 tests=DEPT_RCVD,EMAIL_ATTRIBUTION,IN_REP_TO,QUOTED_EMAIL_TEXT, SPAM_PHRASE_02_03,USER_AGENT_PINE version=2.43",False,-1.0,False,0.49999999999999784
+54,<20030701130451.18162.41133.Mailman@www1.ietf.org>,,,,,False,-2.0,False,5.275750879434816e-07
+55,<20030703223234.4508.90792.Mailman@www1.ietf.org>,,,,,False,-2.0,False,6.343837094686289e-05
+56,<20030801130153.29120.89213.Mailman@www1.ietf.org>,,,,,False,-2.0,False,6.343837094686289e-05
+57,<Pine.GSO.4.05.10308060842440.25094-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+58,<748C6D0A58C0F94CA63C198B6674697A01D79EB8@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.03813740723243072
+59,<748C6D0A58C0F94CA63C198B6674697A01D79EB9@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.0014280074691026489
+60,<20030901130200.21711.52275.Mailman@www1.ietf.org>,,,,,False,-2.0,False,6.343837094686289e-05
+61,<Pine.GSO.4.21.0309161429590.20356-100000@saguaro>,,,,,False,-1.0,False,0.00011999746380400343
+62,<3F68BC4C.8060007@earthlink.net>,,,,,False,-1.0,False,0.49999999999999784
+63,<Pine.GSO.4.05.10309201027440.20963-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+64,<3F6DD7CC.7070008@earthlink.net>,,,,,False,0.7,False,0.5215971944940272
+65,<3F7109E4.5622F711@bbn.com>,,,,,False,-1.0,False,0.16605644023286953
+66,<ADEFC40D-EE3D-11D7-A4AA-000393B4A8C0@cs.ucr.edu>,,,,,False,2.6,False,0.07970566712219727
+67,<3F720AE5.EEE5D1BE@bbn.com>,,,,,False,-1.0,False,0.49999999999999784
+68,<1064529222.14752.30.camel@yosemite.cs.ucsb.edu>,,,,,False,-1.0,False,0.03813740723243072
+69,<004001c38448$0b6d2580$1f88fd80@Palio>,,,,,False,-0.6,False,0.49999999999999784
+70,<3F74E978.283377AE@bbn.com>,,,,,False,-1.0,False,0.49999999999999784
+71,<005301c386a7$8ced05b0$1f88fd80@Palio>,,,,,False,-0.6,False,0.49999999999999784
+72,<3F7871C2.BA9B9C10@earthlink.net>,,,,,False,0.3,False,0.007789778709285686
+73,<3F78C56A.D53E1D1@bbn.com>,,,,,False,-1.0,False,0.49999999999999784
+74,<3F78C765.CBD06294@bbn.com>,,,,,False,-1.0,False,0.16605644023286953
+75,<000a01c38784$e36fe5a0$1f88fd80@Palio>,,,,,False,-0.6,False,0.16605644023286953
+76,<3F7C22F6.2010605@earthlink.net>,,,,,False,-1.0,False,0.522237809964356
+77,<3F7C87EC.9E2BEA72@bbn.com>,,,,,False,-1.0,False,0.16605644023286953
+78,<748C6D0A58C0F94CA63C198B6674697A0255378E@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.00747371667236491
+79,<3F7D82F5.1080903@earthlink.net>,,,,,False,0.7,False,0.49999999999999784
+80,<26BDFAFFB541B047B24179002EBE6D2714FFCE@orsmsx410.jf.intel.com>,,,,,False,-2.0,False,0.03813740723243072
+81,<748C6D0A58C0F94CA63C198B6674697A02553C41@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.0014280074691026489
+82,<Pine.GSO.4.05.10310081844010.168-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+83,<26BDFAFFB541B047B24179002EBE6D2715005B@orsmsx410.jf.intel.com>,,,,,False,-2.0,False,0.03813740723243072
+84,<Pine.GSO.4.05.10310200818310.5860-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+85,<Pine.GSO.4.05.10310201410220.7258-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+86,<Pine.GSO.4.05.10310201413160.7258-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+87,<1067453230.32664.49.camel@yosemite.cs.ucsb.edu>,,,,,False,-1.0,False,0.03813740723243072
+88,<1067457505.32664.68.camel@yosemite.cs.ucsb.edu>,,,,,False,-1.0,True,0.9909515307154017
+89,<Pine.GSO.4.21.0311071046290.23200-100000@ella>,,,,,False,-1.0,False,0.0007519911838776208
+90,<9E3BA3946476AD4EB94672712B12A85F6BCB@ftmail.lab.flarion.com>,,,,,False,-1.0,False,0.0014280074691026489
+91,<200312011651.31734.Bozidar.Radunovic@epfl.ch>,,,,,False,-1.0,False,0.49999999999999784
+92,<Pine.GSO.4.05.10312011130540.29017-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+93,<1070587304.13966.25.camel@yosemite.cs.ucsb.edu>,,,,,False,-1.0,True,0.9909515307154017
+94,<008401c3bcce$57c6b130$f608a8c0@ylfoo>,,,,,False,-1.0,False,0.49999999999999784
+95,<Pine.GSO.4.05.10312080909350.3217-100000@verdi.ece.cornell.edu>,,,,,False,-1.0,False,0.49999999999999784
+96,<B7D63DF79E7D1847946668F312592F905748EF@dcs-staff1.cs.uiuc.edu>,,,,,False,-2.0,False,0.49999999999999784
+97,<20040109175931.9164.31894.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+98,<9E3BA3946476AD4EB94672712B12A85FC8971A@ftmail.lab.flarion.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+99,<1075326351.12624.81.camel@yosemite.cs.ucsb.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+100,<20040201141513.1364.14624.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+101,<9E3BA3946476AD4EB94672712B12A85FC89AB9@ftmail.lab.flarion.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+102,<1075844405.24420.349.camel@yosemite.cs.ucsb.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+103,<26BDFAFFB541B047B24179002EBE6D278CB1BC@orsmsx410.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+104,<ED4BA6FF-5698-11D8-A6C9-000393B4A8C0@cs.ucr.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+105,<9E3BA3946476AD4EB94672712B12A85FC89AC8@ftmail.lab.flarion.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.326959085371362
+106,,,,,"No, hits=2.0 required=5.0 tests=DATE_IN_FUTURE_12_24  autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+107,,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+108,<9E3BA3946476AD4EB94672712B12A85FC89B59@ftmail.lab.flarion.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+109,<C3F95764-5766-11D8-9657-000393CC2112@acm.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.8035799187328447
+110,,,,,"No, hits=0.5 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+111,,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+112,<2ABAB0A9-5D46-11D8-9933-000A9575BD30@ncl.ac.uk>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+113,<200402171857.i1HIvKn28498@zinger.cs.cornell.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+114,,,,,"No, hits=2.0 required=5.0 tests=AWL,DATE_IN_FUTURE_12_24  autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+115,<4039F054.10206@informatik.uni-ulm.de>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.6,True,0.9661532324377203
+116,<200402171657.i1HGvEV15254@zinger.cs.cornell.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+117,<20040301141605.27462.76600.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+118,<63DA2E3D7F76D311BCDF0008C7E6EB98095F3EB0@zuk28exm04.ecid.cig.mot.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+119,<40477721.8060605@cs.ucla.edu>,,,,"No, hits=1.1 required=5.0 tests=LINES_OF_YELLING, MAILTO_TO_SPAM_ADDR autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+120,<40518F9F.6080908@informatik.uni-ulm.de>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+121,<1079985253.32639.37.camel@yosemite.cs.ucsb.edu>,,,,"No, hits=0.0 required=5.0 tests=AWL,LINES_OF_YELLING  autolearn=no version=2.60",False,-1.0,True,0.9436217532232828
+122,<40612492.2040307@cs.ucla.edu>,,,,"No, hits=1.1 required=5.0 tests=LINES_OF_YELLING, MAILTO_TO_SPAM_ADDR autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+123,<1080609578.26544.110.camel@yosemite.cs.ucsb.edu>,,,,"No, hits=0.6 required=5.0 tests=AWL,LINES_OF_YELLING, MAILTO_TO_SPAM_ADDR autolearn=no version=2.60",False,-1.0,True,0.9909515307154017
+124,<1080670940.32419.63.camel@yosemite.cs.ucsb.edu>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,True,0.9639887770521597
+125,<Pine.LNX.4.44.0312121125310.1557-100000@yosemite.cs.ucsb.edu>,,,,,False,-1.0,False,0.4489245280224425
+126,<20040401162246.11029.18032.Mailman@www1.ietf.org>,,,,"No, hits=0.7 required=5.0 tests=AWL,DATE_IN_PAST_03_06, NO_REAL_NAME autolearn=no version=2.60",False,-0.9,False,0.09267498948492012
+127,<Pine.GSO.4.21.0404150926450.722-100000@godel.ece.cornell.edu>,,,,"No, hits=0.2 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,False,0.7189408625521978
+128,<1082413484.9753.71.camel@yosemite.cs.ucsb.edu>,,,,"No, hits=0.7 required=5.0 tests=AWL,LINES_OF_YELLING, MAILTO_TO_SPAM_ADDR autolearn=no version=2.60",False,-1.0,True,0.9909515307154017
+129,<20040501132050.27207.33544.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+130,<284337169.29806@mails.tsinghua.edu.cn>,,,,"No, hits=2.7 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, MAILTO_TO_SPAM_ADDR,MSGID_FROM_MTA_HEADER,TO_ADDRESS_EQ_REAL  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+131,<200409151121.i8FBLW409095@smtp-bedford-dr.mitre.org>,,0.8 (/),,,False,-1.0,False,0.8035799187328447
+132,<NCBAKEOAA..@cde.Com>,,3.0 (+++),,,False,2.5,False,0.04802039733203686
+133,<13277813144732.R37423@toenail.noc.brokerage.gr>,,4.9 (++++),,,False,2.9,True,0.9999998388636181
+134,<36603163144732.R37493@insult.noc.waldorf.gr>,,0.5 (/),,,True,10.6,True,0.9999999998335755

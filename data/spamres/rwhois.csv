@@ -1,0 +1,16 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<9512061857.aa20638@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,9.662466968453481e-12
+2,"<96Nov27.140440pdt.""135""@palimpsest.parc.xerox.com>",,,,,False,0.0,False,0.001299156153328721
+3,"<96Dec17.230907pdt.""142""@palimpsest.parc.xerox.com>",,,,,False,0.0,False,0.15960297761042466
+4,<Pine.SOL.3.91.961219085532.11368N-100000@elect6.jrc.it>,,,,,False,-0.0,True,0.9995712400054314
+5,<9710300005.aa15035@paris.ics.uci.edu>,,,,,False,0.2,False,0.49999999999999784
+6,<199710301434.JAA20070@bailey.dscga.com>,,,,,False,1.0,False,0.49999999999999784
+7,<C17B22BA6992CF11857C00805FD4098202856BA7@red-94-msg.dns.microsoft.com>,,,,,False,0.2,False,2.462409867848608e-07
+8,<C17B22BA6992CF11857C00805FD4098202856BA6@red-94-msg.dns.microsoft.com>,,,,,False,0.2,False,0.05910755267305008
+9,<199711132108.QAA06647@mocha.bunyip.com>,,,,,False,-0.0,True,0.9768545655887091
+10,<v03110711b0922317ddb9@[128.48.100.36]>,,,,,False,0.2,False,0.5461517212219352
+11,<9711141601.AA15494@expresso.bunyip.com>,,,,,False,-0.0,True,0.9980319789688522
+12,<199711141614.LAA18699@bailey.dscga.com>,,,,,False,1.0,True,0.9969188642925876
+13,<34AD297F.15D39C63@parc.xerox.com>,,,,,False,1.5,True,0.96910542322393
+14,<199801022229.RAA00115@access2.digex.net>,,,,,False,0.2,True,0.96910542322393
+15,<9801022218.aa25343@paris.ics.uci.edu>,,,,,False,0.2,False,0.49999999999999784

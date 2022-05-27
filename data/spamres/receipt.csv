@@ -1,0 +1,22 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<9510060916.aa09886@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.8526872377444589
+2,"<""1209 95/10/06*/G=Bengt/S=Ackzell/O=AIT/ADMD=400net/C=SE/""@MHS>",,,,,False,1.2,False,0.0015665533484532494
+3,<81780346770070003GUERIND*/G=didier/S=guerin/PRMD=sept/ADMD=ATLAS/C=FR/@MHS>,,,,,False,4.9,False,3.682198542608437e-05
+4,<199512010633.AA16023@interlock.ans.net>,,,,,True,5.0,False,1.877806589380288e-09
+5,<9605160906.aa11520@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.7248608969532917
+6,</GUID,,,,,True,5.5,False,1.2107135118302731e-09
+7,<Michele.Rubenstein@dasis.treas.gov>,,,,,False,0.8,False,2.578473427987254e-09
+8,<84476771193910001DELACOUR*/G=eric/S=delacour/PRMD=sept/ADMD=ATLAS/C=FR/@MHS>,,,,,False,2.5,True,0.9991791033011751
+9,"<""ISOPRO-1.60.056::DH-NO::6931::3267475D""*/G=Roy/S=Schroeder/O=eng/PRMD=isocor/ADMD=telemail/C=us@MHS>",,,,,False,2.5,False,1.2149408548226333e-05
+10,<9611271018.aa24488@ietf.org>,,,,,False,1.0,False,0.31853667704185223
+11,"<""55956 97/05/23*/c=no/admd=telemax/prmd=/o=maxware/s=hernes/g=frode/""@MHS>",,,,,False,4.5,False,0.029413628121250687
+12,<86614629790780000DELACOUR*/G=eric/S=delacour/PRMD=sept/ADMD=ATLAS/C=FR/@MHS>,,,,,False,4.3,False,0.0060237588824818234
+13,<9706121133.aa17807@ietf.org>,,,,,False,0.0,False,1.6222768310502488e-13
+14,<9706180714.aa04023@ietf.org>,,,,,False,1.0,False,0.31853667704185223
+15,<9708011008.aa13831@ietf.org>,,,,,False,1.0,False,3.3918860934635703e-19
+16,<9708251320.aa12526@ietf.org>,,,,,False,0.0,False,2.6404830649243895e-12
+17,<199711191702.MAA00457@ns.ietf.org>,,,,,False,1.0,False,0.31853667704185223
+18,"<""8314 98/02/02*/G=Bengt/S=Ackzell/O=AIT/ADMD=400net/C=SE/""@MHS>",,,,,False,2.6,False,0.15960297761042466
+19,<199802091502.KAA19490@ns.ietf.org>,,,,,False,1.0,False,0.31853667704185223
+20,"<""0068D34E86E6E0EC*/c=us/admd=Telemail/prmd=Sprint/o=QM/ou=QM(u)1850(u)1/s=Johnson/g=Linn/""@MHS>",,,,,False,2.7,False,4.691573569925807e-05
+21,<199803021644.LAA05579@ns.ietf.org>,,,,,False,-0.2,False,4.6543811726759027e-07

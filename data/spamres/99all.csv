@@ -1,0 +1,15 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<EC912F62-CBCF-45BE-9DF6-0B292B4A0E26@daedelus.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham autolearn_force=no",False,0.3,False,0.49999999999999784
+2,<150020832281.30525.2162499936892679934.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.15960297761042466
+3,<150022830581.30577.12305955211504761016.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+4,<150028438516.14973.33483109240047966.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+5,<12B4D5B7-35A2-483C-BC16-E306C0160F22@amsl.com>,NO,-4.201,,"No, score=-4.201 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+6,<00AFBC45-F57A-4639-8417-E84FB3BCAF72@amsl.com>,NO,-4.201,,"No, score=-4.201 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+7,<150039271123.11348.12598149960482613722.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+8,<150047019997.25405.6415996812520073241.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+9,<150054500809.24142.1326642890524702456.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+10,<B129A454-FABE-4CAC-A773-E77147770395@amsl.com>,NO,-4.201,,"No, score=-4.201 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+11,<C0328AB1-C325-41E5-984D-32F93AB3C3AE@daedelus.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham autolearn_force=no",False,0.5,False,0.22737794128918348
+12,<150062860301.11249.8127731910864141479.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.15960297761042466
+13,<150152139906.6470.17097413585055666475.idtracker@ietfa.amsl.com>,,,,,False,-0.9,False,0.49999999999999784
+14,<150283662490.12425.14939775335527866982.idtracker@ietfa.amsl.com>,,,,,False,-0.9,False,0.49999999999999784

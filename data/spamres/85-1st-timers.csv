@@ -1,0 +1,5 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<7B775EA0-5B46-43A8-AF73-D969A7D5A977@amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[AWL=0.698, BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.22737794128918348
+2,<EA738325B0580041A50A364F5F76B68924D4465AD5@8MXMA1R.hpi.uni-potsdam.de>,NO,-2.155,,"No, score=-2.155 tagged_above=-999 required=5 tests=[AWL=0.093, BAYES_00=-2.599, HELO_EQ_DE=0.35, HTML_MESSAGE=0.001]",False,-2.0,False,0.18780466188070424
+3,<CAEY+gVBbQmyRqbdm9Hiuz_ZsEw2dF-rLhmQ7BH5NSg3v+8xgYg@mail.gmail.com>,NO,-3.598,,"No, score=-3.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-1]",False,0.4,False,0.49999999999999784
+4,<CAGeCcizyfwXrcxqZZZMWs9B68mNPTSsO8VVDrGvV8q-Kf93uRQ@mail.gmail.com>,NO,-2.976,,"No, score=-2.976 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, FM_FORGED_GMAIL=0.622, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-1]",False,-0.4,False,0.49999999999999784
