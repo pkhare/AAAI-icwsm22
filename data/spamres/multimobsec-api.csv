@@ -1,0 +1,91 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<Pine.SOL.4.64.0604222216380.17569@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+2,<10723.1145750635@sandelman.ottawa.on.ca>,,0.1 (/),,,False,-2.0,False,0.49999999999999784
+3,<94fc702121d17ada1f6bdce3eafcf2a1@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+4,<Pine.SOL.4.64.0604242331420.26472@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+5,<Pine.SOL.4.64.0604250015310.26472@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+6,<v01wvmsmbl.fsf@marajade.sandelman.ca>,,1.6 (+),,,False,-1.0,False,0.09853804411980313
+7,<20060425090109.12AA.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+8,<20060425090850.12AD.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+9,<20060425091028.12B0.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+10,<5176de9ac186aff75b7e0319b12672eb@it.uc3m.es>,,-2.6 (--),,,False,-0.8,False,0.49999999999999784
+11,<Pine.SOL.4.64.0604250949220.6752@kekkonen.cs.hut.fi>,,-2.6 (--),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+12,<Pine.SOL.4.64.0604250934080.6752@kekkonen.cs.hut.fi>,,-2.6 (--),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+13,<3480b9f0b0744a8fba1c40218ae8efb8@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+14,<A10427B5-A512-4C38-8DED-E7640D502E27@nomadiclab.com>,,0.0 (/),,,False,-2.0,False,0.49999999999999784
+15,<Pine.SOL.4.64.0604251545310.26685@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+16,<26345.1145971320@sandelman.ottawa.on.ca>,,0.1 (/),,,False,-2.0,False,0.49999999999999784
+17,<26520.1145971498@sandelman.ottawa.on.ca>,,-2.6 (--),,,False,-2.0,False,0.49999999999999784
+18,<Pine.SOL.4.64.0604251635190.26685@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+19,<v0ejzlv4gc.fsf@marajade.sandelman.ca>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+20,<v07j5dv4cs.fsf@marajade.sandelman.ca>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+21,<20060425203942.GQ4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+22,<20060425204647.GR4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+23,<v08xpttlg8.fsf@marajade.sandelman.ca>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+24,<20060425211552.GS4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+25,<21761f7c6ecea7a890e85bbfccd1fa28@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+26,<Pine.SOL.4.64.0604261144550.29273@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+27,<Pine.SOL.4.64.0604261151360.29273@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+28,<20060426154058.GY4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+29,<20060425152234.GN4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+30,<20060425153730.GP4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+31,<20060425203031.GP4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+32,<20060425201306.GM4000@binky.Central.Sun.COM>,,0.0 (/),,,False,-1.0,False,0.49999999999999784
+33,<Pine.SOL.4.64.0604271249030.23325@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+34,<dbc979e8ba1c021262283c086d159183@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+35,<20060505145305.C262.SHINTA@sfc.wide.ad.jp>,,0.2 (/),,,False,1.4,False,0.49999999999999784
+36,<Pine.SOL.4.64.0605051543230.17192@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+37,<edce8128a8b8d76ee6be4403402d4392@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+38,<445F2D60.5060802@piuha.net>,,0.0 (/),,,False,0.3,False,0.07864247317713298
+39,<445F2C55.40901@piuha.net>,,0.0 (/),,,False,0.3,False,0.49999999999999784
+40,<2061.1147116479@sandelman.ottawa.on.ca>,,0.1 (/),,,False,-2.0,False,0.49999999999999784
+41,<56de2897a539fde076bd00426e13e3b9@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+42,<20060509094317.C29E.SHINTA@sfc.wide.ad.jp>,,-2.6 (--),,,False,0.4,False,0.49999999999999784
+43,<20060509161207.C2A8.SHINTA@sfc.wide.ad.jp>,,0.2 (/),,,False,1.6,False,0.49999999999999784
+44,<20060510002909.C2B3.SHINTA@sfc.wide.ad.jp>,,0.2 (/),,,False,1.6,False,0.49999999999999784
+45,<20060510094826.1CF7.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,0.5,False,0.49999999999999784
+46,<e72b4089f3af0947fe70735abc7661d4@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+47,<Pine.SOL.4.64.0605121229140.18320@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+48,<Pine.SOL.4.64.0605121233520.18320@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+49,<Pine.SOL.4.64.0605121237570.18320@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+50,<Pine.SOL.4.64.0605130009110.12848@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+51,<24586f85091aaa7317aafbcdcf9351d1@it.uc3m.es>,,-2.3 (--),,,False,0.5,False,0.49999999999999784
+52,<44674B1B.3040905@piuha.net>,,-2.3 (--),,,False,0.3,False,0.49999999999999784
+53,<Pine.SOL.4.64.0605151301270.27784@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+54,<20060515122938.E3B4.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+55,<20060515151851.E3BA.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+56,<Pine.SOL.4.64.0605152343270.23493@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+57,<abacd1cc1d62be71675b042d702c1290@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+58,<20060516092700.E3CF.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+59,<Pine.SOL.4.64.0605161123120.9383@kekkonen.cs.hut.fi>,,-2.6 (--),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+60,<c05117fce05f49748c754f77b5c74c78@it.uc3m.es>,,-2.6 (--),,,False,-0.8,False,0.49999999999999784
+61,<20060519165423.523B.SHINTA@sfc.wide.ad.jp>,,0.2 (/),,,False,-0.8,False,0.49999999999999784
+62,<b9dabded1676f9bd775e46efa01ce9ca@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.07970566712219727
+63,<Pine.SOL.4.64.0605221456010.14830@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+64,<20060523092851.5256.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+65,<Pine.SOL.4.64.0605232006570.4193@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.1-niksula20060321",False,-1.0,False,0.49999999999999784
+66,<20060524103550.5264.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.15960297761042466
+67,<Pine.SOL.4.64.0606051418280.14792@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+68,<DA38843C0546204C8CFBBB411311BB4A017214CF@ejpsymw100.eapac.ericsson.se>,,0.0 (/),,,False,0.3,False,0.49999999999999784
+69,<DA38843C0546204C8CFBBB411311BB4A017214D0@ejpsymw100.eapac.ericsson.se>,,0.0 (/),,,False,0.3,False,0.49999999999999784
+70,<0967ae9e4897a86de69dd9b2cb891e00@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+71,<Pine.SOL.4.64.0606071907520.23483@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+72,<4487D376.90401@ericsson.com>,,0.0 (/),,,False,-2.0,False,0.49999999999999784
+73,<Pine.SOL.4.64.0606081051280.16323@kekkonen.cs.hut.fi>,,-2.6 (--),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+74,<aed2268c9d30ce6059c923922b046a05@it.uc3m.es>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+75,<4487DA72.5040900@ericsson.com>,,0.0 (/),,,False,-2.0,False,0.49999999999999784
+76,<4487EF77.80608@ericsson.com>,,0.0 (/),,,False,-2.0,False,0.49999999999999784
+77,<Pine.SOL.4.64.0606081205230.18687@kekkonen.cs.hut.fi>,,-2.6 (--),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+78,<Pine.SOL.4.64.0606081155310.18687@kekkonen.cs.hut.fi>,,-2.6 (--),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+79,<85FF3394-70EF-4662-91F5-F9FD33A382AA@nomadiclab.com>,,0.0 (/),,,False,-2.0,False,0.22737794128918348
+80,<20060613111235.8A21.SHINTA@sfc.wide.ad.jp>,,0.1 (/),,,False,0.2,False,0.15960297761042466
+81,<20060613101758.8A0E.SHINTA@sfc.wide.ad.jp>,,0.1 (/),,,False,0.2,False,0.15960297761042466
+82,<20060609164434.89D6.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+83,<20060613133137.8A27.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.8,False,0.15960297761042466
+84,<Pine.SOL.4.64.0606132339590.577@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+85,<20060615164207.A9E0.SHINTA@sfc.wide.ad.jp>,,0.0 (/),,,False,-0.7,False,0.15960297761042466
+86,<Pine.SOL.4.64.0606151840380.13471@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+87,<Pine.SOL.4.64.0606190017020.15584@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-0.0,False,0.49999999999999784
+88,<Pine.SOL.4.64.0606201428570.18624@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+89,<Pine.SOL.4.64.0606261210380.28616@kekkonen.cs.hut.fi>,,0.0 (/),,"No, score=-1.4 required=5.0 tests=ALL_TRUSTED autolearn=failed  version=3.1.2-niksula20060321",False,-1.0,False,0.49999999999999784
+90,<8782B3EF2DE4F04FAF0190C32808CFB055A7D0@airmail.wirelessworld.airvananet.com>,,0.2 (/),,,False,0.7,False,0.012881982947276221

@@ -1,0 +1,1261 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<52D13A805349A249960B9943E5590BD8027C5936@orsmsx409.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+2,<52D13A805349A249960B9943E5590BD8027C593C@orsmsx409.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+3,<52D13A805349A249960B9943E5590BD8027C593D@orsmsx409.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+4,<52D13A805349A249960B9943E5590BD8027C5939@orsmsx409.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+5,<52D13A805349A249960B9943E5590BD8027C593E@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+6,<52D13A805349A249960B9943E5590BD8027C5942@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+7,<52D13A805349A249960B9943E5590BD8027C5944@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+8,<52D13A805349A249960B9943E5590BD8027C5941@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+9,<52D13A805349A249960B9943E5590BD8027C5945@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+10,<52D13A805349A249960B9943E5590BD8027C5946@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+11,<52D13A805349A249960B9943E5590BD8027C5947@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+12,<52D13A805349A249960B9943E5590BD8027C5948@orsmsx409.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_FONTCOLOR_BLUE, HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+13,<52D13A805349A249960B9943E5590BD8027C5949@orsmsx409.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_FONTCOLOR_BLUE, HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+14,<52D13A805349A249960B9943E5590BD8027C5962@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+15,<012f01c3fcf2$ee254150$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.2 required=5.0 tests=MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,0.9,False,0.7189408625521978
+16,<015a01c3fd07$186de700$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.5 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+17,<01a601c3fd31$06823fd0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.7 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,1.2,False,0.7189408625521978
+18,<DC504E9C3384054C8506D3E6BB0124600177141E@bsebe001.americas.nokia.com>,,,,"No, hits=1.1 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,HTML_TITLE_EMPTY,NO_REAL_NAME  autolearn=no version=2.60",False,-2.0,False,0.8674304598559883
+19,<025201c3fd3d$ab7f60b0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+20,<026401c3fd3e$05c54580$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+21,<018301c3fd2f$faa6c6f0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+22,<021401c3fd39$e3bb6c20$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+23,<022001c3fd3b$0031fe40$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+24,<DC504E9C3384054C8506D3E6BB0124600138813C@bsebe001.americas.nokia.com>,,,,"No, hits=1.2 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,HTML_TITLE_EMPTY,NO_REAL_NAME  autolearn=no version=2.60",False,-2.0,False,0.8674304598559883
+25,<023201c3fd3c$16e99de0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.1 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+26,<036301c3fd40$b55dbf20$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.2 required=5.0 tests=AWL,HTML_40_50,HTML_MESSAGE, MIME_BASE64_TEXT autolearn=no version=2.60",False,1.2,False,0.7189408625521978
+27,<004701c3fd4b$bdecc090$a401a8c0@toronto.chantrynetworks.com>,,,,"No, hits=0.2 required=5.0 tests=HTML_60_70, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,0.3,False,0.326959085371362
+28,<403FCB5C.8010502@alcatel.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,HTML_30_40,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+29,<005601c3fdbe$72802480$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,1.2,False,0.7189408625521978
+30,<00d201c3fdc1$7f3808c0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,1.2,False,0.7189408625521978
+31,<009b01c3fdac$d23e3400$010aa8c0@wwm1>,,,,"No, hits=2.6 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,3.8,False,0.7189408625521978
+32,<00ab01c3fdb0$94ec4750$010aa8c0@wwm1>,,,,"No, hits=2.6 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,3.8,False,0.7189408625521978
+33,<005201c3fdbe$6ae6a5a0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=3.1 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,1.2,False,0.7189408625521978
+34,<9CB758BBEE58754F8F33234D75B9F4B0022EED95@orsmsx410.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_50_60, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+35,<9CB758BBEE58754F8F33234D75B9F4B0022EED99@orsmsx410.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_50_60, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+36,<1078119226.4042cb4231d8c@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+37,<52D13A805349A249960B9943E5590BD8027C6034@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+38,<1078123954.4042ddba3953d@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+39,<9CB758BBEE58754F8F33234D75B9F4B0022EEDBE@orsmsx410.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+40,<9CB758BBEE58754F8F33234D75B9F4B0022EEDC0@orsmsx410.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_50_60, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+41,<52D13A805349A249960B9943E5590BD8027C603B@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+42,<52D13A805349A249960B9943E5590BD8027C65A1@orsmsx409.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+43,<1078224931.4044682cc3fb5@mail.hzic.edu.cn>,,,,"No, hits=0.2 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+44,<1078228225.1050.6.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+45,<1078230268.1051.29.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+46,<1078230625.1050.37.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+47,<52D13A805349A249960B9943E5590BD8027C65C3@orsmsx409.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+48,<40448CA2.4080004@creeksidenet.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+49,<4044CBA9.3090706@alcatel.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+50,<4044CD8A.6010709@alcatel.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+51,<000001c4009d$a362c080$a401a8c0@toronto.chantrynetworks.com>,,,,"No, hits=0.2 required=5.0 tests=AWL,HTML_70_80, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+52,<9CB758BBEE58754F8F33234D75B9F4B0023A097B@orsmsx410.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+53,<1078282766.1038.14.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+54,<1078284254.1036.45.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.7,True,0.912777912911502
+55,<40461807.7040605@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+56,<1078283744.1037.32.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+57,<002e01c4018d$92b99970$6f01a8c0@dlg>,,,,"No, hits=2.2 required=5.0 tests=MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,1.0,False,0.7189408625521978
+58,<9CB758BBEE58754F8F33234D75B9F4B0023A11EC@orsmsx410.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+59,<9CB758BBEE58754F8F33234D75B9F4B0023A11EB@orsmsx410.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+60,<9CB758BBEE58754F8F33234D75B9F4B0023A11EE@orsmsx410.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+61,<9CB758BBEE58754F8F33234D75B9F4B0023A11F3@orsmsx410.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8280598436525115
+62,<404797DE.2060506@alcatel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+63,<9CB758BBEE58754F8F33234D75B9F4B00243EAD0@orsmsx410.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+64,<40479DF7.2090004@alcatel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+65,<1078435665.1028.100.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+66,<1078435966.1029.107.camel@jzny.localdomain>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+67,<1078436863.1028.121.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+68,<52D13A805349A249960B9943E5590BD80287CA16@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+69,<9CB758BBEE58754F8F33234D75B9F4B00243EDB8@orsmsx410.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+70,<9CB758BBEE58754F8F33234D75B9F4B00243EDB9@orsmsx410.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+71,<038e01c40266$85c88fd0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.5 required=5.0 tests=AWL,MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+72,<039801c40273$9ec71bc0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.5 required=5.0 tests=AWL,MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+73,<048401c40293$2f90bfc0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.5 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_TEXT autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+74,<4048823F.1040108@creeksidenet.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+75,<4048A221.4030806@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+76,<4048A7EB.2030808@alcatel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+77,<4048AD0F.7000705@alcatel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+78,<05aa01c402bc$84b8d770$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.5 required=5.0 tests=AWL,MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+79,<1078515013.1037.48.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,True,0.912777912911502
+80,<1078516549.1035.75.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+81,<9CB758BBEE58754F8F33234D75B9F4B00243F189@orsmsx410.jf.intel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+82,<9CB758BBEE58754F8F33234D75B9F4B00243F1DA@orsmsx410.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+83,<9CB758BBEE58754F8F33234D75B9F4B00243F1E5@orsmsx410.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+84,<4048EB2C.9090104@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+85,<9CB758BBEE58754F8F33234D75B9F4B00243F209@orsmsx410.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+86,<9CB758BBEE58754F8F33234D75B9F4B00243F228@orsmsx410.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+87,<4048F06E.8020809@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+88,<1078522316.1040.104.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+89,<1078522737.1040.111.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+90,<1078523986.1036.116.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,True,0.912777912911502
+91,<404900BF.6030305@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+92,<DC504E9C3384054C8506D3E6BB01246001388198@bsebe001.americas.nokia.com>,,,,"No, hits=0.6 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+93,<DC504E9C3384054C8506D3E6BB01246001771426@bsebe001.americas.nokia.com>,,,,"No, hits=0.6 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+94,<DC504E9C3384054C8506D3E6BB01246001771427@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+95,<DC504E9C3384054C8506D3E6BB0124600138819A@bsebe001.americas.nokia.com>,,,,"No, hits=0.9 required=5.0 tests=AWL,HTML_FONTCOLOR_BLUE, HTML_MESSAGE,HTML_TITLE_EMPTY,NO_REAL_NAME autolearn=no version=2.60",False,-2.0,False,0.8674304598559883
+96,<40490954.6020402@alcatel.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_FONTCOLOR_BLUE, HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+97,<DC504E9C3384054C8506D3E6BB0124600138819E@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+98,<52D13A805349A249960B9943E5590BD802928613@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+99,<1078530100.4049103fdc6dc@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+100,<DC504E9C3384054C8506D3E6BB012460013881A0@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+101,<1078538399.1037.120.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+102,<1078539044.1038.132.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+103,<06f101c40383$0bdeb3c0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.9 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+104,<1078588533.1040.149.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+105,<075b01c403a8$92550150$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.8 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+106,<075c01c403a8$c8b3eb80$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.8 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+107,<468F3FDA28AA87429AD807992E22D07E05420D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+108,<468F3FDA28AA87429AD807992E22D07E054213@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+109,<468F3FDA28AA87429AD807992E22D07E054214@orsmsx408.jf.intel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL,HTML_50_60, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+110,<468F3FDA28AA87429AD807992E22D07E05421D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+111,<1078627840.1036.220.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+112,<1078628768.1037.251.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.7,True,0.912777912911502
+113,<1078629011.1038.257.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+114,<083b01c403f6$bb740ec0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.8 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,0.9,False,0.7189408625521978
+115,<1078633003.1037.280.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+116,<53.6f125fc.2d7ab992@aol.com>,,,,"No, hits=1.2 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_50_60,HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,0.7,False,0.7189408625521978
+117,<08ba01c404cb$3ba4e130$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.3 required=5.0 tests=AWL,MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+118,<468F3FDA28AA87429AD807992E22D07E0542EC@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.0,False,0.8035799187328447
+119,<468F3FDA28AA87429AD807992E22D07E0542F0@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+120,<468F3FDA28AA87429AD807992E22D07E0542F5@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+121,<468F3FDA28AA87429AD807992E22D07E0542F8@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+122,<0F7B3A3C-70D9-11D8-B109-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+123,<E0B1AA3A-70F3-11D8-B109-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-0.8,False,0.7189408625521978
+124,<9B3E0FAE-70F2-11D8-B109-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+125,<1078751018.1037.386.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+126,<000b01c4050e$6fd83d60$6f01a8c0@dlg>,,,,"No, hits=2.2 required=5.0 tests=MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,1.0,False,0.7189408625521978
+127,<6CADDF45-7104-11D8-B109-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.8,False,0.7189408625521978
+128,<1078752642.1036.414.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+129,<1078752987.1038.419.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+130,<1078753355.1036.426.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+131,<09d601c40515$01f8c830$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.3 required=5.0 tests=AWL,MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+132,<09ea01c4051a$96312bf0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.7 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+133,<006701c40522$7f836140$a401a8c0@toronto.chantrynetworks.com>,,,,"No, hits=0.2 required=5.0 tests=AWL,HTML_70_80, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+134,<006c01c40524$174c1480$a401a8c0@toronto.chantrynetworks.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+135,<404C94DC.1080203@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+136,<404C9F6A.8090403@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+137,<404CA502.1000004@alcatel.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_70_80, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+138,<404CAE29.9050608@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+139,<404CC7F3.1000602@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+140,<1078775008.1037.455.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+141,<404CCF6D.8030103@alcatel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+142,<468F3FDA28AA87429AD807992E22D07E1039B5@orsmsx408.jf.intel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.0,False,0.8035799187328447
+143,<404CD324.5060502@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+144,<1078777502.1038.473.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+145,<404CD821.8070507@alcatel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+146,<404CD8DC.3000104@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+147,<1078778285.1039.484.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+148,<1078778594.1040.490.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+149,<002301c4056e$d7426290$6f01a8c0@dlg>,,,,"No, hits=2.2 required=5.0 tests=MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,1.0,False,0.7189408625521978
+150,<0a9901c40597$37de90b0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.8 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+151,<468F3FDA28AA87429AD807992E22D07E160776@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+152,<468F3FDA28AA87429AD807992E22D07E160778@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+153,<52D13A805349A249960B9943E5590BD802928D6E@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+154,<1078830604.1036.546.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+155,<1078841304.1035.572.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+156,<0bae01c405db$14f713d0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+157,<0b5901c405d8$de4fc0e0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+158,<0b5801c405d3$3e378200$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+159,<0bcf01c405dc$22f71a60$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+160,<404DE523.4030703@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+161,<1078848212.1038.616.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+162,<404DEB0E.50400@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+163,<1078848440.1039.621.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+164,<1078849006.1038.625.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+165,<404DEE2E.7000400@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+166,<404DF1E5.4090106@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+167,<1078851272.1038.648.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+168,<52D13A805349A249960B9943E5590BD802928E9B@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+169,<1078854444.1040.679.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+170,<1078855411.1038.698.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+171,<468F3FDA28AA87429AD807992E22D07E160ABF@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+172,<0de801c40674$75badcd0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.9 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+173,<468F3FDA28AA87429AD807992E22D07E1BAED6@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+174,<1078919286.1037.837.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+175,<1078920001.1040.850.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+176,<1078920703.1037.860.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+177,<1078921289.1037.870.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+178,<0e5901c406a0$4e0522f0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.9 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+179,<468F3FDA28AA87429AD807992E22D07E1BB130@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+180,<468F3FDA28AA87429AD807992E22D07E1BB1C7@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+181,<468F3FDA28AA87429AD807992E22D07E1BB221@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+182,<468F3FDA28AA87429AD807992E22D07E1BB257@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+183,<404F6FC4.5080500@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+184,<404F7349.3030708@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+185,<1078954115.1045.103.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+186,<1078954406.1045.106.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+187,<468F3FDA28AA87429AD807992E22D07E1BB3A3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+188,<1078956152.1044.136.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+189,<1078957817.1035.7.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+190,<1078958038.1035.12.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+191,<404F9D41.1030405@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+192,<468F3FDA28AA87429AD807992E22D07E1BB4E8@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+193,<1078960737.1038.27.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+194,<1078961209.1037.36.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+195,<404FA576.8080205@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+196,<404FA6D4.5070201@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+197,<404FA885.9020501@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+198,<1078963432.1035.48.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+199,<468F3FDA28AA87429AD807992E22D07E1BB5B7@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+200,<1078966003.1037.59.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+201,<468F3FDA28AA87429AD807992E22D07E1BB651@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+202,<52D13A805349A249960B9943E5590BD8029CF156@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+203,<468F3FDA28AA87429AD807992E22D07E1BB676@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+204,<1078971991.1038.79.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+205,<1078973382.1035.100.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+206,<1078973681.1036.105.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+207,<0e8601c40717$434341e0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.9 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+208,<896B19B7-7310-11D8-B275-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+209,<1078977856.1038.110.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+210,<0f5701c4072d$6fbd3490$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.9 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+211,<102701c4074d$db86fe70$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.8 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+212,<1079004488.1038.127.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+213,<104b01c4075d$6bf2e550$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.8 required=5.0 tests=AWL autolearn=no version=2.60",False,0.9,False,0.7189408625521978
+214,<1079006565.1038.163.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+215,<405088EB.3040004@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+216,<4050A412.4030200@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+217,<1079035283.1038.65.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+218,<4050DD8D.5040301@alcatel.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_20_30,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+219,<111501c407e7$5e2a0b30$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.8 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+220,<468F3FDA28AA87429AD807992E22D07E24E79C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+221,<867F8C87-73FA-11D8-B275-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+222,<4051915E.2010505@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+223,<1079089980.1055.21.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+224,<561CBA8A-7418-11D8-BC30-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+225,<1079091028.1051.40.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+226,<1079092631.1053.61.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+227,<1079094333.1051.91.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+228,<4051CAB2.1060905@creeksidenet.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+229,<1079106737.4051dcc1106a0@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+230,<1079109305.4051e6c89643b@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+231,<1079108589.1038.24.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+232,<1079110131.1040.69.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+233,<52D13A805349A249960B9943E5590BD8029CF893@orsmsx409.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+234,<40522F3F.802@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+235,<40524120.6060903@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+236,<1079133381.1126.21.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+237,<1079134193.1126.37.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+238,<52D13A805349A249960B9943E5590BD8029CFB32@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+239,<468F3FDA28AA87429AD807992E22D07E24EE1D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+240,<405272B0.6010403@creeksidenet.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+241,<468F3FDA28AA87429AD807992E22D07E24EE2C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+242,<468F3FDA28AA87429AD807992E22D07E24EE2D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+243,<468F3FDA28AA87429AD807992E22D07E24EE35@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+244,<149601c408ee$bb8c76c0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.8 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+245,<1079190310.1124.262.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+246,<ACD8858C-7503-11D8-BC30-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+247,<1079194042.1126.323.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.7,True,0.912777912911502
+248,<1079199780.1127.418.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+249,<108.2d1bdde8.2d84bc2e@aol.com>,,,,"No, hits=1.6 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_20_30,HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+250,<1aa.213270ea.2d84c068@aol.com>,,,,"No, hits=1.2 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+251,<1a3.21875053.2d84c566@aol.com>,,,,"No, hits=1.3 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+252,<12d.3c35d544.2d84cdc6@aol.com>,,,,"No, hits=1.2 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+253,<1079218093.1123.488.camel@jzny.localdomain>,,,,"No, hits=0.5 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR  autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+254,<1ac.2184379c.2d853fb5@aol.com>,,,,"No, hits=1.8 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,MAILTO_TO_SPAM_ADDR,NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,False,0.8280598436525115
+255,<182A376C-7575-11D8-BC30-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+256,<1079268047.8028.57.camel@jzny.localdomain>,,,,"No, hits=0.5 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR  autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+257,<1079270434.8019.98.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+258,<AFC94A88-75BC-11D8-BC30-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+259,<15ed01c409d8$06193e00$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.8 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+260,<1e1.1b3e6afa.2d8646a0@aol.com>,,,,"No, hits=1.9 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,MAILTO_TO_SPAM_ADDR,NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,False,0.8035799187328447
+261,<1de.1aae4f29.2d864b1c@aol.com>,,,,"No, hits=1.3 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.8674304598559883
+262,<1e3.1b4558b1.2d864e02@aol.com>,,,,"No, hits=1.3 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+263,<5BC8A71F-761D-11D8-BC30-000393CC2112@acm.org>,,,,"No, hits=0.9 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR, NO_REAL_NAME autolearn=no version=2.60",False,-5.7,False,0.7189408625521978
+264,<1079317798.8027.103.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.7,True,0.912777912911502
+265,<1079320495.8027.149.camel@jzny.localdomain>,,,,"No, hits=0.6 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR  autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+266,<468F3FDA28AA87429AD807992E22D07E24EE98@orsmsx408.jf.intel.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_50_60, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE,MAILTO_TO_SPAM_ADDR autolearn=no  version=2.60",False,-2.0,False,0.8035799187328447
+267,<468F3FDA28AA87429AD807992E22D07E24EEA6@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+268,<468F3FDA28AA87429AD807992E22D07E24EEB8@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+269,<468F3FDA28AA87429AD807992E22D07E24EEC3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+270,<1079377686.4055ff27e76d3@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+271,<52D13A805349A249960B9943E5590BD8029CFEB2@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+272,<1079380332.1033.8.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.7,True,0.912777912911502
+273,<468F3FDA28AA87429AD807992E22D07E2EA5F3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+274,<40560F1F.7030506@alcatel.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_20_30,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+275,<DC504E9C3384054C8506D3E6BB01246001771432@bsebe001.americas.nokia.com>,,,,"No, hits=1.1 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,HTML_TITLE_EMPTY,NO_REAL_NAME  autolearn=no version=2.60",False,-2.0,False,0.8674304598559883
+276,<468F3FDA28AA87429AD807992E22D07E2EA637@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+277,<40561B0D.1070905@ericsson.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+278,<1079386898.1031.18.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+279,<28110E4E-76D9-11D8-BC30-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+280,<1079396669.4056494ea7e5a@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+281,<405660B1.4080108@ericsson.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+282,<468F3FDA28AA87429AD807992E22D07E2EA967@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+283,<1079408162.1041.146.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+284,<468F3FDA28AA87429AD807992E22D07E2EA9E3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+285,<DC504E9C3384054C8506D3E6BB01246001771433@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+286,<1079440440.1041.205.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+287,<1079442323.1039.238.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+288,<1079442336.1039.240.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+289,<1079442742.1039.246.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+290,<468F3FDA28AA87429AD807992E22D07E2EB22C@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+291,<468F3FDA28AA87429AD807992E22D07E2EB236@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+292,<468F3FDA28AA87429AD807992E22D07E2EB2BC@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+293,<468F3FDA28AA87429AD807992E22D07E2EB2C2@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+294,<1079534985.1031.35.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+295,<1079535688.1032.47.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+296,<1079540006.405879385db31@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+297,<468F3FDA28AA87429AD807992E22D07E377622@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+298,<4058B32B.8080407@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+299,<468F3FDA28AA87429AD807992E22D07E377BDB@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+300,<179701c40cc4$c7640240$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+301,<1079610683.1043.228.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+302,<4059AE45.5010907@creeksidenet.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+303,<1079625963.4059c8fe38183@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+304,<4059EEBD.2090001@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+305,<468F3FDA28AA87429AD807992E22D07E377F84@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+306,<468F3FDA28AA87429AD807992E22D07E378135@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+307,<52D13A805349A249960B9943E5590BD802B2CD94@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+308,<405A501B.2050201@ericsson.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+309,<1079662786.1042.75.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+310,<1079663579.1045.89.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+311,<1079668805.1040.152.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+312,<181c01c40d86$01d34be0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+313,<468F3FDA28AA87429AD807992E22D07E37849E@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+314,<468F3FDA28AA87429AD807992E22D07E37849F@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+315,<1079698757.1045.196.camel@jzny.localdomain>,,,,,False,-0.8,True,0.912777912911502
+316,<1079699360.1041.207.camel@jzny.localdomain>,,,,,False,-0.8,True,0.912777912911502
+317,<1079699768.1042.213.camel@jzny.localdomain>,,,,,False,-0.8,True,0.912777912911502
+318,<1079700131.1044.219.camel@jzny.localdomain>,,,,,False,-0.8,True,0.912777912911502
+319,<189201c40db5$e9d81270$845c21d2@Necom.hzic.edu.cn>,,,,,False,0.2,False,0.039814041889620545
+320,<18c801c40dc1$63fb0160$845c21d2@Necom.hzic.edu.cn>,,,,,False,0.2,False,0.039814041889620545
+321,<18d301c40dc2$fb78c8f0$845c21d2@Necom.hzic.edu.cn>,,,,,False,0.2,False,0.7189408625521978
+322,<1079711057.1032.55.camel@jzny.localdomain>,,,,,False,-0.8,True,0.912777912911502
+323,<7B3E7764-79BE-11D8-BC30-000393CC2112@acm.org>,,,,,False,-5.7,False,0.7189408625521978
+324,<1079714062.405b21221a4fa@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+325,<52D13A805349A249960B9943E5590BD802B2CF7E@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+326,<468F3FDA28AA87429AD807992E22D07E3FE55D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+327,<405B4BB1.7080309@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+328,<468F3FDA28AA87429AD807992E22D07E3FE5B3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+329,<405B51A6.2020302@alcatel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+330,<52D13A805349A249960B9943E5590BD802B2D19D@orsmsx409.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+331,<468F3FDA28AA87429AD807992E22D07E3FE7BE@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+332,<468F3FDA28AA87429AD807992E22D07E3FE7C9@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+333,<405B7B73.4070407@ericsson.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+334,<468F3FDA28AA87429AD807992E22D07E3FE964@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+335,<1079746740.1037.36.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+336,<1079747800.1035.47.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+337,<1079748342.1039.60.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+338,<1079751791.405bb4835c6ca@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+339,<1079764323.405be577c329d@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+340,<1079765197.405be8e19cc88@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+341,<1079824690.1037.94.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+342,<f6.3831a9de.2d8e8e46@aol.com>,,,,"No, hits=1.3 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+343,<133.2caad2e4.2d8e915c@aol.com>,,,,"No, hits=1.6 required=5.0 tests=AWL,FROM_ENDS_IN_NUMS, HTML_20_30,HTML_MESSAGE,NO_REAL_NAME autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+344,<003d01c40f28$749d9790$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MAILTO_TO_SPAM_ADDR,MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no  version=2.60",False,0.2,False,0.7189408625521978
+345,<468F3FDA28AA87429AD807992E22D07E3FEAA1@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+346,<468F3FDA28AA87429AD807992E22D07E3FEAA5@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+347,<468F3FDA28AA87429AD807992E22D07E3FEAAA@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+348,<468F3FDA28AA87429AD807992E22D07E3FEAAC@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+349,<1079900704.1040.110.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+350,<EB03DC44-7B86-11D8-B9F1-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+351,<468F3FDA28AA87429AD807992E22D07E3FECAC@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+352,<52D13A805349A249960B9943E5590BD802B2D56E@orsmsx409.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,True,0.9436217532232828
+353,<405F2DAB.3010800@alcatel.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_20_30,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+354,<468F3FDA28AA87429AD807992E22D07E3FEE01@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+355,<1079982963.1091.113.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+356,<468F3FDA28AA87429AD807992E22D07E3FEF32@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+357,<1079984555.1091.126.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+358,<468F3FDA28AA87429AD807992E22D07E3FF011@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+359,<468F3FDA28AA87429AD807992E22D07E3FF058@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+360,<1079990164.1090.164.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+361,<52D13A805349A249960B9943E5590BD802B2D535@orsmsx409.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8674304598559883
+362,<40619680.3040601@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+363,<1080137710.1023.7.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+364,<1078843084.1035.605.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+365,<1078842463.1037.594.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+366,<1078842933.1039.602.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+367,<1078842828.1038.600.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+368,<40522277.1050507@alcatel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+369,<468F3FDA28AA87429AD807992E22D07E3FEECB@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+370,<0c8401c405e5$a90986c0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+371,<B06FCF55-7183-11D8-B109-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+372,<0c9a01c405e6$47c0c850$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+373,<0c9401c405e6$2d764880$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+374,<F116EC881E09A245957482093BEC57DE16207A@orsmsx407.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+375,<468F3FDA28AA87429AD807992E22D07E6FF54C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8500581072560267
+376,<E7AD6487-8505-11D8-9DCF-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+377,<468F3FDA28AA87429AD807992E22D07E6FF63E@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+378,<1080956831.1036.5.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+379,<1080959240.1036.13.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+380,<EAFE6C2A-8517-11D8-9DCF-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+381,<1080960299.1036.27.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+382,<10391E6F-851A-11D8-9DCF-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+383,<1080961790.1042.38.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+384,<6EB5C66F-851D-11D8-9DCF-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+385,<002401c41a34$d88baaf0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+386,<004201c41a38$68bd1750$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+387,<007f01c41a49$3253bd20$6f01a8c0@dlg>,,,,"No, hits=1.6 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,1.0,False,0.7189408625521978
+388,<1081090764.2023.85.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.921856861425697
+389,<1081091403.2030.97.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+390,<DC504E9C3384054C8506D3E6BB01246001771454@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,True,0.9297801005450288
+391,<468F3FDA28AA87429AD807992E22D07E6FF754@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+392,<468F3FDA28AA87429AD807992E22D07E6FF759@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.838680966840555
+393,<468F3FDA28AA87429AD807992E22D07E6FF75D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+394,<012601c41b04$5b2ab080$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+395,<55346674-86FD-11D8-9DCF-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+396,<01a401c41b10$6ad16130$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+397,<F116EC881E09A245957482093BEC57DE204D2A@orsmsx407.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+398,<468F3FDA28AA87429AD807992E22D07E786AE1@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+399,<468F3FDA28AA87429AD807992E22D07E786AE2@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+400,<468F3FDA28AA87429AD807992E22D07E786AE5@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+401,<468F3FDA28AA87429AD807992E22D07E786AEA@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+402,<1081274762.8373.105.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+403,<1081277281.8374.146.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+404,<468F3FDA28AA87429AD807992E22D07E78702F@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+405,<1081283139.8368.163.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+406,<468F3FDA28AA87429AD807992E22D07E7870FA@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+407,<02e801c41c6a$e6f9d3e0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+408,<030501c41c6b$107c3370$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.7 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+409,<07ae01c41c77$7b99f5f0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.6 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+410,<1081338104.15893.64.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+411,<1081338737.15907.84.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+412,<082301c41cad$895c1610$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.6 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+413,<468F3FDA28AA87429AD807992E22D07E83440D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+414,<7932AF3F-88E5-11D8-AC5B-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+415,<000101c41d03$dc336680$6f01a8c0@dlg>,,,,"No, hits=1.7 required=5.0 tests=AWL,DATE_IN_PAST_12_24, MIME_BASE64_TEXT autolearn=no version=2.60",False,1.8,False,0.7189408625521978
+416,<002701c41d0d$f6c36f40$6f01a8c0@dlg>,,,,"No, hits=1.5 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,1.0,False,0.7189408625521978
+417,<088501c41d11$58b9aef0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.6 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+418,<DC504E9C3384054C8506D3E6BB012460013882BB@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+419,<1081438916.407572e4a5e4d@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+420,<1081434965.1033.34.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+421,<1081439134.1034.60.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+422,<F116EC881E09A245957482093BEC57DE29B55F@orsmsx407.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+423,<468F3FDA28AA87429AD807992E22D07E834D54@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+424,<468F3FDA28AA87429AD807992E22D07E834D83@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+425,<468F3FDA28AA87429AD807992E22D07E834D8E@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+426,<468F3FDA28AA87429AD807992E22D07E834F2C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+427,<1081452807.1033.96.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+428,<468F3FDA28AA87429AD807992E22D07E834FEE@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+429,<468F3FDA28AA87429AD807992E22D07E834FF4@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_50_60,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+430,<86302B90-89BC-11D8-AC5B-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+431,<468F3FDA28AA87429AD807992E22D07E8B25F3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+432,<1081525568.1040.167.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+433,<468F3FDA28AA87429AD807992E22D07E8B2B2C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+434,<1081548075.1043.179.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+435,<468F3FDA28AA87429AD807992E22D07E8B2D6B@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_60_70,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+436,<1081550464.1044.227.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+437,<468F3FDA28AA87429AD807992E22D07E8B2E43@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+438,<468F3FDA28AA87429AD807992E22D07E8B2E4B@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_50_60,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+439,<468F3FDA28AA87429AD807992E22D07E93AF4A@orsmsx408.jf.intel.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+440,<468F3FDA28AA87429AD807992E22D07E93AF6A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+441,<468F3FDA28AA87429AD807992E22D07E93BA95@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_50_60,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+442,<1081950305.407d406209961@mail.hzic.edu.cn>,,,,"No, hits=0.8 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR, NO_REAL_NAME autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+443,<1081951216.1027.0.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+444,<1081953068.1026.32.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.9909515307154017
+445,<1081954661.1026.68.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+446,<1081954622.1025.65.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+447,<1081954731.1027.72.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+448,<1081957000.1023.121.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+449,<1081956952.1024.118.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+450,<1081958617.1027.136.camel@jzny.localdomain>,,,,"No, hits=0.5 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR  autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+451,<1081959106.407d62c25de09@mail.hzic.edu.cn>,,,,"No, hits=0.9 required=5.0 tests=AWL,MAILTO_TO_SPAM_ADDR, NO_REAL_NAME autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+452,<1081965229.1026.250.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+453,<BA1AA2F0-8E7D-11D8-9164-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+454,<1082044152.407eaef9912e0@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+455,<1082044324.407eafa55053c@mail.hzic.edu.cn>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+456,<DC504E9C3384054C8506D3E6BB01246001388314@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+457,<DC504E9C3384054C8506D3E6BB01246001388313@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+458,<468F3FDA28AA87429AD807992E22D07EA37F24@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+459,<468F3FDA28AA87429AD807992E22D07E9C089B@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+460,<468F3FDA28AA87429AD807992E22D07EA38062@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+461,<468F3FDA28AA87429AD807992E22D07EA380D4@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+462,<DC504E9C3384054C8506D3E6BB01246001771463@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+463,<008e01c423c1$43181ad0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",True,7.5,False,0.7189408625521978
+464,<1082128218.1026.26.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+465,<1082130045.1024.58.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+466,<1082146015.1024.131.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+467,<468F3FDA28AA87429AD807992E22D07EA385AE@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+468,<1082146806.1028.152.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+469,<468F3FDA28AA87429AD807992E22D07EA385C3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+470,<468F3FDA28AA87429AD807992E22D07EA385D5@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+471,<013801c4241b$a9edd6f0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+472,<1082224260.1039.59.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+473,<468F3FDA28AA87429AD807992E22D07EA38A93@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_60_70,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+474,<A8DAF8E2-91EB-11D8-9164-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+475,<1082375332.424.98.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+476,<BAY13-DAV60mcarcR4Z00006da9@hotmail.com>,,,,"No, hits=0.9 required=5.0 tests=FROM_ENDS_IN_NUMS autolearn=no  version=2.60",False,3.5,False,0.8035799187328447
+477,<1081952103.1027.7.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+478,<4083CCCF.6060601@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,1.3,False,0.7189408625521978
+479,<DC504E9C3384054C8506D3E6BB01246001388335@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+480,<DC504E9C3384054C8506D3E6BB01246001388336@bsebe001.americas.nokia.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_60_70, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+481,<DC504E9C3384054C8506D3E6BB01246001388337@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+482,<010c01c4261c$6a6f5f00$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+483,<011701c42625$c03300f0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+484,<1082391072.1071.32.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+485,<DC504E9C3384054C8506D3E6BB0124600138833A@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+486,<468F3FDA28AA87429AD807992E22D07EABCF04@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+487,<1082406672.9601.90.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+488,<468F3FDA28AA87429AD807992E22D07EABD38A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+489,<468F3FDA28AA87429AD807992E22D07EABD391@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+490,<408534BF.60009@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+491,<1082472484.1088.25.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+492,<1082472607.1089.28.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+493,<001001c426d7$8b54a160$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+494,<014901c426f0$475b0350$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+495,<DC504E9C3384054C8506D3E6BB01246001388345@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+496,<DC504E9C3384054C8506D3E6BB01246001388346@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+497,<F116EC881E09A245957482093BEC57DE46A355@orsmsx407.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+498,<468F3FDA28AA87429AD807992E22D07EB2532F@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+499,<468F3FDA28AA87429AD807992E22D07EB25336@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+500,<468F3FDA28AA87429AD807992E22D07EB2533D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+501,<4333BC9E-93C0-11D8-9164-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+502,<007301c4282e$478742f0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.326959085371362
+503,<008301c42831$cbee5800$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.326959085371362
+504,<468F3FDA28AA87429AD807992E22D07EB8C9E4@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+505,<468F3FDA28AA87429AD807992E22D07EB8CA04@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+506,<011301c428e7$8a00ef50$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+507,<1082724161.1058.74.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+508,<468F3FDA28AA87429AD807992E22D07EC02D40@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+509,<016f01c42a8b$5306ecc0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+510,<468F3FDA28AA87429AD807992E22D07EC02DB8@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+511,<468F3FDA28AA87429AD807992E22D07EC02DBE@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+512,<468F3FDA28AA87429AD807992E22D07EC02DBF@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_50_60,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+513,<DC504E9C3384054C8506D3E6BB01246001388361@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+514,<DC504E9C3384054C8506D3E6BB01246001388362@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+515,<DC504E9C3384054C8506D3E6BB01246001388363@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+516,<DC504E9C3384054C8506D3E6BB01246001388364@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+517,<DC504E9C3384054C8506D3E6BB01246001388365@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+518,<DC504E9C3384054C8506D3E6BB01246001388366@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+519,<DC504E9C3384054C8506D3E6BB01246001388367@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+520,<03a301c42ba1$717923f0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+521,<468F3FDA28AA87429AD807992E22D07EC02F64@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+522,<468F3FDA28AA87429AD807992E22D07EC02FC1@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+523,<468F3FDA28AA87429AD807992E22D07EC02FEA@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+524,<03b101c42bac$6848b060$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+525,<468F3FDA28AA87429AD807992E22D07EC03028@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+526,<03b501c42bad$8673a940$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+527,<DC504E9C3384054C8506D3E6BB0124600138836C@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+528,<468F3FDA28AA87429AD807992E22D07EC030B3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+529,<468F3FDA28AA87429AD807992E22D07EC03158@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+530,<468F3FDA28AA87429AD807992E22D07EC030D4@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+531,<1083009540.1042.21.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+532,<1083009946.1041.29.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+533,<1083012761.1042.68.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+534,<1083013531.1048.80.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+535,<468F3FDA28AA87429AD807992E22D07EC034B6@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+536,<1083014232.1048.92.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+537,<1083015660.1048.105.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+538,<468F3FDA28AA87429AD807992E22D07EC03553@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+539,<468F3FDA28AA87429AD807992E22D07EC03581@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+540,<468F3FDA28AA87429AD807992E22D07EC79A4D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+541,<01a501c42c47$6bb990c0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+542,<01b901c42c4d$9fc75040$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.326959085371362
+543,<1083069550.10438.45.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+544,<1083070570.10439.110.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+545,<85BE784D-9854-11D8-932A-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+546,<408E75FE.9040003@zurich.ibm.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+547,<006e01c42c6c$7a93c050$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+548,<468F3FDA28AA87429AD807992E22D07EC79E77@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+549,<F2FC7217-9875-11D8-932A-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+550,<1083092408.1026.33.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+551,<DC504E9C3384054C8506D3E6BB0124600177146B@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+552,<DC504E9C3384054C8506D3E6BB0124600138837F@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+553,<468F3FDA28AA87429AD807992E22D07EC7A314@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+554,<468F3FDA28AA87429AD807992E22D07EC7A45A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+555,<5AEE9CBA-98B8-11D8-B32D-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-0.8,False,0.7189408625521978
+556,<1083120033.1037.140.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+557,<468F3FDA28AA87429AD807992E22D07EC7A664@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+558,<468F3FDA28AA87429AD807992E22D07EC7A673@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+559,<1083153682.1034.197.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+560,<1083154463.1034.211.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+561,<038301c42d25$6bc1cf40$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.326959085371362
+562,<468F3FDA28AA87429AD807992E22D07ECE164D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+563,<408FEAF8.6040904@zurich.ibm.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+564,<51AB81B7-993C-11D8-B32D-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+565,<37B28794-9940-11D8-B32D-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL,LINES_OF_YELLING, NO_REAL_NAME autolearn=no version=2.60",False,-0.7,False,0.7189408625521978
+566,<468F3FDA28AA87429AD807992E22D07ECE1947@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+567,<468F3FDA28AA87429AD807992E22D07ECE1B19@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+568,<468F3FDA28AA87429AD807992E22D07ECE1B27@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+569,<468F3FDA28AA87429AD807992E22D07ECE1B36@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+570,<468F3FDA28AA87429AD807992E22D07ECE1B4E@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+571,<1083209759.1051.50.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+572,<03fc01c42daa$1b6b65d0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+573,<043f01c42dae$4da03180$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+574,<044401c42dae$60454b90$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+575,<468F3FDA28AA87429AD807992E22D07ECE1E95@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+576,<468F3FDA28AA87429AD807992E22D07ECE1E96@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+577,<468F3FDA28AA87429AD807992E22D07ECE1EA0@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+578,<04b901c42dcf$d226e0e0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.326959085371362
+579,<1083240420.1050.119.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+580,<468F3FDA28AA87429AD807992E22D07ECE2436@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+581,<468F3FDA28AA87429AD807992E22D07ED4E20A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8280598436525115
+582,<468F3FDA28AA87429AD807992E22D07ED4E213@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+583,<004a01c42ed4$2df9b320$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+584,<468F3FDA28AA87429AD807992E22D07ED4EB94@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+585,<004601c42ee9$1f8b0a40$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+586,<468F3FDA28AA87429AD807992E22D07ED4ECEB@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+587,<468F3FDA28AA87429AD807992E22D07ED4F053@orsmsx408.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_40_50,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+588,<1083511359.1676.81.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+589,<1083513517.1683.114.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+590,<468F3FDA28AA87429AD807992E22D07ED4F147@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+591,<468F3FDA28AA87429AD807992E22D07ED4F14B@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+592,<468F3FDA28AA87429AD807992E22D07ED4F144@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+593,<1083598941.1022.53.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+594,<1083599579.1021.75.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+595,<468F3FDA28AA87429AD807992E22D07EDD5BB3@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+596,<468F3FDA28AA87429AD807992E22D07EDD5C21@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+597,<468F3FDA28AA87429AD807992E22D07EDD5CDE@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+598,<C1963F1C-9D4B-11D8-ACC9-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+599,<468F3FDA28AA87429AD807992E22D07EDD5E5B@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+600,<1083634352.1041.5.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+601,<1083634737.1039.14.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+602,<468F3FDA28AA87429AD807992E22D07EDD5FF0@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+603,<468F3FDA28AA87429AD807992E22D07EDD5FF4@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+604,<23EAB7FC-9D98-11D8-ACC9-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+605,<D9390128-9D98-11D8-ACC9-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+606,<4CC5D322-9DB0-11D8-ACC9-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+607,<020c01c431c9$0d078280$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+608,<1083674439.1041.88.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+609,<1083675102.1040.100.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+610,<1083675914.1039.118.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+611,<1083676628.1040.132.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+612,<1083676878.1040.135.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+613,<1083677184.1041.141.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+614,<1083677543.1039.146.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+615,<DC504E9C3384054C8506D3E6BB012460013883A8@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+616,<DC504E9C3384054C8506D3E6BB012460013883A9@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+617,<7A1ED10C-9DD5-11D8-ACC9-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+618,<4097AEBD.80908@zurich.ibm.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+619,<019401c431ef$c8b0a0e0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,3.2,False,0.7189408625521978
+620,<01b301c431f9$6f8918d0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+621,<4097D77C.3080908@zurich.ibm.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+622,<468F3FDA28AA87429AD807992E22D07EDD649C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+623,<DC504E9C3384054C8506D3E6BB012460013883B0@bsebe001.americas.nokia.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_FONTCOLOR_BLUE, HTML_MESSAGE,HTML_TITLE_EMPTY,NO_REAL_NAME autolearn=no version=2.60",False,-2.0,False,0.8674304598559883
+624,<468F3FDA28AA87429AD807992E22D07EE4024A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+625,<468F3FDA28AA87429AD807992E22D07EE40264@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+626,<468F3FDA28AA87429AD807992E22D07EE4026A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+627,<468F3FDA28AA87429AD807992E22D07EE40393@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+628,<468F3FDA28AA87429AD807992E22D07EE403B9@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8280598436525115
+629,<468F3FDA28AA87429AD807992E22D07EE40424@orsmsx408.jf.intel.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_30_40, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+630,<468F3FDA28AA87429AD807992E22D07EE4056F@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+631,<468F3FDA28AA87429AD807992E22D07EE4059D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+632,<468F3FDA28AA87429AD807992E22D07EE40856@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+633,<468F3FDA28AA87429AD807992E22D07EE4086C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+634,<468F3FDA28AA87429AD807992E22D07EE408E9@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+635,<1083724575.1073.27.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+636,<06b001c43249$e6e427d0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+637,<1083725023.1073.43.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+638,<1083725877.1072.75.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+639,<06ec01c4324c$7e45bf60$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.7 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+640,<468F3FDA28AA87429AD807992E22D07EE408FD@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+641,<468F3FDA28AA87429AD807992E22D07EE40902@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+642,<1083726704.1072.99.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+643,<1083726882.1070.106.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+644,<468F3FDA28AA87429AD807992E22D07EE4090E@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+645,<1083727578.1074.119.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+646,<468F3FDA28AA87429AD807992E22D07EE40916@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+647,<07a601c43251$260a1030$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.9,False,0.7189408625521978
+648,<07c601c43251$ae604120$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+649,<468F3FDA28AA87429AD807992E22D07EE4091E@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+650,<468F3FDA28AA87429AD807992E22D07EE40920@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+651,<083e01c43255$89ec24e0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+652,<087701c43256$ecd49eb0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+653,<0a0901c43262$4f05cae0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+654,<DC504E9C3384054C8506D3E6BB012460013883B7@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+655,<DC504E9C3384054C8506D3E6BB012460013883B8@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+656,<4098AAEE.9030704@zurich.ibm.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+657,<1083755954.1071.131.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+658,<FAE023D2-9E98-11D8-ACC9-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+659,<4098F25C.1080008@zurich.ibm.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+660,<1083765164.1023.51.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+661,<1083765539.1022.58.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+662,<4099026D.70903@zurich.ibm.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+663,<1083771386.1022.246.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+664,<468F3FDA28AA87429AD807992E22D07EE40DE9@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+665,<468F3FDA28AA87429AD807992E22D07EE40E00@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8280598436525115
+666,<004101c4330c$0394e410$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+667,<468F3FDA28AA87429AD807992E22D07EEABD94@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+668,<1083810348.1068.30.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+669,<468F3FDA28AA87429AD807992E22D07EEABD9A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+670,<1083810592.1067.38.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+671,<1083810621.1066.40.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+672,<468F3FDA28AA87429AD807992E22D07EEABD9D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+673,<1083810856.1064.47.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+674,<468F3FDA28AA87429AD807992E22D07EEABDA0@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+675,<468F3FDA28AA87429AD807992E22D07EEABDA2@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+676,<468F3FDA28AA87429AD807992E22D07EEABDB2@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+677,<029201c4332b$dca18640$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+678,<029e01c4332d$1645baf0$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+679,<02ac01c4332f$4d85cb70$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+680,<02c201c43331$54f7b330$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+681,<02d401c43335$edb19ce0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+682,<468F3FDA28AA87429AD807992E22D07EEABD99@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+683,<030401c43340$85f4e840$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+684,<1083843651.1065.68.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+685,<DC504E9C3384054C8506D3E6BB012460013883BF@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+686,<409A3EF5.1090400@zurich.ibm.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_20_30,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+687,<409A5679.8050501@zurich.ibm.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TAG_EXISTS_TBODY,HTML_TITLE_EMPTY autolearn=no version=2.60",False,1.3,False,0.7189408625521978
+688,<409A5964.1080502@zurich.ibm.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,HTML_40_50, HTML_FONT_FACE_BAD,HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no  version=2.60",False,0.3,False,0.7189408625521978
+689,<409A61EF.2090600@zurich.ibm.com>,,,,"No, hits=0.9 required=5.0 tests=AWL,HTML_20_30,HTML_FONT_BIG, HTML_FONT_FACE_BAD,HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no  version=2.60",False,0.3,False,0.7189408625521978
+690,<468F3FDA28AA87429AD807992E22D07EEAC168@orsmsx408.jf.intel.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_30_40, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+691,<DC504E9C3384054C8506D3E6BB012460013883C0@bsebe001.americas.nokia.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,HTML_30_40, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,True,0.912777912911502
+692,<468F3FDA28AA87429AD807992E22D07EEAC1A0@orsmsx408.jf.intel.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_30_40, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+693,<89858093-9FB0-11D8-B6A1-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+694,<468F3FDA28AA87429AD807992E22D07EEAC73F@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+695,<004101c433d5$c7696400$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+696,<468F3FDA28AA87429AD807992E22D07EEAC87E@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+697,<468F3FDA28AA87429AD807992E22D07EEAC87F@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+698,<468F3FDA28AA87429AD807992E22D07EEAC881@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+699,<468F3FDA28AA87429AD807992E22D07EEAC883@orsmsx408.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+700,<00ea01c433e7$66cd9eb0$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+701,<013a01c433f2$e068c000$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+702,<013b01c433f4$c9ab73b0$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,3.2,False,0.7189408625521978
+703,<409B5792.9080808@zurich.ibm.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,HTML_20_30,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+704,<1083932680.1036.28.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+705,<1083933541.1036.42.camel@jzny.localdomain>,,,,"No, hits=1.1 required=5.0 tests=AWL,MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,-0.8,False,0.8674304598559883
+706,<000201c43433$80f91340$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.8 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+707,<001c01c43437$cf65d6e0$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+708,<1083955505.1598.50.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+709,<1083955989.1612.60.camel@jzny.localdomain>,,,,"No, hits=1.1 required=5.0 tests=AWL,MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,-0.8,False,0.8674304598559883
+710,<005c01c434b2$c0bef6a0$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+711,<006801c434b5$c40085b0$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+712,<24D96F5C-A0F1-11D8-9E89-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+713,<001101c4358d$aa4a3f70$8401a8c0@dlg>,,,,"No, hits=2.2 required=5.0 tests=MIME_BASE64_LATIN, MIME_BASE64_TEXT autolearn=no version=2.60",False,1.0,False,0.7189408625521978
+714,<001801c4359e$40bd28e0$8401a8c0@dlg>,,,,"No, hits=1.5 required=5.0 tests=AWL,MIME_BASE64_TEXT  autolearn=no version=2.60",False,-0.3,False,0.7189408625521978
+715,<468F3FDA28AA87429AD807992E22D07EF2C15B@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_70_80, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+716,<1084193665.1043.143.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+717,<1084194848.1042.168.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+718,<002401c436a5$2a6f2f90$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+719,<002c01c436a6$b9080c80$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+720,<468F3FDA28AA87429AD807992E22D07EF2C4FF@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+721,<468F3FDA28AA87429AD807992E22D07EF2C52A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+722,<468F3FDA28AA87429AD807992E22D07EF2C542@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+723,<468F3FDA28AA87429AD807992E22D07EF2C5EC@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+724,<468F3FDA28AA87429AD807992E22D07EF2C614@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+725,<468F3FDA28AA87429AD807992E22D07EF2C62C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+726,<468F3FDA28AA87429AD807992E22D07EF2C78C@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+727,<468F3FDA28AA87429AD807992E22D07EF2C932@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_60_70, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+728,<468F3FDA28AA87429AD807992E22D07EF2CAD2@orsmsx408.jf.intel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL,HTML_50_60, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+729,<03ae01c436f1$abf895f0$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+730,<468F3FDA28AA87429AD807992E22D07EFA0F19@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+731,<03db01c436f7$451e4450$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+732,<40A02D12.40306@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-0.1,False,0.7189408625521978
+733,<468F3FDA28AA87429AD807992E22D07EFA0F28@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+734,<009401c436fa$87955050$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+735,<002701c43770$cc6a2630$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+736,<468F3FDA28AA87429AD807992E22D07EFA1565@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_60_70,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+737,<468F3FDA28AA87429AD807992E22D07EFA191B@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+738,<045c01c437cc$1d77c0e0$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+739,<1084358909.1047.17.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+740,<1084359905.1049.38.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+741,<1084360207.1049.45.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+742,<1084365100.1047.119.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+743,<007f01c43822$447665b0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+744,<D2507D2E-A41C-11D8-8669-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+745,<468F3FDA28AA87429AD807992E22D07EFA1C7D@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+746,<468F3FDA28AA87429AD807992E22D07E01013842@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8280598436525115
+747,<468F3FDA28AA87429AD807992E22D07E01013A97@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+748,<468F3FDA28AA87429AD807992E22D07E01013E56@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.3,False,0.8035799187328447
+749,<005b01c438f2$e08e9be0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+750,<006901c438f5$21b29070$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+751,<1084458947.1022.37.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+752,<009c01c438fc$567615f0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+753,<468F3FDA28AA87429AD807992E22D07E010143E4@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+754,<40A3FEB6.8050301@zurich.ibm.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.7189408625521978
+755,<40A3FED6.7020809@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.7189408625521978
+756,<40A3FEFB.90708@zurich.ibm.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-0.1,False,0.7189408625521978
+757,<1084492880.1038.12.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+758,<1084492916.1039.14.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+759,<468F3FDA28AA87429AD807992E22D07E01014769@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+760,<1084495919.1039.51.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+761,<1084496779.1038.68.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+762,<468F3FDA28AA87429AD807992E22D07E0108CF88@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+763,<1084497519.1037.72.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+764,<1084497541.1037.74.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+765,<1084498078.1038.79.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+766,<05ed01c43983$faeab000$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+767,<05ee01c43983$ff821270$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+768,<05ef01c43984$03db8180$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+769,<DD93F60E-A5AC-11D8-8669-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+770,<468F3FDA28AA87429AD807992E22D07E0108D501@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+771,<40A53B93.1090104@zurich.ibm.com>,,,,"No, hits=0.6 required=5.0 tests=AWL,HTML_20_30,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,-0.1,False,0.7189408625521978
+772,<468F3FDA28AA87429AD807992E22D07E0108D6D3@orsmsx408.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+773,<40A5427A.2000101@zurich.ibm.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.7189408625521978
+774,<468F3FDA28AA87429AD807992E22D07E0108D8FC@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+775,<468F3FDA28AA87429AD807992E22D07E0108D8FE@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+776,<468F3FDA28AA87429AD807992E22D07E0108D900@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+777,<468F3FDA28AA87429AD807992E22D07E0108D902@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+778,<468F3FDA28AA87429AD807992E22D07E0108D907@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_50_60,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+779,<007101c43a22$8f069990$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+780,<468F3FDA28AA87429AD807992E22D07E0108D90A@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+781,<00e501c43a29$585ee260$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,3.2,False,0.7189408625521978
+782,<00f301c43a2c$dd14b3b0$020aa8c0@wwm1>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+783,<013d01c43a5e$9ead4970$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+784,<014b01c43a5f$e98072f0$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+785,<F22015B3-A656-11D8-B688-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+786,<F2EA3F0A-A665-11D8-B688-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+787,<B3A9A235-A666-11D8-B688-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+788,<468F3FDA28AA87429AD807992E22D07E0108D9EB@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+789,<468F3FDA28AA87429AD807992E22D07E0108D9F0@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+790,<468F3FDA28AA87429AD807992E22D07E0108D9F7@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,HTML_60_70, HTML_FONTCOLOR_UNKNOWN,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+791,<468F3FDA28AA87429AD807992E22D07E0108D9F8@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+792,<468F3FDA28AA87429AD807992E22D07E0108D9FC@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+793,<CE4630B2-A7FA-11D8-8F60-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+794,<3BCBA640-A7FB-11D8-8F60-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-0.7,False,0.7189408625521978
+795,<40A8B21D.3050405@zurich.ibm.com>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+796,<1084799709.1098.3079.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+797,<1084799762.1087.3083.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+798,<009301c43c15$cb5c7370$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+799,<010301c43c19$a06cf280$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+800,<011101c43c1b$5903eeb0$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+801,<DC504E9C3384054C8506D3E6BB012460013883FC@bsebe001.americas.nokia.com>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8674304598559883
+802,<40A8E39B.7020809@zurich.ibm.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+803,<468F3FDA28AA87429AD807992E22D07E0108DE24@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+804,<468F3FDA28AA87429AD807992E22D07E0108DE47@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+805,<468F3FDA28AA87429AD807992E22D07E01108C10@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,True,0.912777912911502
+806,<468F3FDA28AA87429AD807992E22D07E01109258@orsmsx408.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_40_50,HTML_MESSAGE  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+807,<468F3FDA28AA87429AD807992E22D07E0110925C@orsmsx408.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_FONT_FACE_BAD,HTML_MESSAGE autolearn=no  version=2.60",False,-2.0,False,0.8035799187328447
+808,<007a01c43c7c$9f6871d0$020aa8c0@wwm1>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+809,<468F3FDA28AA87429AD807992E22D07E01109276@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+810,<007b01c43c7f$2b102cd0$020aa8c0@wwm1>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+811,<1084847684.1038.287.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,True,0.912777912911502
+812,<468F3FDA28AA87429AD807992E22D07E01109279@orsmsx408.jf.intel.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+813,<00af01c43c86$652c41e0$020aa8c0@wwm1>,,,,"No, hits=2.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+814,<2DA49D8D-A8A3-11D8-A757-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+815,<58425B88-A8A3-11D8-A757-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+816,<40A9FE77.8020404@zurich.ibm.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+817,<077701c43ce0$df1bf9f0$875c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.8 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+818,<40AA4044.7080806@zurich.ibm.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+819,<468F3FDA28AA87429AD807992E22D07E011096B8@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+820,<40AA570E.20209@zurich.ibm.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+821,<468F3FDA28AA87429AD807992E22D07E011098DB@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+822,<468F3FDA28AA87429AD807992E22D07E011098E6@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+823,<1084907831.1022.6.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,True,0.912777912911502
+824,<014b01c43d7e$e07f76c0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+825,<40AB2254.9070501@zurich.ibm.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_MESSAGE, HTML_TITLE_EMPTY autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+826,<468F3FDA28AA87429AD807992E22D07E01164E19@orsmsx408.jf.intel.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+827,<468F3FDA28AA87429AD807992E22D07E01164E22@orsmsx408.jf.intel.com>,,,,"No, hits=0.5 required=5.0 tests=AWL,HTML_40_50, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+828,<468F3FDA28AA87429AD807992E22D07E01164E4B@orsmsx408.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_50_60, HTML_FONTCOLOR_BLUE,HTML_FONTCOLOR_RED,HTML_MESSAGE autolearn=no  version=2.60",False,-2.0,False,0.8035799187328447
+829,<01a301c43e18$889c7a30$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.8 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+830,<468F3FDA28AA87429AD807992E22D07E011C7D70@orsmsx408.jf.intel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+831,<468F3FDA28AA87429AD807992E22D07E011C82CE@orsmsx408.jf.intel.com>,,,,"No, hits=0.2 required=5.0 tests=AWL,HTML_60_70, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+832,<4656A84C-AAFF-11D8-8A8D-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-5.7,False,0.7189408625521978
+833,<1085140949.1040.3.camel@jzny.localdomain>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,True,0.912777912911502
+834,<468F3FDA28AA87429AD807992E22D07E0122EE38@orsmsx408.jf.intel.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+835,<40AE538C.4040606@zurich.ibm.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no  version=2.60",False,0.3,False,0.7189408625521978
+836,<468F3FDA28AA87429AD807992E22D07E0122F1C7@orsmsx408.jf.intel.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,HTML_20_30, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+837,<04b201c4413f$3979df90$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+838,<468F3FDA28AA87429AD807992E22D07E0122F42C@orsmsx408.jf.intel.com>,,,,"No, hits=0.6 required=5.0 tests=AWL,HTML_30_40, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+839,<04ea01c44145$6e24f080$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+840,<468F3FDA28AA87429AD807992E22D07E0122F436@orsmsx408.jf.intel.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,HTML_30_40, HTML_FONTCOLOR_BLUE,HTML_MESSAGE autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+841,<40B1ACE6.5020403@zurich.ibm.com>,,,,"No, hits=1.0 required=5.0 tests=AWL,HTML_30_40, HTML_FONTCOLOR_BLUE,HTML_MESSAGE,HTML_TITLE_EMPTY autolearn=no  version=2.60",False,0.3,False,0.7189408625521978
+842,<055801c44168$dc46d3d0$845c21d2@Necom.hzic.edu.cn>,,,,"No, hits=2.0 required=5.0 tests=AWL,FORGED_OUTLOOK_TAGS, MIME_BASE64_LATIN,MIME_BASE64_TEXT autolearn=no version=2.60",False,0.2,False,0.7189408625521978
+843,<57509C0A-0F41-11D9-95E2-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+844,<001001c4a35b$ffe97d60$020aa8c0@wwm1>,,0.3 (/),,,False,2.6,False,0.326959085371362
+845,<B9D2282C-0F58-11D9-95E2-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+846,<468F3FDA28AA87429AD807992E22D07E02579174@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+847,<F423F79A-1253-11D9-ACC2-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.4294826038093731
+848,<1097167049.1045.6.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+849,<468F3FDA28AA87429AD807992E22D07E02CEB630@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+850,<468F3FDA28AA87429AD807992E22D07E02CEBA13@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+851,<1097242414.1043.686.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+852,<1097246704.2341.124.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+853,<1097249647.1076.28.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+854,<468F3FDA28AA87429AD807992E22D07E025791A7@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+855,<1097271582.11637.22.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+856,<1097281985.1052.143.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+857,<468F3FDA28AA87429AD807992E22D07E025791AF@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8280598436525115
+858,<5.1.0.14.0.20041010010702.0233a138@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+859,<022c01c4aea1$d225b230$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+860,<5.1.0.14.0.20041010113017.0231ed20@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+861,<1097435715.1049.202.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+862,<1097436159.1047.209.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+863,<5.1.0.14.0.20041010154243.035f8db8@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+864,<1097458362.1049.240.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+865,<1097507566.3492.75.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+866,<1097514303.15083.35.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+867,<468F3FDA28AA87429AD807992E22D07E025791BB@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+868,<034c01c4b005$0e872740$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+869,<5.1.0.14.0.20041011230041.02307ee0@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+870,<2ED7E7BD-1C08-11D9-A3E1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+871,<468F3FDA28AA87429AD807992E22D07E025791C4@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+872,<468F3FDA28AA87429AD807992E22D07E025791C5@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8280598436525115
+873,<5.1.0.14.0.20041012071000.02398e08@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+874,<06a001c4b05b$9c2046d0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+875,<5.1.0.14.0.20041012092532.024079c8@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+876,<1097593071.1029.23.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+877,<1097594514.1029.46.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+878,<416CF482.6010801@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+879,<468F3FDA28AA87429AD807992E22D07E025791C9@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+880,<468F3FDA28AA87429AD807992E22D07E025791CB@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+881,<DC504E9C3384054C8506D3E6BB012460027BD687@bsebe001.americas.nokia.com>,,0.3 (/),,,False,-2.0,False,0.8674304598559883
+882,<468F3FDA28AA87429AD807992E22D07E025791CE@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+883,<416D80FF.6000505@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+884,<468F3FDA28AA87429AD807992E22D07E02DEBD58@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+885,<1097776916.1041.55.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+886,<5.1.0.14.0.20041014140927.038ed048@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+887,<1097780156.1037.110.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+888,<1097781140.1037.130.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+889,<1097781264.1039.134.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+890,<1097781293.2893.27.camel@localhost.localdomain>,,0.1 (/),,,False,0.5,False,0.7189408625521978
+891,<468F3FDA28AA87429AD807992E22D07E02E27CB8@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+892,<1097784603.1041.140.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+893,<468F3FDA28AA87429AD807992E22D07E02E28004@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+894,<1097807813.1041.18.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+895,<468F3FDA28AA87429AD807992E22D07E025791DB@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+896,<1097865957.1036.235.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+897,<468F3FDA28AA87429AD807992E22D07E02E60996@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+898,<468F3FDA28AA87429AD807992E22D07E02E609BC@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+899,<5.1.0.14.0.20041015170907.024ca0c0@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+900,<2AF68A477DD44C4EBCBE338C24E7A9EE018370B4@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+901,<468F3FDA28AA87429AD807992E22D07E02E60C6D@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+902,<1097885352.1049.8.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+903,<5.1.0.14.0.20041015200825.02301940@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+904,<1097885570.1049.12.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+905,<5.1.0.14.0.20041015201212.02416bf0@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+906,<468F3FDA28AA87429AD807992E22D07E02E98513@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+907,<1097886077.1043.15.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+908,<468F3FDA28AA87429AD807992E22D07E02E98520@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+909,<1097886727.1049.20.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+910,<1097887251.1042.28.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+911,<5.1.0.14.0.20041015211901.02301680@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+912,<468F3FDA28AA87429AD807992E22D07E02E985A6@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+913,<468F3FDA28AA87429AD807992E22D07E02E985D8@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+914,<5.1.0.14.0.20041015235333.023f5850@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+915,<1097900642.19064.13.camel@localhost.localdomain>,,0.1 (/),,,True,7.0,False,0.7189408625521978
+916,<468F3FDA28AA87429AD807992E22D07E025791E2@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+917,<1097927770.1043.35.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+918,<1097938814.1042.45.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+919,<1097940541.1043.51.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+920,<1097973624.2681.25.camel@localhost.localdomain>,,0.1 (/),,,False,2.8,False,0.7189408625521978
+921,<1097984736.2681.210.camel@localhost.localdomain>,,0.1 (/),,,False,2.8,False,0.7189408625521978
+922,<5.1.0.14.0.20041017003820.02343a88@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+923,<1098022941.1049.58.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+924,<1098024636.1049.87.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+925,<1098026308.1043.115.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+926,<1098036789.1042.120.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+927,<468F3FDA28AA87429AD807992E22D07E025791E5@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+928,<002d01c4b50b$1ecc9c10$020aa8c0@wwm1>,,0.3 (/),,,False,2.6,False,0.7189408625521978
+929,<1098102734.1042.134.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+930,<013101c4b51d$a50761e0$020aa8c0@wwm1>,,0.3 (/),,,False,2.6,False,0.7189408625521978
+931,<1098115003.2884.67.camel@localhost.localdomain>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+932,<1098113089.2364.12.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+933,<1098028107.2681.214.camel@localhost.localdomain>,,0.1 (/),,,False,2.8,False,0.8035799187328447
+934,<4173FB88.1000008@idt.com>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+935,<1098126011.2884.162.camel@localhost.localdomain>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+936,<5.1.0.14.0.20041018151520.03591698@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+937,<41741D78.4070205@idt.com>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+938,<1098129074.2884.195.camel@localhost.localdomain>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+939,<1098132328.2884.250.camel@localhost.localdomain>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+940,<5.1.0.14.0.20041018165715.03523890@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+941,<1098133781.1075.437.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+942,<1098133900.1074.442.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+943,<1098134060.1077.446.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+944,<1098135051.2884.302.camel@localhost.localdomain>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+945,<5.1.0.14.0.20041018174605.022d36a8@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+946,<03a101c4b590$21dcc0d0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+947,<1098163857.2662.81.camel@localhost.localdomain>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+948,<468F3FDA28AA87429AD807992E22D07E025791E9@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+949,<04a501c4b5c6$323cbd50$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+950,<04ab01c4b5c7$1332c430$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+951,<1098190180.1089.912.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+952,<5.1.0.14.0.20041019093826.0232d418@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+953,<417528E3.3080305@idt.com>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+954,<417529DC.8000704@idt.com>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+955,<1098198457.1032.1.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+956,<417573E8.7070502@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+957,<41757407.2040007@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+958,<1098217299.1029.63.camel@jzny.localdomain>,,2.2 (++),,,False,-0.8,False,0.8674304598559883
+959,<1098228213.1044.56.camel@jzny.localdomain>,,0.0 (/),,,False,-0.7,True,0.912777912911502
+960,<054301c4b65b$96a52120$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+961,<050c01c4b64d$12c9f960$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+962,<055401c4b669$97a1c840$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.9,False,0.7189408625521978
+963,<468F3FDA28AA87429AD807992E22D07E025791EF@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+964,<DC504E9C3384054C8506D3E6BB012460027BD6BC@bsebe001.americas.nokia.com>,,0.9 (/),,,False,-2.0,True,0.912777912911502
+965,<417619DA.4050000@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+966,<5.1.0.14.0.20041020070534.0240c390@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+967,<417651A7.3090808@zurich.ibm.com>,,0.6 (/),,,False,3.0,False,0.3362094002432192
+968,<417651A1.5030600@zurich.ibm.com>,,0.6 (/),,,False,-0.4,False,0.7189408625521978
+969,<1098275730.1042.78.camel@jzny.localdomain>,,0.0 (/),,,False,-0.7,True,0.912777912911502
+970,<1098277687.2072.9.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+971,<00e901c4b6a9$892e55e0$020aa8c0@wwm1>,,0.3 (/),,,False,2.6,False,0.7189408625521978
+972,<744804BA-22B3-11D9-A3E1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+973,<468F3FDA28AA87429AD807992E22D07E02F5D236@orsmsx408>,,1.1 (+),,,False,-2.0,False,0.8035799187328447
+974,<468F3FDA28AA87429AD807992E22D07E02F5D468@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+975,<468F3FDA28AA87429AD807992E22D07E02F5D4B8@orsmsx408>,,0.6 (/),,,False,-2.0,False,0.8035799187328447
+976,<468F3FDA28AA87429AD807992E22D07E02F5DD34@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+977,<06c101c4b729$290c4a70$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+978,<2014EB24-2320-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+979,<468F3FDA28AA87429AD807992E22D07E025791F7@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8280598436525115
+980,<5.1.0.14.0.20041021083344.031453b8@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+981,<DC504E9C3384054C8506D3E6BB012460027BD6CD@bsebe001.americas.nokia.com>,,0.9 (/),,,False,-2.0,True,0.912777912911502
+982,<015901c4b774$56538520$020aa8c0@wwm1>,,0.3 (/),,,False,2.6,False,0.7189408625521978
+983,<5.1.0.14.0.20041021100215.0244e7c8@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+984,<4177C1E2.4080506@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.3362094002432192
+985,<000d01c4b778$a015d380$8401a8c0@dlg>,,3.6 (+++),,,False,-1.0,False,0.08446617402939192
+986,<4177F37E.9050205@zurich.ibm.com>,,1.5 (+),,,False,-0.4,False,0.7189408625521978
+987,<1098382235.1029.93.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+988,<468F3FDA28AA87429AD807992E22D07E02579200@orsmsx408>,,0.2 (/),,,False,-2.0,False,0.8035799187328447
+989,<1098383190.2883.386.camel@localhost.localdomain>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+990,<1098385216.2340.239.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+991,<5.1.0.14.0.20041021152630.022f5218@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+992,<468F3FDA28AA87429AD807992E22D07E02F99D71@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+993,<1098389749.1029.136.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.9436217532232828
+994,<41781915.1030401@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+995,<1098389939.1029.140.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+996,<41781AA4.1020405@zurich.ibm.com>,,0.8 (/),,,False,-0.4,False,0.7189408625521978
+997,<1098390473.2340.263.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+998,<41781F3D.304@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+999,<1098391662.2340.276.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+1000,<468F3FDA28AA87429AD807992E22D07E02F99EC4@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1001,<1098393795.2340.287.camel@localhost.localdomain>,,0.0 (/),,,False,0.5,False,0.7189408625521978
+1002,<468F3FDA28AA87429AD807992E22D07E02F9A021@orsmsx408>,,0.9 (/),,,False,-2.0,False,0.8035799187328447
+1003,<468F3FDA28AA87429AD807992E22D07E02F9A026@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1004,<468F3FDA28AA87429AD807992E22D07E02F9A085@orsmsx408>,,1.5 (+),,,False,-2.0,False,0.8035799187328447
+1005,<48103EA9-23BE-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1006,<005a01c4b7dd$35248de0$8401a8c0@dlg>,,3.6 (+++),,,False,-1.0,False,0.08446617402939192
+1007,<0e9d01c4b7dd$9c19d2d0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.9,False,0.7189408625521978
+1008,<468F3FDA28AA87429AD807992E22D07E02579204@orsmsx408>,,0.2 (/),,,False,-2.0,False,0.8035799187328447
+1009,<0ee501c4b7de$f24000c0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1010,<0f0501c4b7e1$925dec50$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.9,False,0.7189408625521978
+1011,<570BE1B0-23E8-11D9-9DB1-000393CC2112@acm.org>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1012,<468F3FDA28AA87429AD807992E22D07E02579206@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1013,<65E308B0-23F1-11D9-9DB1-000393CC2112@acm.org>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1014,<468F3FDA28AA87429AD807992E22D07E02579209@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1015,<420441FF-23F7-11D9-9DB1-000393CC2112@acm.org>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1016,<00dd01c4b803$806bd620$8401a8c0@dlg>,,1.4 (+),,,False,-1.0,False,0.7189408625521978
+1017,<468F3FDA28AA87429AD807992E22D07E0257920C@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1018,<4178B909.3010904@zurich.ibm.com>,,1.5 (+),,,False,-0.4,False,0.3362094002432192
+1019,<468F3FDA28AA87429AD807992E22D07E0257920D@orsmsx408>,,0.7 (/),,,False,-2.0,False,0.8035799187328447
+1020,<0fe601c4b816$d55930c0$845c21d2@Necom.hzic.edu.cn>,,3.6 (+++),,,False,0.2,False,0.08446617402939192
+1021,<4178D2A9.3040207@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+1022,<4178D3D1.3080608@zurich.ibm.com>,,0.8 (/),,,False,-0.4,False,0.3362094002432192
+1023,<102601c4b824$15a75dc0$845c21d2@Necom.hzic.edu.cn>,,3.6 (+++),,,False,0.2,False,0.08446617402939192
+1024,<1098442868.1112.38.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1025,<1098443159.1112.43.camel@jzny.localdomain>,,2.2 (++),,,False,-0.8,False,0.8674304598559883
+1026,<DC504E9C3384054C8506D3E6BB012460027BD6D5@bsebe001.americas.nokia.com>,,0.3 (/),,,False,-2.0,False,0.8674304598559883
+1027,<108701c4b84a$8028ba60$845c21d2@Necom.hzic.edu.cn>,,2.0 (++),,,False,0.2,False,0.7189408625521978
+1028,<10ae01c4b84b$b3991ab0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+1029,<468F3FDA28AA87429AD807992E22D07E02FD8F10@orsmsx408>,,0.9 (/),,,False,-2.0,False,0.8035799187328447
+1030,<468F3FDA28AA87429AD807992E22D07E02FD8F49@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1031,<417935D9.1080609@zurich.ibm.com>,,0.9 (/),,,False,-0.4,False,0.3362094002432192
+1032,<468F3FDA28AA87429AD807992E22D07E02FD8F67@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1033,<468F3FDA28AA87429AD807992E22D07E02FD8F7D@orsmsx408>,,0.9 (/),,,False,-2.0,False,0.8035799187328447
+1034,<1098464119.1028.116.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1035,<FF33DAB0-2450-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.4294826038093731
+1036,<468F3FDA28AA87429AD807992E22D07E02FD9153@orsmsx408>,,1.5 (+),,,False,-2.0,False,0.8035799187328447
+1037,<468F3FDA28AA87429AD807992E22D07E02FD91BE@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1038,<49B7F78C-2457-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.4294826038093731
+1039,<4179571E.2080400@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+1040,<1098472803.1399.13.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1041,<7AA0AA41-245F-11D9-9DB1-000393CC2112@acm.org>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1042,<468F3FDA28AA87429AD807992E22D07E02FD98CE@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1043,<468F3FDA28AA87429AD807992E22D07E02FD992D@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1044,<468F3FDA28AA87429AD807992E22D07E02FD9935@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1045,<9C886B40-2490-11D9-9DB1-000393CC2112@acm.org>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1046,<468F3FDA28AA87429AD807992E22D07E0257920E@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1047,<1810BAF0-2497-11D9-9DB1-000393CC2112@acm.org>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1048,<1098499610.1097.21.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1049,<1098500299.1255.33.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1050,<009801c4b8b6$36ce1290$020aa8c0@wwm1>,,3.8 (+++),,,False,2.6,False,0.7189408625521978
+1051,<5186A928-24AA-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1052,<468F3FDA28AA87429AD807992E22D07E02579210@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1053,<1E526654-24BF-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1054,<115301c4b8ce$eaae4600$845c21d2@Necom.hzic.edu.cn>,,3.7 (+++),,,False,0.2,False,0.7189408625521978
+1055,<115c01c4b8cf$41ed5370$845c21d2@Necom.hzic.edu.cn>,,3.9 (+++),,,False,1.0,False,0.7189408625521978
+1056,<417A23E6.7010504@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1057,<005b01c4b907$242b1790$020aa8c0@wwm1>,,0.3 (/),,,False,4.1,False,0.08446617402939192
+1058,<C4CB0B3C-251F-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1059,<417AA86E.2030209@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1060,<417AA8B6.1040601@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1061,<1098558297.1096.37.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1062,<1098558745.1097.42.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1063,<1098558941.1097.44.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1064,<417AADED.9080605@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1065,<1098559174.1096.49.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1066,<CE5A3946-252D-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1067,<1098562040.1097.65.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1068,<1098562959.1096.80.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1069,<1098563810.1096.93.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1070,<1098564534.1098.106.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1071,<1098565348.1255.120.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1072,<1098565640.1096.124.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1073,<468F3FDA28AA87429AD807992E22D07E02579214@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1074,<1098569023.1255.127.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1075,<8A5F7941-253F-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1076,<122b01c4b9be$50fa1cf0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+1077,<124b01c4b9c0$3698cee0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.9,False,0.08446617402939192
+1078,<128f01c4b9c0$fe9df280$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.9,False,0.326959085371362
+1079,<130801c4b9c3$ac205d60$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1080,<131601c4b9c4$31934480$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1081,<1098623230.1255.136.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1082,<1098623794.1255.145.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1083,<1098623879.1255.148.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1084,<0F5DC2E6-25DB-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1085,<1098639759.1096.258.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1086,<F8BFA8B3-2604-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1087,<468F3FDA28AA87429AD807992E22D07E02579216@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1088,<1098666900.1096.267.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1089,<006f01c4ba44$7f3c7eb0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1090,<007001c4ba44$fc908a50$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1091,<1098677932.1255.309.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1092,<1098678563.1097.319.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1093,<279A441C-2645-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1094,<468F3FDA28AA87429AD807992E22D07E02579218@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1095,<9416488A-2648-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1096,<468F3FDA28AA87429AD807992E22D07E0257921A@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1097,<468F3FDA28AA87429AD807992E22D07E0257921B@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1098,<9106BAA6-264C-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1099,<011b01c4ba59$a233b590$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1100,<468F3FDA28AA87429AD807992E22D07E0257921F@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1101,<561F7F38-264E-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1102,<468F3FDA28AA87429AD807992E22D07E02579220@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1103,<01a001c4ba5b$57078f40$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+1104,<468F3FDA28AA87429AD807992E22D07E02579222@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1105,<01ad01c4ba5c$0437f470$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+1106,<468F3FDA28AA87429AD807992E22D07E02579223@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1107,<B5625BE5-2650-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1108,<09EA59E1-2651-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1109,<468F3FDA28AA87429AD807992E22D07E02579224@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1110,<BA344388-2651-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1111,<022701c4ba5e$17fc2830$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+1112,<468F3FDA28AA87429AD807992E22D07E02579226@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1113,<DA4A69B8-2652-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1114,<F36B26BE-2652-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1115,<468F3FDA28AA87429AD807992E22D07E02579227@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1116,<C5B6861C-2656-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1117,<468F3FDA28AA87429AD807992E22D07E02579228@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1118,<4C9FC587-2658-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1119,<572328E8-265E-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1120,<00c601c4ba72$241599d0$8401a8c0@dlg>,,1.4 (+),,,False,-1.0,False,0.7189408625521978
+1121,<417CE8C7.2050701@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1122,<417CE979.4010606@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1123,<1098722995.1034.67.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1124,<1F9AD305-26BD-11D9-9DB1-000393CC2112@psg.com>,,1.4 (+),,,False,-0.8,False,0.7189408625521978
+1125,<417D61D4.6000909@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1126,<468F3FDA28AA87429AD807992E22D07E0302DC3C@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1127,<468F3FDA28AA87429AD807992E22D07E0302DC49@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1128,<468F3FDA28AA87429AD807992E22D07E0302DC76@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1129,<468F3FDA28AA87429AD807992E22D07E0302DC90@orsmsx408>,,0.3 (/),,,False,-2.0,False,0.8035799187328447
+1130,<468F3FDA28AA87429AD807992E22D07E0302DCB8@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1131,<E7A3595A-26C8-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1132,<468F3FDA28AA87429AD807992E22D07E0302DD1B@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1133,<417D6AF3.1010502@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1134,<417D6BFF.4080409@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1135,<468F3FDA28AA87429AD807992E22D07E0302DD86@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1136,<417D6E58.4030204@zurich.ibm.com>,,1.0 (+),,,False,-0.4,False,0.7189408625521978
+1137,<468F3FDA28AA87429AD807992E22D07E0302DDD0@orsmsx408>,,1.1 (+),,,False,-2.0,False,0.8035799187328447
+1138,<CD1B278E-26E3-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1139,<1098753460.1041.29.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1140,<1098753546.1045.31.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1141,<002001c4bafa$df86cbc0$8401a8c0@dlg>,,2.5 (++),,,False,-1.0,False,0.7189408625521978
+1142,<009201c4bafb$c6e2da90$8401a8c0@dlg>,,3.6 (+++),,,False,0.0,False,0.326959085371362
+1143,<04e701c4bb02$c371cb80$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+1144,<1098758382.1042.34.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1145,<04f701c4bb06$78dcca30$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1146,<053c01c4bb0a$47497500$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1147,<5.1.0.14.0.20041025234709.022f37b8@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+1148,<DAFCC693-2702-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1149,<055f01c4bb10$74623300$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1150,<468F3FDA28AA87429AD807992E22D07E0257922E@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1151,<058f01c4bb15$232c4e30$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1152,<1098788345.1045.48.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1153,<1098788530.1045.52.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1154,<5.1.0.14.0.20041026070458.0239e560@mail.megisto.com>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+1155,<1098789378.1041.55.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1156,<1098789452.1044.57.camel@jzny.localdomain>,,2.2 (++),,,False,-0.8,False,0.8674304598559883
+1157,<DC504E9C3384054C8506D3E6BB012460027BD6EE@bsebe001.americas.nokia.com>,,0.3 (/),,,False,-2.0,False,0.8674304598559883
+1158,<468F3FDA28AA87429AD807992E22D07E02579239@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1159,<964204F8-276F-11D9-9DB1-000393CC2112@psg.com>,,0.3 (/),,,False,-0.7,False,0.7189408625521978
+1160,<417E8626.4070701@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1161,<468F3FDA28AA87429AD807992E22D07E0306B008@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1162,<468F3FDA28AA87429AD807992E22D07E0306B03E@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8674304598559883
+1163,<468F3FDA28AA87429AD807992E22D07E0306B070@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1164,<468F3FDA28AA87429AD807992E22D07E0306B22B@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1165,<1098816427.1029.63.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1166,<468F3FDA28AA87429AD807992E22D07E0306B2A1@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1167,<468F3FDA28AA87429AD807992E22D07E0257923F@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1168,<468F3FDA28AA87429AD807992E22D07E0257923E@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8280598436525115
+1169,<1098883706.1029.11.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1170,<0d0001c4bc30$66067d90$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1171,<1098888008.1029.33.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1172,<0d4701c4bc36$ac639600$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1173,<468F3FDA28AA87429AD807992E22D07E02579243@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1174,<468F3FDA28AA87429AD807992E22D07E030E6F45@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1175,<468F3FDA28AA87429AD807992E22D07E030E6FA5@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1176,<468F3FDA28AA87429AD807992E22D07E03127C40@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1177,<001301c4bd4f$63d66ec0$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.326959085371362
+1178,<468F3FDA28AA87429AD807992E22D07E02579248@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1179,<468F3FDA28AA87429AD807992E22D07E02579249@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1180,<1099054567.1026.115.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1181,<1099055108.1028.125.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1182,<468F3FDA28AA87429AD807992E22D07E03128AB1@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1183,<1099073360.1025.30.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1184,<468F3FDA28AA87429AD807992E22D07E031688E1@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1185,<EED853F9-29F4-11D9-BF46-000393CC2112@psg.com>,,0.3 (/),,,False,-0.8,False,0.7189408625521978
+1186,<1099093301.1039.4.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1187,<005f01c4bf4f$7c9f1ae0$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.8035799187328447
+1188,<468F3FDA28AA87429AD807992E22D07E031B9F43@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1189,<4187F834.40102@zurich.ibm.com>,,0.0 (/),,,False,0.6,False,0.3362094002432192
+1190,<002a01c4c406$2bdce040$020aa8c0@wwm1>,,3.7 (+++),,,False,2.6,False,0.7189408625521978
+1191,<005101c4c408$dc341600$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.7189408625521978
+1192,<1099752095.1037.11.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1193,<468F3FDA28AA87429AD807992E22D07E02579264@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1194,<468F3FDA28AA87429AD807992E22D07E02579263@orsmsx408>,,0.2 (/),,,False,-2.0,False,0.8035799187328447
+1195,<003201c4c46d$1bbce4a0$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.7189408625521978
+1196,<418E2B60.3050706@zurich.ibm.com>,,1.3 (+),,,False,-0.4,False,0.7189408625521978
+1197,<004c01c4c4ed$08882590$020aa8c0@wwm1>,,3.7 (+++),,,False,2.6,False,0.7189408625521978
+1198,<004201c4c4ec$61d34c20$020aa8c0@wwm1>,,0.8 (/),,,False,2.6,False,0.7189408625521978
+1199,<1099812315.2127.3.camel@jzny.localdomain>,,0.6 (/),,,False,3.7,True,0.912777912911502
+1200,<1099812606.2130.9.camel@jzny.localdomain>,,2.0 (++),,,False,3.7,True,0.912777912911502
+1201,<468F3FDA28AA87429AD807992E22D07E02579266@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1202,<1099828066.2167.4.camel@jzny.localdomain>,,0.6 (/),,,False,3.7,True,0.912777912911502
+1203,<1099829057.2165.18.camel@jzny.localdomain>,,2.0 (++),,,False,3.7,True,0.912777912911502
+1204,<418EAFBE.3070005@zurich.ibm.com>,,1.0 (+),,,False,-0.4,False,0.7189408625521978
+1205,<468F3FDA28AA87429AD807992E22D07E0257926B@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1206,<003701c4c534$dc84abb0$020aa8c0@wwm1>,,3.7 (+++),,,False,2.6,False,0.7189408625521978
+1207,<00bd01c4c536$fb418ee0$020aa8c0@wwm1>,,1.9 (+),,,False,3.2,False,0.7189408625521978
+1208,<1099878679.2269.3.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1209,<1099885892.2167.13.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1210,<468F3FDA28AA87429AD807992E22D07E0257926C@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1211,<130001c4c54e$28fb5f20$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1212,<132001c4c551$86023150$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1213,<1099911200.2169.29.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1214,<134f01c4c585$216584c0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.9,False,0.7189408625521978
+1215,<1099913354.2172.67.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1216,<1099886995.2169.17.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1217,<1099918690.2172.71.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1218,<468F3FDA28AA87429AD807992E22D07E03301281@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1219,<CE95815C-327E-11D9-9B32-000393CC2112@acm.org>,,0.3 (/),,,False,-5.7,False,0.7189408625521978
+1220,<468F3FDA28AA87429AD807992E22D07E0338A070@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1221,<419126B7.8010107@zurich.ibm.com>,,0.0 (/),,,False,-0.4,False,0.7189408625521978
+1222,<4191299F.4020809@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+1223,<143001c4c6d6$4712c550$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.326959085371362
+1224,<142a01c4c6d6$13569980$845c21d2@Necom.hzic.edu.cn>,,3.6 (+++),,,False,0.2,False,0.7189408625521978
+1225,<1100100893.2210.24.camel@jzny.localdomain>,,2.2 (++),,,False,2.6,False,0.8674304598559883
+1226,<14fc01c4c79f$75231f20$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1227,<4193660E.2070601@zurich.ibm.com>,,0.5 (/),,,False,-0.4,False,0.7189408625521978
+1228,<6.1.2.0.0.20041111091015.03bafec0@localhost>,,0.0 (/),,,False,-1.0,False,0.8674304598559883
+1229,<154301c4c8b9$b907fd30$845c21d2@Necom.hzic.edu.cn>,,3.6 (+++),,,False,0.9,False,0.7189408625521978
+1230,<154401c4c8be$a236d360$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1231,<155001c4c8c0$5eb73ec0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1232,<1100269665.1106.30.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1233,<1100270123.1106.32.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1234,<156501c4c8c5$1fb19220$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.9,False,0.7189408625521978
+1235,<1100271071.1109.38.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1236,<6.1.2.0.0.20041112105212.03a87ec0@localhost>,,0.0 (/),,,False,-1.0,False,0.8035799187328447
+1237,<6.1.2.0.0.20041112105438.03a67ec0@localhost>,,0.0 (/),,,False,-1.0,False,0.8035799187328447
+1238,<1100307886.1110.20.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1239,<6.1.2.0.0.20041112220931.03c89ec0@localhost>,,0.1 (/),,,False,-1.0,False,0.7189408625521978
+1240,<008a01c4c932$f2674b20$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.7189408625521978
+1241,<009a01c4c934$99cf7990$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.7189408625521978
+1242,<6.1.2.0.0.20041112230835.03f0b0f0@localhost>,,0.1 (/),,,False,-1.0,False,0.8035799187328447
+1243,<1100381538.2212.914.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1244,<6.1.2.0.0.20041113170557.03b05e00@localhost>,,0.1 (/),,,False,-1.0,False,0.8035799187328447
+1245,<1100458281.2327.23.camel@jzny.localdomain>,,0.0 (/),,,False,2.6,True,0.912777912911502
+1246,<6.1.2.0.0.20041114232007.03aa8a30@localhost>,,0.1 (/),,,False,-1.0,False,0.8035799187328447
+1247,<009e01c4cb24$ba144bd0$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.8380923741461609
+1248,<1100610279.1152.33.camel@jzny.localdomain>,,0.0 (/),,,False,-1.0,True,0.912777912911502
+1249,<6.1.2.0.0.20041116150436.03b89ec0@localhost>,,0.0 (/),,,False,-1.0,False,0.8035799187328447
+1250,<002401c4ccb0$be49bb30$020aa8c0@wwm1>,,0.4 (/),,,False,2.6,False,0.7189408625521978
+1251,<002501c4ccb4$809d2b60$020aa8c0@wwm1>,,0.4 (/),,,False,3.2,False,0.7189408625521978
+1252,<6.1.2.0.0.20041117100841.03ac73e8@localhost>,,0.0 (/),,,False,-1.0,False,0.8035799187328447
+1253,<1100702562.1140.75.camel@jzny.localdomain>,,0.0 (/),,,False,-1.0,True,0.912777912911502
+1254,<198e01c4cd67$a6b0d9b0$845c21d2@Necom.hzic.edu.cn>,,0.3 (/),,,False,0.2,False,0.7189408625521978
+1255,<F116EC881E09A245957482093BEC57DE025BCB8F@orsmsx407>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+1256,<1100814638.1085.42.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,True,0.912777912911502
+1257,<14AAE078-6599-11D9-A299-000393CC2112@acm.org>,,0.3 (/),,,False,-5.7,False,0.42069953925179354
+1258,<468F3FDA28AA87429AD807992E22D07E03E3E6EB@orsmsx408>,,0.0 (/),,,False,-2.0,False,0.42069953925179354
+1259,<468F3FDA28AA87429AD807992E22D07E03F0E91F@orsmsx408>,,1.1 (+),,,False,-2.0,False,0.34529067587569834
+1260,<1106076425.1076.24.camel@jzny.localdomain>,,0.0 (/),,,False,-0.8,False,0.42069953925179354

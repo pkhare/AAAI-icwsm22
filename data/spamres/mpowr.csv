@@ -1,0 +1,277 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<E320A8529CF07E4C967ECC2F380B0CF9024441E6@bsebe001.americas.nokia.com>,,,,,False,-2.0,False,0.49999999999999784
+2,<p06100601bbfd472cc28e@[216.43.25.67]>,,,,,False,-0.8,False,0.03813740723243072
+3,<E320A8529CF07E4C967ECC2F380B0CF9027E4639@bsebe001.americas.nokia.com>,,,,,False,-2.0,False,0.49999999999999784
+4,<p06020403bbffe3fea475@[129.46.227.161]>,,,,,False,-0.8,False,0.03813740723243072
+5,<E320A8529CF07E4C967ECC2F380B0CF9027E463F@bsebe001.americas.nokia.com>,,,,,False,-2.0,False,0.49999999999999784
+6,<028201c3c0fb$332bd220$666015ac@dclkempt40>,,,,,False,3.6,False,0.16605644023286953
+7,<20031212220744.60050A2BE4@newdev.harvard.edu>,,,,,False,-1.0,False,0.49999999999999784
+8,<E320A8529CF07E4C967ECC2F380B0CF9027E4640@bsebe001.americas.nokia.com>,,,,,False,-2.0,False,0.49999999999999784
+9,<20031212221932.AA5DAA2C5F@newdev.harvard.edu>,,,,,False,-1.0,False,0.49999999999999784
+10,<E320A8529CF07E4C967ECC2F380B0CF9027E4642@bsebe001.americas.nokia.com>,,,,,False,-2.0,False,0.16605644023286953
+11,<p06100704bbfff16ba989@[216.43.25.67]>,,,,,False,-0.8,False,0.03813740723243072
+12,<20031212233009.5c0775e3.henrik@levkowetz.com>,,,,,False,-2.0,False,0.49999999999999784
+13,<E320A8529CF07E4C967ECC2F380B0CF9027E4644@bsebe001.americas.nokia.com>,,,,,False,-2.0,False,0.16605644023286953
+14,<58C19470-2CF5-11D8-80A3-000A95E35274@cisco.com>,,,,,False,-2.0,False,0.49999999999999784
+15,<02e501c3c104$26e72ba0$666015ac@dclkempt40>,,,,,False,3.6,False,0.16605644023286953
+16,<p06100706bc00187ed205@[216.43.25.67]>,,,,,False,-0.8,False,0.49999999999999784
+17,<DADF50F5EC506B41A0F375ABEB320636A8BD2C@esebe023.ntc.nokia.com>,,,,,False,-2.0,False,0.03813740723243072
+18,<DADF50F5EC506B41A0F375ABEB320636A8BD2D@esebe023.ntc.nokia.com>,,,,,False,-2.0,False,0.03813740723243072
+19,<17A2C000-2E4D-11D8-97F7-000393DB5366@cs.utk.edu>,,,,,False,-0.8,False,0.49999999999999784
+20,<030a01c3c330$cf260dd0$5b6015ac@dclkempt40>,,,,,False,3.6,False,0.49999999999999784
+21,<165181922.20031215084442@brandenburg.com>,,,,,False,-1.0,False,0.49999999999999784
+22,<1687762035.20031215085821@brandenburg.com>,,,,,False,-1.0,False,0.49999999999999784
+23,<E320A8529CF07E4C967ECC2F380B0CF9027E464C@bsebe001.americas.nokia.com>,,,,,False,-2.0,False,0.7189408625521978
+24,<p0610070cbc03a6fb3741@[216.43.25.67]>,,,,,False,-0.8,False,0.49999999999999784
+25,<041c01c3c34d$7050d6b0$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+26,<p06100701bc03d25c61eb@[216.43.25.67]>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-0.8,False,0.49999999999999784
+27,<04ac01c3c363$48b42510$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+28,<97768643.1071523286@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.3,False,0.6152907348201759
+29,<p06100707bc041a2434e6@[216.43.25.67]>,,,,"No, hits=1.9 required=5.0 tests=FORGED_MUA_EUDORA autolearn=no  version=2.60",False,-0.8,False,0.49999999999999784
+30,<A943FD84BD9ED41193460008C7918050072E93CF@ESEALNT419.al.sw.ericsson.se>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+31,<p06020401bc04cf3bd0a1@[64.134.94.169]>,,,,"No, hits=0.6 required=5.0 tests=AWL,SUBJ_HAS_SPACES  autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+32,<004e01c3c3f1$af209a70$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+33,<Pine.WNT.3.96.1031216105353.1528B-100000@tigger>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+34,<209066081.20031215141412@brandenburg.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+35,<20031216110504.08743892.moore@cs.utk.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+36,<20031216110904.6abd5613.moore@cs.utk.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+37,<200312161615.hBGGFIDM004047@rtp-core-2.cisco.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-0.1,False,0.49999999999999784
+38,<p06100708bc04edc5ce9d@[216.43.25.67]>,,,,"No, hits=2.6 required=5.0 tests=AWL,FORGED_MUA_EUDORA, NO_OBLIGATION autolearn=no version=2.60",False,-0.8,False,0.49999999999999784
+39,<Pine.GSO.4.58.0312160951240.23628@darkwing.uoregon.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+40,<01c501c3c3fe$e61bd8c0$5b6015ac@dclkempt40>,,,,"No, hits=0.7 required=5.0 tests=AWL, NO_OBLIGATION autolearn=no  version=2.60",False,3.6,False,0.49999999999999784
+41,<01cd01c3c3ff$3780ca90$5b6015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+42,<02c601c3c420$45177a70$5b6015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+43,<319857739.20031216121114@brandenburg.com>,,,,"No, hits=0.8 required=5.0 tests=PRIORITY_NO_NAME autolearn=no  version=2.60",False,-1.0,False,0.49999999999999784
+44,<004701c3c4bb$501e5740$5b6015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+45,<Pine.LNX.4.44.0312171855430.31695-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.00747371667236491
+46,<Pine.BSF.4.53.0312171041220.3995@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+47,<3FE0A274.4090002@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+48,<3FE0A58B.9050908@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.16605644023286953
+49,<20031217190128.GA16958@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+50,<Pine.BSF.4.53.0312171319320.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.00747371667236491
+51,<BA03B41AFFEA154B80DEB5BC9E4B65D0059179CB@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+52,<Pine.BSF.4.53.0312171403170.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.00747371667236491
+53,<20031217212721.GA18816@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+54,<3FE0CA27.1020308@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.25088471569886495
+55,<20031217212845.GB18816@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+56,<BA03B41AFFEA154B80DEB5BC9E4B65D0059179CC@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+57,<Pine.BSF.4.53.0312171428300.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.00747371667236491
+58,<20031217214636.GA19577@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+59,<3FE0DA2C.1000807@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.16605644023286953
+60,<Pine.BSF.4.53.0312171650040.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+61,<BA03B41AFFEA154B80DEB5BC9E4B65D0059179D1@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+62,<031e01c3c50f$1ffe80e0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.03813740723243072
+63,<3FDF979A.2000907@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+64,<3986118.20031217085154@brandenburg.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+65,<3FDFB128.8040107@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+66,<857062833.20031217084004@brandenburg.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+67,<3FDF9389.2050008@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+68,<3FDFADD7.1030701@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.809920439398234
+69,<Pine.LNX.4.44.0312180946500.12194-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+70,<3FE1CADA.6090305@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.16605644023286953
+71,<20031218171827.03130e4c.henrik@levkowetz.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+72,<015401c3c585$7fa0c230$5b6015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+73,<Pine.LNX.4.44.0312181845550.20325-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+74,<3FE1F45A.2030004@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+75,<BA03B41AFFEA154B80DEB5BC9E4B65D0059179D2@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+76,<022001c3c599$dc841e20$5b6015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+77,<3FE20BAA.6010803@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.16605644023286953
+78,<011901c3c654$24fdc830$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+79,<E320A8529CF07E4C967ECC2F380B0CF9027E46A0@bsebe001.americas.nokia.com>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.669270692071739
+80,<Pine.BSF.4.53.0312191127010.24835@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.015427546015362368
+81,<3FE35B1F.2000308@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+82,<022501c3c66e$656c3b80$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+83,<3FE36B39.8030905@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.16605644023286953
+84,<Pine.BSF.4.53.0312191148100.24835@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+85,<085501c3c6b5$b17aa150$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.03813740723243072
+86,<383969298.1071956717@localhost>,,,,"No, hits=0.2 required=5.0 tests=AWL,DATE_IN_PAST_12_24  autolearn=no version=2.60",False,-1.2,False,0.49999999999999784
+87,<11225820.1072112513@localhost>,,,,"No, hits=0.4 required=5.0 tests=AWL,DATE_IN_PAST_03_06  autolearn=no version=2.60",False,3.7,False,0.49999999999999784
+88,<3FE86D59.8060201@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+89,<Pine.BSF.4.53.0312230933510.47938@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+90,<3FE878B7.7080803@txc.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,REMOVE_IN_QUOTES  autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+91,<2ca901c3c97b$347b1db0$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.669270692071739
+92,<Pine.BSF.4.53.0312231037030.47938@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.00747371667236491
+93,<2ccf01c3c97d$b5993ec0$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.8923203972144867
+94,<2D588725-3572-11D8-B7AE-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.22737794128918348
+95,<Pine.BSF.4.53.0312231117340.47938@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.00747371667236491
+96,<2d7d01c3c987$cfa411f0$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+97,<E320A8529CF07E4C967ECC2F380B0CF9027E46C3@bsebe001.americas.nokia.com>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.49999999999999784
+98,<E320A8529CF07E4C967ECC2F380B0CF9027E46C4@bsebe001.americas.nokia.com>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.49999999999999784
+99,<Pine.BSF.4.53.0312231318390.47938@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+100,<Pine.BSF.4.53.0312231353320.47938@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+101,<2ed401c3c999$7a806540$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.49999999999999784
+102,<1746729.1072203435@KLENSIN-TP>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.49999999999999784
+103,<0a3701c3c9b2$a4401290$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.669270692071739
+104,<E320A8529CF07E4C967ECC2F380B0CF9027E46C9@bsebe001.americas.nokia.com>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.49999999999999784
+105,<3FE8E154.9040601@txc.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+106,<3FE8EAC4.1020403@txc.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+107,<0b3801c3c9c3$5d0b1940$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.03813740723243072
+108,<5752541.1072224831@scan.jck.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.49999999999999784
+109,<653042715.1072225793@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+110,<35351182.1072254430@scan.jck.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.49999999999999784
+111,<690576085.1072263327@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+112,<E1AZHQ3-00065m-LL@psg.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+113,<E1AZHuj-000BC9-L4@psg.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+114,<20031224224222.696311@bbprime>,,,,"No, hits=0.4 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+115,<902909174.1072475663@localhost>,,,,"No, hits=0.2 required=5.0 tests=AWL,DATE_IN_PAST_12_24  autolearn=no version=2.60",False,-1.2,False,0.49999999999999784
+116,<Pine.BSF.4.53.0312291140100.64996@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+117,<1124503550.1072697260@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+118,<Pine.BSF.4.53.0312291322220.64996@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+119,<78624766.1072716332@scan.jck.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.49999999999999784
+120,<2003122914956.233169@bbprime>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+121,<Pine.BSF.4.58.0401031452290.51127@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+122,<5.1.0.14.2.20040109064121.0427f9f8@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+123,<5.1.0.14.2.20040109062040.044e3c28@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.8035799187328447
+124,<Pine.LNX.4.44.0401091645080.29733-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8380923741461609
+125,<5.1.0.14.0.20040109102922.0194c078@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+126,<200401091634.33240.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+127,<20040109161200.GA10072@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+128,<BA03B41AFFEA154B80DEB5BC9E4B65D005917A0A@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+129,<BA03B41AFFEA154B80DEB5BC9E4B65D005917A0B@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8380923741461609
+130,<00b201c3d6d5$8ed72b70$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.8380923741461609
+131,<00c701c3d6d6$2a2c2f30$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+132,<Pine.BSF.4.58.0401090943190.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+133,<20040109181541.GA12092@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+134,<5.1.0.14.2.20040109130255.044b4360@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+135,<Pine.LNX.4.44.0401091953270.1018-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+136,<Pine.BSF.4.58.0401091134040.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+137,<5.1.0.14.2.20040109084557.044db960@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+138,<20040109193823.GA13050@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+139,<5.1.0.14.2.20040109142310.0427f9f8@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+140,<Pine.BSF.4.58.0401091201300.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+141,<Pine.BSF.4.58.0401091320370.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+142,<Pine.BSF.4.58.0401091330070.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+143,<5.1.0.14.2.20040109142330.044f8e38@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+144,<01b801c3d6f8$4e34c320$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+145,<Pine.BSF.4.58.0401091417380.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+146,<019b01c3d6f7$36ca0020$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+147,<Pine.BSF.4.58.0401091432420.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+148,<5.1.0.14.2.20040109164956.044d9f80@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+149,<Pine.BSF.4.58.0401091445370.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+150,<20040109224921.63512829.henrik@levkowetz.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+151,<020601c3d6fe$9a5513d0$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+152,<5.1.0.14.2.20040109150128.044e0e10@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+153,<FCAFAD34-42F2-11D8-AFFF-000A95E35274@cisco.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,EXCUSE_3 autolearn=no  version=2.60",False,-2.0,False,0.7189408625521978
+154,<Pine.BSF.4.58.0401091528460.62437@measurement-factory.com>,,,,"No, hits=0.1 required=5.0 tests=AWL,EXCUSE_3 autolearn=no  version=2.60",False,-1.0,False,0.7189408625521978
+155,<p0610072ebc24de588929@[216.43.25.67]>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+156,<8657C180-42F6-11D8-AFFF-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+157,<20041915357.860296@bbprime>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+158,<Pine.BSF.4.58.0401091553130.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+159,<Pine.BSF.4.58.0401091606170.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+160,<022e01c3d707$93343140$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+161,<024e01c3d708$54676bc0$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+162,<Pine.BSF.4.58.0401091628530.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+163,<2089172591.1073661950@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+164,<Pine.BSF.4.58.0401091647200.62437@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+165,<029201c3d712$48293870$606015ac@dclkempt40>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+166,<5.1.0.14.2.20040109202017.044b4360@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+167,<5.1.0.14.2.20040109203410.04552a28@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.8035799187328447
+168,<5.1.0.14.2.20040109165451.044f8e38@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+169,<003701c3d737$5b361530$386015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+170,<Pine.BSF.4.58.0401092229580.93125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+171,<5.1.0.14.0.20040110013737.018ef758@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+172,<Pine.LNX.4.44.0401100842110.9655-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+173,<Pine.LNX.4.44.0401100844190.9655-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+174,<Pine.LNX.4.44.0401101043530.11003-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+175,<40002933.1010505@txc.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+176,<4000449F.9020501@txc.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+177,<5.1.0.14.2.20040110134502.03860c10@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+178,<4000B961.2020604@txc.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+179,<009201c3d7f1$29610460$a76015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+180,<4000CFC2.8040302@txc.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+181,<4000E4E9.8030903@txc.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+182,<004e01c3d83e$41e69bb0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+183,<5.1.0.14.2.20040111072407.0288f760@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+184,<5.1.0.14.2.20040111074241.03867270@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+185,<00a301c3d874$f42e5930$616015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+186,<00a401c3d874$f71e4d30$616015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+187,<00a501c3d874$f9f70fb0$616015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+188,<5.1.0.14.2.20040111162237.0368d9b8@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+189,<5.1.0.14.2.20040111162422.036d4d58@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+190,<006401c3d8a5$25f4ceb0$606015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+191,<006501c3d8a5$28b6d4e0$606015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+192,<200401120852.08793.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+193,<Pine.BSF.4.58.0401121037360.15125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+194,<Pine.BSF.4.58.0401121520270.15125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+195,<20040112230232.GA19401@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+196,<20040112231316.GA19744@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+197,<200401131136.03482.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+198,<85701622.1073982840@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+199,<200401131603.i0DG3OK6024323@rtp-core-2.cisco.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+200,<Pine.BSF.4.58.0401131223240.67107@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+201,<20040114151808.325B477A704@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+202,,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+203,<005501c3dbe1$817244e0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+204,<20040120141958.C8D3577A6FA@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+205,<029901c3dfcc$63cf0560$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+206,<5.1.0.14.2.20040123123348.044b55f0@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7365714294546118
+207,<BA03B41AFFEA154B80DEB5BC9E4B65D005917A32@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+208,<01a901c3e1ed$1df83390$5b6015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+209,<5.1.0.14.2.20040123150434.044b93b8@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+210,<BA03B41AFFEA154B80DEB5BC9E4B65D005917A34@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+211,<016901c3e47b$3b03a1f0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+212,<Pine.LNX.4.44.0401270836140.16014-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+213,<200401301231.32440.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+214,<200401301538.06548.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+215,<035e01c3e782$7601a590$606015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+216,<20040202044407.6E5AA77AA09@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+217,<Pine.LNX.4.56.0402040844140.19559@internaut.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+218,<2A1D4C86842EE14CA9BC80474919782E0356EF96@mou1wnexm02.vcorp.ad.vrsn.com>,,,,"No, hits=0.3 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+219,<D091C8EF-5977-11D8-AC62-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+220,<327742548.1076153200@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,True,0.9092901406556039
+221,<5.1.0.14.0.20040207182708.01b278d8@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+222,<Pine.LNX.4.44.0402080852260.24167-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+223,<041801c3ee44$f5881970$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+224,<00a301c3eec3$11868d90$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+225,<2480163516.1076368370@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+226,<136684602.1076415217@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+227,<5.1.0.14.2.20040211102507.04190e40@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+228,<18968725.1076507493@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+229,<19793531.1076508318@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+230,<5.1.0.14.2.20040211142958.03fec7e8@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+231,<27428319.1076515953@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+232,<20040211232124.4ca441dc.henrik@levkowetz.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+233,<200402131002.55332.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+234,<200402131019.44713.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+235,<200402131032.33160.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+236,<200402131036.27845.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+237,<00e401c3f236$e143ab50$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+238,<261249637.1076659860@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+239,<AAB4B3D3CF0F454F98272CBE187FDE2F056B25FD@is0004avexu1.global.avaya.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.6,False,0.7189408625521978
+240,<265526627.1076664137@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+241,<DADF50F5EC506B41A0F375ABEB3206360143B657@esebe023.ntc.nokia.com>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.8035799187328447
+242,<291464714.1076690076@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+243,<1943493383.20040214081341@brandenburg.com>,,,,"No, hits=0.6 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+244,<38529151.1076758786@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+245,<7D5D48D2CAA3D84C813F5B154F43B155028EC61A@nl0006exch001u.nl.lucent.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+246,<14410174609.20040214094846@brandenburg.com>,,,,"No, hits=0.6 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+247,<19274234.1076779857@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+248,<52955238.20040214145840@brandenburg.com>,,,,"No, hits=0.6 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+249,<p06100d16bc545a46cf5e@[216.43.25.67]>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+250,<1461962205.20040215075530@brandenburg.com>,,,,"No, hits=0.6 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+251,<p06100d1bbc554a8e204c@[216.43.25.67]>,,,,"No, hits=1.9 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+252,<747830562.20040215100030@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+253,<79230247.1076863665@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+254,<126800950.1076875685@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8380923741461609
+255,<1801091131.20040215214531@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+256,<26002169.1076894083@scan.jck.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.8035799187328447
+257,<171920638.1076920805@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+258,<1872241726.20040216091430@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+259,<36725270.20040216094800@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+260,<200402171711.i1HHBOf04010@cichlid.raleigh.ibm.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+261,<687385108.20040217094331@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+262,<1209179081.20040218180848@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+263,<200402201913.i1KJDnD9025078@rotala.raleigh.ibm.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+264,<1974503943.20040221224129@brandenburg.com>,,,,"No, hits=1.0 required=5.0 tests=AWL,DATE_IN_PAST_06_12, PRIORITY_NO_NAME autolearn=no version=2.60",False,0.1,False,0.7189408625521978
+265,<1102859505.20040221224202@brandenburg.com>,,,,"No, hits=1.0 required=5.0 tests=AWL,DATE_IN_PAST_06_12, PRIORITY_NO_NAME autolearn=no version=2.60",False,0.1,False,0.8035799187328447
+266,<19326065.1077466525@P2>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.8035799187328447
+267,<12404238.1077459604@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.8035799187328447
+268,<Pine.LNX.4.44.0402290840490.14075-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+269,<20040229221240.GA2130@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+270,<021c01c40317$acbe72b0$f1e425da@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,0.3,False,0.812898835563724
+271,<217800650.1078585220@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+272,<00b201c403d7$05b163e0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+273,<2679853.1078603754@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+274,<306983108.1071482419@localhost>,,,,,False,-2.0,False,0.49999999999999784
+275,<7450364.1071484725@r3.jck.com>,,,,,False,-1.0,False,0.49999999999999784
+276,<p06200733be60dcdf5539@[10.0.0.171]>,,0.0 (/),,,False,-2.0,False,0.5162651600073214

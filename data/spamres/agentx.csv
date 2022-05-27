@@ -1,0 +1,179 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<200301160102.RAA22719@dorothy.bmc.com>,,,,,False,-1.0,False,0.00747371667236491
+2,<01cc01c2d855$d503a1c0$7f1afea9@oemcomputer>,,,,,False,2.3,False,0.03813740723243072
+3,<071301c2d864$81b77b90$bf3b68c0@A30P>,,,,,False,0.3,False,0.05647567057043706
+4,<20030601143312.11734.22135.Mailman@www1.ietf.org>,,,,,False,-2.0,False,6.343837094686289e-05
+5,<7C92EBBA9B33E84AB41FECFA1EF639E656CBF7@hasmsx402.iil.intel.com>,,,,,False,-1.0,False,0.21720709331328636
+6,<7C92EBBA9B33E84AB41FECFA1EF639E656CBF4@hasmsx402.iil.intel.com>,,,,,False,-1.0,False,0.49999999999999784
+7,<sdfzmoiprm.fsf@wanderer.hardakers.net>,,,,,False,-1.0,False,0.49999999999999784
+8,<20030609153703.5747.qmail@indiainfo.com>,,,,,False,0.3,False,0.03813740723243072
+9,<sdznkm0whn.fsf@wanderer.hardakers.net>,,,,,False,-1.0,False,0.49999999999999784
+10,<20030616150011.7809.qmail@indiainfo.com>,,,,,False,0.3,False,0.49999999999999784
+11,,,,,,False,-1.0,False,0.49999999999999784
+12,<20030701132427.18162.97916.Mailman@www1.ietf.org>,,,,,False,-2.0,False,5.275750879434816e-07
+13,<20030703223744.4508.57702.Mailman@www1.ietf.org>,,,,,False,-2.0,False,6.343837094686289e-05
+14,<20030703190233.19210.qmail@web40410.mail.yahoo.com>,,,,,False,2.7,False,0.03813740723243072
+15,<20030801130704.29120.92809.Mailman@www1.ietf.org>,,,,,False,-2.0,False,6.343837094686289e-05
+16,<20030901131047.21711.93463.Mailman@www1.ietf.org>,,,,,False,-2.0,False,6.343837094686289e-05
+17,<000c01c3797f$d30da480$7f1afea9@oemcomputer>,,,,,False,2.3,False,0.0006423097982965737
+18,<3FBCF6C5.4040805@ieee.org>,,,,,True,7.5,False,0.49999999999999784
+19,<3FBCF69A.6010005@ieee.org>,,,,,True,7.5,False,0.49999999999999784
+20,<BB2EB6174F69B745A57C91CD59C1BA0EEC121C@blr-ec-msg04.wipro.com>,,,,"No, hits=0.4 required=5.0 tests=HTML_70_80,HTML_MESSAGE, NO_REAL_NAME autolearn=no version=2.60",False,-1.3,False,0.8035799187328447
+21,<002701c3d233$513504a0$7f1afea9@oemcomputer>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,3.0,False,0.7189408625521978
+22,<20040109180259.9164.22131.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+23,<20040201141827.1364.13139.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+24,<20040301141922.27462.12777.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+25,<20040401162459.11029.68019.Mailman@www1.ietf.org>,,,,"No, hits=0.7 required=5.0 tests=AWL,DATE_IN_PAST_03_06, NO_REAL_NAME autolearn=no version=2.60",False,-0.9,False,0.09267498948492012
+26,<20040501130051.27207.23724.Mailman@www1.ietf.org>,,,,,False,-2.0,False,0.004061965076529614
+27,<20040501132746.27207.43394.Mailman@www1.ietf.org>,,,,"No, hits=0.4 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-2.0,False,0.09267498948492012
+28,<000601c43fa5$01670920$7f1afea9@oemcomputer>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",True,5.8,False,0.8380923741461609
+29,<00af01c483d7$d02af520$7f1afea9@oemcomputer>,,0.0 (/),,,True,5.8,False,0.7189408625521978
+30,<1110258796.422d346c93f5b@mail.sify.com>,,2.9 (++),,,False,0.1,False,0.42069953925179354
+31,<29D3D0247B11324DABB7D9C7506AB4D00A96DCA3@mlbmx8.cs.myharris.net>,,2.0 (++),,,False,0.0,False,0.27693683532699287
+32,<1110508437.423103953a3b5@mail.sify.com>,,3.8 (+++),,,False,0.1,False,0.42069953925179354
+33,<12363237.1110511379253.JavaMail.root@wamui08.slb.atl.earthlink.net>,,1.1 (+),,,False,-2.0,False,0.09979958281311527
+34,<1110730979.423468e337edb@mail.sify.com>,,2.7 (++),,,False,0.1,False,0.42069953925179354
+35,<002d01c527f5$c9c922c0$7f1afea9@oemcomputer>,,2.2 (++),,,True,5.8,False,0.2663708693584565
+36,<000c01c54125$2342c160$7f1afea9@oemcomputer>,,0.1 (/),,,True,5.8,False,0.008476659265859816
+37,<004601c56656$20472040$7004a8c0@Kevin>,,2.2 (++),,,False,-1.3,False,0.49999999999999784
+38,<20050808052056.10642.qmail@web30408.mail.mud.yahoo.com>,,0.6 (/),,,False,3.9,False,0.42069953925179354
+39,<20050816232439.13436.qmail@web30412.mail.mud.yahoo.com>,,0.5 (/),,,False,0.4,False,0.49999999999999784
+40,<037d01c5a2be$75b96f20$7f1afea9@oemcomputer>,,0.1 (/),,,True,5.8,False,0.09104101603020599
+41,<004801c5c454$21514b80$7f1afea9@oemcomputer>,,0.1 (/),,,True,5.8,False,0.008476659265859816
+42,<28367b6d0512131703h6aefc66fj@mail.gmail.com>,,0.0 (/),,,False,0.1,False,0.49999999999999784
+43,<FAC5354F54983849AC185A96B8E1658902621552@w7server03.wave7optics.com>,,0.0 (/),,,False,-0.2,False,0.34529067587569834
+44,<001201c633fd$4a910bc0$7f1afea9@oemcomputer>,,0.1 (/),,,True,5.8,False,0.001105219529700704
+45,<20060316220401.69462.qmail@web52910.mail.yahoo.com>,,0.1 (/),,,False,1.4,False,0.15960297761042466
+46,<2188EDCD9E39F04B9B75480BA0C6B7EC177948@w7server03.wave7optics.com>,,0.1 (/),,,False,-0.2,False,0.006803068167124697
+47,<007201c6494c$aa2f3340$6401a8c0@oemcomputer>,,0.0 (/),,,True,5.8,False,0.03481168340193519
+48,<4419F172.6040000@agentpp.com>,,0.0 (/),,,False,-2.0,False,0.16528121032310528
+49,<00b601c64952$87323bc0$6401a8c0@oemcomputer>,,0.0 (/),,,True,5.8,False,0.03481168340193519
+50,<000701c68607$56c85360$6501a8c0@oemcomputer>,,0.0 (/),,,True,5.8,False,0.15960297761042466
+51,<011901c6962e$b06970c0$6501a8c0@oemcomputer>,,0.0 (/),,,True,5.8,False,0.001105219529700704
+52,<F830479826DBF041897DB101C4F7797A0125D52C@bgeexc06.asiapacific.cpqcorp.net>,,0.0 (/),,,False,1.3,False,0.001105219529700704
+53,<45030184.4080109@agentpp.com>,,0.0 (/),,,False,-2.0,False,0.007090971233707393
+54,<4503C28D.1060708@agentpp.com>,,0.0 (/),,,False,-2.0,False,0.007090971233707393
+55,<002601c6d5ca$b0ebeec0$6501a8c0@oemcomputer>,,0.0 (/),,,False,3.9,False,0.03481168340193519
+56,<45D4D406.3000706@fock.de>,,0.0 (/),,,False,-2.0,False,0.49999999999999784
+57,<4218545.1171600444837.JavaMail.root@mswamui-blood.atl.sa.earthlink.net>,,0.0 (/),,,False,0.4,False,0.49999999999999784
+58,<1171780602.2823.21.camel@localhost>,,0.0 (/),,,False,2.6,False,0.49999999999999784
+59,<4666651.1171859167607.JavaMail.root@mswamui-backed.atl.sa.earthlink.net>,,0.0 (/),,,False,0.4,False,0.49999999999999784
+60,<45D9EC93.4070305@agentpp.com>,,0.0 (/),,,False,-2.0,False,0.49999999999999784
+61,<27109802.1171957785721.JavaMail.root@mswamui-andean.atl.sa.earthlink.net>,,0.0 (/),,,False,0.4,False,0.17369706706887092
+62,<006001c77dfb$2b1afa00$6601a8c0@oemcomputer>,,0.0 (/),,,False,4.2,False,0.669270692071739
+63,<m2y7huw4ut.fsf@amsu.fallenpegasus.com>,,0.1 (/),,,False,-0.8,False,0.49999999999999784
+64,<m2myyavut8.fsf@amsu.fallenpegasus.com>,,0.1 (/),,,False,-0.8,False,0.49999999999999784
+65,<002e01c7c033$a34631a0$6601a8c0@oemcomputer>,,0.0 (/),,,True,5.9,False,0.03542686046608412
+66,<m2r6nldmdn.fsf@amsu.fallenpegasus.com>,,0.0 (/),,,False,-0.8,False,0.49999999999999784
+67,<000401c7c04c$44056440$6601a8c0@oemcomputer>,,0.0 (/),,,False,4.2,False,0.49999999999999784
+68,<468FED60.8070408@agentpp.com>,,0.0 (/),,,False,-1.8,False,0.03624164767921282
+69,<001c01c7c11a$e42fd940$6601a8c0@oemcomputer>,,0.0 (/),,,False,4.2,False,0.03481168340193519
+70,<1192430895.2741.28.camel@localhost>,,0.0 (/),,,False,0.8,False,0.49999999999999784
+71,<W583582774318481192458552@webmail20>,,2.6 (++),,,True,6.0,False,0.49999999999999784
+72,<000401c80f57$1418cc40$6801a8c0@oemcomputer>,,0.0 (/),,,True,5.9,False,0.49999999999999784
+73,<010401c8b52b$53f75b40$6801a8c0@oemcomputer>,NO,-0.37,,"No, score=-0.37 tagged_above=-999 required=5 tests=[AWL=0.370,  BAYES_20=-0.74]",False,4.2,False,0.15960297761042466
+74,<001201c8c734$34c658a0$6801a8c0@oemcomputer>,NO,-2.374,,"No, score=-2.374 tagged_above=-999 required=5 tests=[AWL=0.225,  BAYES_00=-2.599]",False,4.2,False,0.15960297761042466
+75,<48528A12.3020800@aa.aeonnet.ne.jp>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,1.2,False,0.49999999999999784
+76,<000a01c8cd7c$0bc29740$6801a8c0@oemcomputer>,NO,-2.474,,"No, score=-2.474 tagged_above=-999 required=5 tests=[AWL=0.125,  BAYES_00=-2.599]",False,4.2,False,0.49999999999999784
+77,<007e01c8f653$e34186e0$6801a8c0@oemcomputer>,NO,-1.131,,"No, score=-1.131 tagged_above=-999 required=5 tests=[AWL=-1.132, BAYES_50=0.001]",False,4.2,False,0.49999999999999784
+78,<4363227.1220631099021.JavaMail.root@elwamui-huard.atl.sa.earthlink.net>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,0.6,False,0.17369706706887092
+79,<007801c914fc$cfd18a20$6801a8c0@oemcomputer>,NO,-0.004,,"No, score=-0.004 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HS_FORGED_OE_FW=2.595]",False,4.2,False,0.03481168340193519
+80,<00a501c960c4$55f5d300$6801a8c0@oemcomputer>,NO,-2.356,,"No, score=-2.356 tagged_above=-999 required=5 tests=[AWL=0.243,  BAYES_00=-2.599]",False,4.2,False,0.49999999999999784
+81,<00bd01c960c6$5c12d920$6801a8c0@oemcomputer>,NO,-1.386,,"No, score=-1.386 tagged_above=-999 required=5 tests=[AWL=-0.799, BAYES_00=-2.599, FAKE_REPLY_C=2.012]",False,4.2,False,0.49999999999999784
+82,<000601c9623a$0bfc9e60$6801a8c0@oemcomputer>,NO,-1.047,,"No, score=-1.047 tagged_above=-999 required=5 tests=[AWL=0.063,  BAYES_05=-1.11]",False,4.2,False,0.15960297761042466
+83,<001701c972bb$07177b40$6801a8c0@oemcomputer>,NO,-2.571,,"No, score=-2.571 tagged_above=-999 required=5 tests=[AWL=0.028,  BAYES_00=-2.599]",False,4.2,False,0.49999999999999784
+84,<007d01c97682$424ae380$6801a8c0@oemcomputer>,NO,-2.413,,"No, score=-2.413 tagged_above=-999 required=5 tests=[AWL=0.186,  BAYES_00=-2.599]",False,4.2,False,0.15960297761042466
+85,<005701c976aa$f19bb080$6801a8c0@oemcomputer>,NO,-2.05,,"No, score=-2.05 tagged_above=-999 required=5 tests=[AWL=0.549,  BAYES_00=-2.599]",False,4.2,False,0.49999999999999784
+86,<002b01c9881d$3b66ed00$6801a8c0@oemcomputer>,NO,-2.088,,"No, score=-2.088 tagged_above=-999 required=5 tests=[AWL=0.511, BAYES_00=-2.599]",False,3.9,False,0.15960297761042466
+87,<00dc01c98dba$ed017920$6801a8c0@oemcomputer>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,3.9,False,0.03481168340193519
+88,<000801c995e3$2a2d5aa0$6801a8c0@oemcomputer>,NO,-2.526,,"No, score=-2.526 tagged_above=-999 required=5 tests=[AWL=0.073, BAYES_00=-2.599]",False,3.9,False,0.15960297761042466
+89,<000801c997ba$c02792e0$6801a8c0@oemcomputer>,NO,-2.355,,"No, score=-2.355 tagged_above=-999 required=5 tests=[AWL=0.244, BAYES_00=-2.599]",False,3.9,False,0.669270692071739
+90,<004b01c9989a$eca6a6e0$6801a8c0@oemcomputer>,NO,-2.351,,"No, score=-2.351 tagged_above=-999 required=5 tests=[AWL=0.248, BAYES_00=-2.599]",False,3.9,False,0.15960297761042466
+91,<000c01c9ff27$320ba080$6801a8c0@oemcomputer>,NO,-1.484,,"No, score=-1.484 tagged_above=-999 required=5 tests=[AWL=-0.744, BAYES_20=-0.74]",False,3.9,False,0.15960297761042466
+92,<00a701ca25f3$79deb6c0$6801a8c0@oemcomputer>,NO,-1.999,,"No, score=-1.999 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, J_CHICKENPOX_13=0.6]",False,0.4,False,0.03481168340193519
+93,<1251623843.6043.6.camel@sara.home>,NO,0.165,,"No, score=0.165 tagged_above=-999 required=5 tests=[BAYES_40=-0.185, HELO_EQ_SE=0.35]",False,0.3,False,0.49999999999999784
+94,<8a0268750908301048i2b4a477dod97e582238098bbe@mail.gmail.com>,NO,-101.902,,"No, score=-101.902 tagged_above=-999 required=5 tests=[AWL=0.075, BAYES_00=-2.599, FM_FORGED_GMAIL=0.622, USER_IN_WHITELIST=-100]",False,-0.8,False,0.49999999999999784
+95,<1251668476.3736.14.camel@sara.home>,NO,-1.042,,"No, score=-1.042 tagged_above=-999 required=5 tests=[AWL=1.207, BAYES_00=-2.599, HELO_EQ_SE=0.35]",False,0.3,False,0.49999999999999784
+96,<8a0268750908301523o390d9ff1kc951bfb24d49c9e1@mail.gmail.com>,NO,-101.917,,"No, score=-101.917 tagged_above=-999 required=5 tests=[AWL=0.060, BAYES_00=-2.599, FM_FORGED_GMAIL=0.622, USER_IN_WHITELIST=-100]",False,-0.8,False,0.49999999999999784
+97,<1251750777.5149.52.camel@sara.home>,NO,-1.046,,"No, score=-1.046 tagged_above=-999 required=5 tests=[AWL=0.003, BAYES_00=-2.599, HELO_EQ_SE=0.35, J_CHICKENPOX_15=0.6, J_CHICKENPOX_17=0.6]",False,0.3,False,0.49999999999999784
+98,<8a0268750909010453ld959065ife382929301ace69@mail.gmail.com>,NO,-101.327,,"No, score=-101.327 tagged_above=-999 required=5 tests=[AWL=-0.550, BAYES_00=-2.599, FM_FORGED_GMAIL=0.622, J_CHICKENPOX_15=0.6, J_CHICKENPOX_17=0.6, USER_IN_WHITELIST=-100]",False,-0.8,False,0.49999999999999784
+99,<007801ca2a6e$2bc23f00$6801a8c0@oemcomputer>,NO,-0.663,,"No, score=-0.663 tagged_above=-999 required=5 tests=[AWL=-0.256, BAYES_00=-2.599, DATE_IN_PAST_12_24=0.992, J_CHICKENPOX_15=0.6, J_CHICKENPOX_17=0.6]",False,4.7,False,0.522237809964356
+100,<1251844831.3745.13.camel@sara.home>,NO,-1.047,,"No, score=-1.047 tagged_above=-999 required=5 tests=[AWL=0.002, BAYES_00=-2.599, HELO_EQ_SE=0.35, J_CHICKENPOX_15=0.6, J_CHICKENPOX_17=0.6]",False,0.3,False,0.49999999999999784
+101,<006c01ca3182$7bb2b7e0$6801a8c0@oemcomputer>,NO,1.032,*,"No, score=1.032 tagged_above=-999 required=5 tests=[AWL=-1.188, BAYES_50=0.001, TVD_SPACE_RATIO=2.219]",False,0.4,False,0.15960297761042466
+102,<000401ca3188$f3f4cb20$6801a8c0@oemcomputer>,NO,-1.14,,"No, score=-1.14 tagged_above=-999 required=5 tests=[AWL=1.459, BAYES_00=-2.599]",False,0.4,False,0.15960297761042466
+103,<75b7573e0911220105p3c93789cn84d3fa005904700f@mail.gmail.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,0.1,False,0.49999999999999784
+104,<1258882432.4951.3.camel@sara.home>,NO,0.351,,"No, score=0.351 tagged_above=-999 required=5 tests=[BAYES_50=0.001, HELO_EQ_SE=0.35]",False,0.3,False,0.49999999999999784
+105,<008801ca9481$9a2ccdc0$6801a8c0@oemcomputer>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,0.4,False,0.03481168340193519
+106,<8148211e1001262028p6d46e1a3p23eddb7e2a4288f7@mail.gmail.com>,NO,2.991,**,"No, score=2.991 tagged_above=-999 required=5 tests=[BAYES_05=-1.11, CHARSET_FARAWAY_HEADER=3.2, HTML_MESSAGE=0.001, J_CHICKENPOX_83=0.6, MIME_8BIT_HEADER=0.3]",False,0.4,False,0.49999999999999784
+107,<1264572597.3303.3.camel@sara.home>,NO,-1.349,,"No, score=-1.349 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HELO_EQ_SE=0.35, J_CHICKENPOX_23=0.6, MIME_8BIT_HEADER=0.3]",False,0.3,False,0.49999999999999784
+108,<003c01caebae$2bc13680$6801a8c0@oemcomputer>,NO,0.5,,"No, score=0.5 tagged_above=-999 required=5 tests=[AWL=-0.499, BAYES_60=1]",False,3.9,False,0.15960297761042466
+109,<004e01cb0809$a1ebbca0$6801a8c0@oemcomputer>,NO,0.601,,"No, score=0.601 tagged_above=-999 required=5 tests=[BAYES_50=0.001, J_CHICKENPOX_13=0.6]",False,0.4,False,0.03481168340193519
+110,<AANLkTim0hJMvTOz1gZUXcnFIt73A6RGm8CgehPxKB7NS@mail.gmail.com>,NO,-1.365,,"No, score=-1.365 tagged_above=-999 required=5 tests=[AWL=0.612, BAYES_00=-2.599, FM_FORGED_GMAIL=0.622]",False,-0.6,False,0.03481168340193519
+111,<001601cb1966$500d5240$6801a8c0@oemcomputer>,NO,0.158,,"No, score=0.158 tagged_above=-999 required=5 tests=[AWL=0.157, BAYES_50=0.001]",False,3.9,False,0.49999999999999784
+112,<AANLkTimgHjn3id6jbmaOBXKfnvkBSgdCzxLbuuag5tD_@mail.gmail.com>,NO,-1.467,,"No, score=-1.467 tagged_above=-999 required=5 tests=[AWL=0.510, BAYES_00=-2.599, FM_FORGED_GMAIL=0.622]",False,-0.6,False,0.49999999999999784
+113,<000601cb199c$f5e96f60$6801a8c0@oemcomputer>,NO,-0.244,,"No, score=-0.244 tagged_above=-999 required=5 tests=[AWL=0.496, BAYES_20=-0.74]",False,3.9,False,0.49999999999999784
+114,<000f01cb55fe$5641d440$6801a8c0@oemcomputer>,NO,-102.166,,"No, score=-102.166 tagged_above=-999 required=5 tests=[AWL=0.433, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,0.4,False,0.15960297761042466
+115,<007e01cbc73d$604bbd60$6801a8c0@oemcomputer>,NO,-98.799,,"No, score=-98.799 tagged_above=-999 required=5 tests=[BAYES_50=0.001, J_CHICKENPOX_13=0.6, J_CHICKENPOX_23=0.6, USER_IN_WHITELIST=-100]",False,0.4,False,0.03481168340193519
+116,<BANLkTik-s=JZXSr-ABFj=KR6nGLX69VFgA@mail.gmail.com>,NO,1.44,*,"No, score=1.44 tagged_above=-999 required=5 tests=[AWL=-0.382, BAYES_00=-2.599, EMPTY_MESSAGE=1.439, HTML_MESSAGE=0.001, MISSING_SUBJECT=1.762, RCVD_IN_DNSWL_LOW=-1, TVD_SPACE_RATIO=2.219]",False,2.7,False,0.49999999999999784
+117,<BANLkTi==SB0SDjC=YXVrnyfYqgUDDQSGhw@mail.gmail.com>,NO,1.447,*,"No, score=1.447 tagged_above=-999 required=5 tests=[AWL=-0.375, BAYES_00=-2.599, EMPTY_MESSAGE=1.439, HTML_MESSAGE=0.001, MISSING_SUBJECT=1.762, RCVD_IN_DNSWL_LOW=-1, TVD_SPACE_RATIO=2.219]",False,2.7,False,0.49999999999999784
+118,<000b01cbfdef$a38059e0$6801a8c0@oemcomputer>,NO,-97.78,,"No, score=-97.78 tagged_above=-999 required=5 tests=[BAYES_50=0.001, TVD_SPACE_RATIO=2.219, USER_IN_WHITELIST=-100]",False,0.4,False,0.03481168340193519
+119,<BANLkTikxmidLL_Dm1yg7xY7f+X5jP2z_bQ@mail.gmail.com>,NO,1.484,*,"No, score=1.484 tagged_above=-999 required=5 tests=[AWL=-0.338, BAYES_00=-2.599, EMPTY_MESSAGE=1.439, HTML_MESSAGE=0.001, MISSING_SUBJECT=1.762, RCVD_IN_DNSWL_LOW=-1, TVD_SPACE_RATIO=2.219]",False,2.7,False,0.49999999999999784
+120,<BANLkTimLktNVdPPi5xx1jjN+eAsqMekHOw@mail.gmail.com>,NO,-1.195,,"No, score=-1.195 tagged_above=-999 required=5 tests=[AWL=2.403, BAYES_00=-2.599, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-1]",False,0.4,False,0.49999999999999784
+121,<BANLkTimYSZtwHJaOVLxXfDXtH3CdJFqAUw@mail.gmail.com>,NO,-1.395,,"No, score=-1.395 tagged_above=-999 required=5 tests=[AWL=2.203, BAYES_00=-2.599, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-1]",False,2.7,False,0.49999999999999784
+122,<001601cc2149$ecfaf260$6801a8c0@oemcomputer>,NO,-102.299,,"No, score=-102.299 tagged_above=-999 required=5 tests=[AWL=-0.300, BAYES_00=-2.599, J_CHICKENPOX_13=0.6, USER_IN_WHITELIST=-100]",False,0.4,False,0.15960297761042466
+123,<004501cc347d$541943c0$6801a8c0@oemcomputer>,NO,-99.999,,"No, score=-99.999 tagged_above=-999 required=5 tests=[BAYES_50=0.001, USER_IN_WHITELIST=-100]",False,3.9,False,0.03481168340193519
+124,<010201cc369b$64d1bec0$6801a8c0@oemcomputer>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,0.4,False,0.03481168340193519
+125,<000801cc60fc$8fa852e0$6801a8c0@oemcomputer>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,0.4,False,0.49999999999999784
+126,<002101ccd559$3b347140$6b01a8c0@oemcomputer>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,0.4,False,0.49999999999999784
+127,<003601cdb861$4271b8a0$6b01a8c0@oemcomputer>,NO,-100.185,,"No, score=-100.185 tagged_above=-999 required=5 tests=[BAYES_40=-0.185, USER_IN_WHITELIST=-100]",False,0.4,False,0.03481168340193519
+128,<000501ceeff8$d00c06a0$6b01a8c0@oemcomputer>,NO,0.7,,"No, score=0.7 tagged_above=-999 required=5 tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham",False,0.4,False,0.03481168340193519
+129,<22336537.1441747510379.JavaMail.root@mswamui-valley.atl.sa.earthlink.net>,NO,-2.7,,"No, score=-2.7 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, RCVD_IN_DNSWL_LOW=-0.7] autolearn=ham",False,0.4,False,0.17369706706887092
+130,<24892136.1443104765469.JavaMail.root@elwamui-norfolk.atl.sa.earthlink.net>,NO,-2.7,,"No, score=-2.7 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, RCVD_IN_DNSWL_LOW=-0.7] autolearn=ham",False,0.4,False,0.17369706706887092
+131,<20140418001239.2560.50621.ARCHIVE@ietfa.amsl.com>,,,,,False,0.0,False,0.024545746066516605
+134,<20140418001244.2560.94054.ARCHIVE@ietfa.amsl.com>,,2.4 (++),,,True,9.1,False,0.0017956839885004104
+135,<20140418001244.2560.8423.ARCHIVE@ietfa.amsl.com>,,3.6 (+++),,,True,18.1,False,0.0507106109875127
+136,<20140418001245.2560.10225.ARCHIVE@ietfa.amsl.com>,,3.4 (+++),,,True,18.5,False,7.54589225725229e-07
+137,<20140418001245.2560.13130.ARCHIVE@ietfa.amsl.com>,,1.7 (+),,,True,12.7,False,1.9867444082576896e-08
+138,<20140418001246.2560.34784.ARCHIVE@ietfa.amsl.com>,,3.4 (+++),,,True,14.2,False,1.0362314908646221e-05
+139,<20140418001246.2560.3751.ARCHIVE@ietfa.amsl.com>,,4.3 (++++),,,True,12.2,False,1.2541447837321773e-06
+140,<20140418001246.2560.12426.ARCHIVE@ietfa.amsl.com>,,4.1 (++++),,,True,7.1,False,4.921626459981051e-05
+141,<20140418001246.2560.73909.ARCHIVE@ietfa.amsl.com>,,1.4 (+),,,True,10.7,False,4.248342699185205e-12
+143,<20140418001247.2560.55549.ARCHIVE@ietfa.amsl.com>,,4.7 (++++),,,True,12.6,False,2.4741437906093713e-05
+144,<20140418001248.2560.78911.ARCHIVE@ietfa.amsl.com>,,4.6 (++++),,,False,1.2,False,2.0043455574181515e-08
+145,<20140418001248.2560.92820.ARCHIVE@ietfa.amsl.com>,,3.3 (+++),,,True,11.7,False,0.336195121422294
+146,<20140418001249.2560.3811.ARCHIVE@ietfa.amsl.com>,,4.6 (++++),,,False,4.1,False,2.0308592488615335e-08
+147,<20140418001249.2560.48338.ARCHIVE@ietfa.amsl.com>,,1.4 (+),,,True,6.0,False,2.2344536870801354e-07
+149,<20140418001249.2560.82392.ARCHIVE@ietfa.amsl.com>,,4.4 (++++),,,False,2.7,False,3.077721431924733e-11
+150,<20140418001250.2560.67485.ARCHIVE@ietfa.amsl.com>,,3.4 (+++),,,False,3.9,False,7.985590494474712e-06
+151,<20140418001251.2560.88994.ARCHIVE@ietfa.amsl.com>,,4.7 (++++),,,True,6.1,False,2.6308476519268896e-08
+152,<20140418001251.2560.57362.ARCHIVE@ietfa.amsl.com>,,4.1 (++++),,,False,4.9,False,4.689148924312701e-11
+157,<20140418001251.2560.60319.ARCHIVE@ietfa.amsl.com>,,3.2 (+++),,,True,13.3,False,1.955685185411473e-09
+158,<20140418001252.2560.9908.ARCHIVE@ietfa.amsl.com>,,4.4 (++++),,,True,5.0,False,1.536752431814778e-10
+159,<20140418001252.2560.10420.ARCHIVE@ietfa.amsl.com>,,2.7 (++),,,True,7.4,False,0.014336380547221009
+160,<20140418001252.2560.88986.ARCHIVE@ietfa.amsl.com>,,0.1 (/),,,False,2.5,False,2.4812802113129035e-11
+161,<20140418001252.2560.2621.ARCHIVE@ietfa.amsl.com>,,4.6 (++++),,,False,2.7,False,7.49918998668772e-13
+162,<20140418001252.2560.10292.ARCHIVE@ietfa.amsl.com>,,3.2 (+++),,,False,3.6,False,3.989713676033763e-08
+163,<20140418001252.2560.15801.ARCHIVE@ietfa.amsl.com>,,2.1 (++),,,False,4.7,False,2.1447163533649656e-07
+164,<20140418001252.2560.66944.ARCHIVE@ietfa.amsl.com>,,3.8 (+++),,,True,7.3,False,2.796230711569747e-11
+165,<20140418001252.2560.56285.ARCHIVE@ietfa.amsl.com>,,3.5 (+++),,,False,4.9,False,8.875675586082521e-05
+166,<20140418001252.2560.16962.ARCHIVE@ietfa.amsl.com>,,4.6 (++++),,,False,2.5,False,1.7578326307982535e-08
+167,<20140418001252.2560.3056.ARCHIVE@ietfa.amsl.com>,,1.2 (+),,,False,3.7,False,4.055881362337144e-10
+168,<20140418001252.2560.26036.ARCHIVE@ietfa.amsl.com>,,2.7 (++),,,False,4.9,False,8.69977566564785e-09
+169,<20140418001253.2560.83111.ARCHIVE@ietfa.amsl.com>,,3.5 (+++),,,False,1.5,False,1.5396106134151373e-07
+170,<20140418001253.2560.56725.ARCHIVE@ietfa.amsl.com>,,2.2 (++),,,True,5.3,False,0.00021045946426385964
+178,<20140418001253.2560.1370.ARCHIVE@ietfa.amsl.com>,,2.1 (++),,,True,7.3,False,2.9812371729271316e-07
+179,<20140418001253.2560.79488.ARCHIVE@ietfa.amsl.com>,,1.4 (+),,,False,2.5,False,0.001596598901142783
+180,<20140418001253.2560.73969.ARCHIVE@ietfa.amsl.com>,,3.4 (+++),,,False,1.5,False,0.0015002159815068461
+182,<20140418001253.2560.81659.ARCHIVE@ietfa.amsl.com>,,2.1 (++),,,False,4.9,False,3.300533368189418e-08
+183,<20140418001253.2560.65508.ARCHIVE@ietfa.amsl.com>,,0.7 (/),,,True,6.0,False,4.5672238401156976e-10
+184,<20140418001253.2560.48371.ARCHIVE@ietfa.amsl.com>,,1.1 (+),,,False,2.7,False,6.639201712852863e-08
+185,<20140418001253.2560.94255.ARCHIVE@ietfa.amsl.com>,,1.8 (+),,,False,1.9,False,9.2695151623461e-09
+186,<20140418001254.2560.29172.ARCHIVE@ietfa.amsl.com>,,3.7 (+++),,,False,3.0,False,8.793055924543243e-11
+188,<20140418001254.2560.19304.ARCHIVE@ietfa.amsl.com>,,1.7 (+),,,False,1.5,False,2.4302852191141365e-06
+189,<20140418001254.2560.8519.ARCHIVE@ietfa.amsl.com>,,1.4 (+),,,False,1.5,False,0.3270457930456004
+203,<20140418001256.2560.10667.ARCHIVE@ietfa.amsl.com>,,2.9 (++),,,False,4.7,False,3.949539048166897e-08
+211,<20140418001256.2560.38364.ARCHIVE@ietfa.amsl.com>,,0.1 (/),,,False,3.8,False,1.695791720566735e-11
+223,<20140418001256.2560.58233.ARCHIVE@ietfa.amsl.com>,,4.9 (++++),,,True,8.5,False,1.2182379805238705e-09
+228,<20140418001256.2560.89961.ARCHIVE@ietfa.amsl.com>,,3.5 (+++),,,False,4.3,False,1.4255769752437288e-08
+251,<20140418001257.2560.23969.ARCHIVE@ietfa.amsl.com>,,2.0 (++),,,False,1.5,False,8.95595888502655e-08
+255,<20140418001257.2560.22186.ARCHIVE@ietfa.amsl.com>,,4.6 (++++),,,True,8.3,False,3.439549783527694e-06

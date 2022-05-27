@@ -1,0 +1,28 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<160217741280.7891.4795019743435736891@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+2,<160285715201.8975.14539723643009673516@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+3,<160288910434.21548.10484887648904102808@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+4,<D494C885-D23E-4371-811F-93FDAC80CBB8@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.05293206580006849
+5,<160348908036.4782.6169379244171918550@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+6,<160408816339.3232.6650248811970659706@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+7,<160432979180.11772.14333714511982036483@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+8,<8CA7B8A4-178F-49AD-9B2C-BF358E29E49E@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.05293206580006849
+9,<160468863611.3532.10955508417159253404@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+10,<A942D58B-7C2A-4333-A97F-4E8202CB2D84@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+11,<A0A11F76-8926-46AA-96EA-62435F9A2D6E@ietf.org>,NO,-0.889,,"No, score=-0.889 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, SHORTENED_URL_HREF=0.999, T_KAM_HTML_FONT_INVALID=0.01, URIBL_BLOCKED=0.001] autolearn=no autolearn_force=no",False,-2.0,False,0.49999999999999784
+12,<D6815147-D0AF-4332-A4B8-E0BD3E0290C0@ietf.org>,NO,-0.889,,"No, score=-0.889 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, SHORTENED_URL_HREF=0.999, T_KAM_HTML_FONT_INVALID=0.01, URIBL_BLOCKED=0.001] autolearn=no autolearn_force=no",False,-2.0,False,0.49999999999999784
+13,<160549852001.23673.9097773738614795443@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+14,<160558602351.21539.6533526685202939249@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+15,<1A8D2B8D-CC33-4430-B4FB-61995B3CF5EF@xagsolutions.com>,NO,-1.901,,"No, score=-1.901 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H2=-0.001, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,0.3,False,0.49999999999999784
+16,<F2645AEB-4CFD-4629-9463-AF6DA019DFB7@xagsolutions.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_MSPIKE_H2=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,0.3,False,0.49999999999999784
+17,<F69CC97F-1BC1-4CEB-8038-AD99A038B637@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+18,<79055208-D6E8-40D1-B7E3-6FD6DCC0BBFA@ietf.org>,NO,-1.898,,"No, score=-1.898 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+19,<147DC95E-04AF-4258-B1F4-0433844A1498@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+20,<DAE6F51D-D62F-4FC8-B6A3-F312540B18FA@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+21,<7B0B6864-5E31-4957-9E2B-3C33FB5BF225@amsl.com>,NO,-1.888,,"No, score=-1.888 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, SPF_HELO_NONE=0.001, T_SPF_TEMPERROR=0.01, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+22,<CD61BFF5-CECD-43A0-B41B-CAAF533B2EF1@xagsolutions.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_MSPIKE_H2=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,0.3,False,0.6191380569758939
+23,<516B984F-2FAC-4B00-A8B0-1C7699B07D3F@ietf.org>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.49999999999999784
+24,<4F9F7C72-50D6-4FF0-BFC7-57751564DE5C@ietf.org>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.22737794128918348
+25,<160669397640.519.10347804318051219122@ietfa.amsl.com>,,,,,False,-0.9,False,0.03481168340193519
+26,<160684876582.17537.17152039300194913913@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+27,<160732332696.27144.18241348989978342266@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784

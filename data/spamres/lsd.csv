@@ -1,0 +1,10 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<199801271451.JAA05422@ns.ietf.org>,,,,,False,1.0,False,0.005847518576172565
+2,<199801301440.JAA11790@ns.ietf.org>,,,,,False,1.0,False,0.49999999999999784
+3,<199804141511.LAA25510@ns.ietf.org>,,,,,False,-1.0,False,0.31853667704185223
+4,<3557BA08.FE75B419@isl.hrl.hac.com>,,,,,False,1.2,False,0.03481168340193519
+5,<4C370F49.8010904@ericsson.com>,NO,-104.414,,"No, score=-104.414 tagged_above=-999 required=5 tests=[AWL=2.185, BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4, USER_IN_WHITELIST=-100]",False,1.5,False,0.49999999999999784
+6,<20100709170001.882683A69F6@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+7,<8BC7782C-88EB-4D6C-8637-99D830124591@magorcorp.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,-2.0,False,0.49999999999999784
+8,<4C3D997C.4090106@ericsson.com>,NO,-105.485,,"No, score=-105.485 tagged_above=-999 required=5 tests=[AWL=0.764, BAYES_00=-2.599, HELO_EQ_SE=0.35, RCVD_IN_DNSWL_MED=-4, USER_IN_WHITELIST=-100]",False,1.5,False,0.49999999999999784
+9,<4C407B07.9080308@ericsson.com>,NO,-103.769,,"No, score=-103.769 tagged_above=-999 required=5 tests=[AWL=-1.170, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,1.5,False,0.49999999999999784

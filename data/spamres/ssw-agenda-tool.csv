@@ -1,0 +1,2 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<511A9752.6000208@levkowetz.com>,NO,-102.6,,"No, score=-102.6 tagged_above=-999 required=5 tests=[AWL=-0.000, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784

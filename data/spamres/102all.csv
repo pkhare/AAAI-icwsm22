@@ -1,0 +1,28 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<152606503431.10660.3411054396955682621.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.15960297761042466
+2,<152659207436.7607.9759620913040210654.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.15960297761042466
+3,<152659295092.7522.16123475363074201082.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+4,<152659888667.1669.7558841311619110730.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+5,<152691903633.23073.15179192659197770845.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.15960297761042466
+6,<152693181451.23673.5769400090606123895.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+7,<152873322694.2722.7439419431580526707.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+8,<152911022444.15146.8836441715361929366.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+9,<152970421907.3632.16173426509325073884.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+10,<152994750865.6293.8710528687938789315.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+11,<153082503034.26385.12702746866682454479.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+12,<153133631159.21742.14742212996091145045.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+13,<D174A8F2-B13C-4F2D-A83F-373146DB8084@daedelus.com>,NO,-1.907,,"No, score=-1.907 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001, MIME_QP_LONG_LINE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, T_DKIMWL_WL_MED=-0.01, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-1.9,False,0.6191380569758939
+14,<153166616064.21362.6010184136729567019.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+15,<2A3D2A50-AA9D-49BC-9D6E-5E403CA1C8F5@amsl.com>,NO,-4.201,,"No, score=-4.201 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.5869507851721183
+16,<F563F9F6-3FF4-4047-B392-B4DF13649325@ietf.org>,NO,-1.898,,"No, score=-1.898 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+17,<A0128BC1-AC35-429B-998C-C202548C6306@amsl.com>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+18,<153177672422.21715.4013138126114183571.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+19,<F4F34563-5000-49A4-9F49-575ED14F766A@amsl.com>,NO,-4.201,,"No, score=-4.201 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+20,<153191983970.2951.3210640772662690134.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+21,<153201756428.10482.14855426056876706814.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+22,<EA9D49E6-80CB-425E-A175-439BCFC8998D@amsl.com>,NO,-4.201,,"No, score=-4.201 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.05293206580006849
+23,<08D908BD-AAF9-4D9D-8BAA-A8C44FA34F19@daedelus.com>,NO,-1.91,,"No, score=-1.91 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, T_DKIMWL_WL_MED=-0.01] autolearn=ham autolearn_force=no",False,-1.9,False,0.49999999999999784
+24,<F6F872EB-25F1-4DA6-958B-0A59245B3BFF@amsl.com>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+25,<2069AB93-7EA5-4001-BFCC-12E8B08EF858@daedelus.com>,NO,-1.91,,"No, score=-1.91 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, T_DKIMWL_WL_MED=-0.01] autolearn=ham autolearn_force=no",False,-1.9,False,0.49999999999999784
+26,<80E3305B-80EF-4D6A-A2CE-3072B730FD72@amsl.com>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.22737794128918348
+27,<3E399068-6FAA-4AD8-9295-E473B2F3A810@amsl.com>,NO,-3.777,,"No, score=-3.777 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_GREY=0.424] autolearn=ham autolearn_force=no",False,-0.9,False,0.22737794128918348

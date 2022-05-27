@@ -1,0 +1,42 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<153426794535.27168.17582506604424633822.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+2,<C0533504-4EE0-44CB-AD42-7C5F1051AC2A@tzi.org>,NO,-4.199,,"No, score=-4.199 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+3,<53A65D73-8F47-42B2-81FA-0C5455279B5E@st-andrews.ac.uk>,NO,-2.709,,"No, score=-2.709 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001, T_DKIMWL_WL_MED=-0.01, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,0.4,False,0.8037307242061429
+4,<9B893369-4EE5-44FB-B425-24047EA0C7BB@tzi.org>,NO,-4.199,,"No, score=-4.199 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+5,,NO,-2.699,,"No, score=-2.699 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-1.9,False,0.6833301316754887
+6,<41103334-DDAD-451F-AED4-9D268D907372@gmail.com>,NO,-1.997,,"No, score=-1.997 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, MIME_QP_LONG_LINE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-1.9,False,0.49999999999999784
+7,<153565148384.3161.13756347942592222585.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+8,<153686099283.29592.17100706122957024541.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+9,<20180913180602.usyfxxh4in6aozdn@faui48e.informatik.uni-erlangen.de>,NO,-3.95,,"No, score=-3.95 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HEADER_FROM_DIFFERENT_DOMAINS=0.25, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.8,False,0.49999999999999784
+10,<20180914115110.46uo25vcdgonsuc7@faui48e.informatik.uni-erlangen.de>,NO,-3.951,,"No, score=-3.951 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HEADER_FROM_DIFFERENT_DOMAINS=0.25, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-0.8,False,0.49999999999999784
+11,<CAKKJt-fAzvuHSq5v0BZx0YaBy-XBD8USpS55_Si9NKvR-euUtA@mail.gmail.com>,NO,-1.999,,"No, score=-1.999 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.49999999999999784
+12,<153695185799.17589.2468899832760704027.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+13,<153696295269.17666.6194871396454594206.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+14,<CALZ3u+Yh6DRsQytVnFduAFuVcnvuxy-gb8KDbxzK87e_Uu7w6Q@mail.gmail.com>,NO,-1.999,,"No, score=-1.999 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.49999999999999784
+15,<DEB63C68-C02D-4502-8003-DAA3EDB414E0@nostrum.com>,NO,-1.878,,"No, score=-1.878 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, T_SPF_HELO_PERMERROR=0.01, T_SPF_PERMERROR=0.01, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+16,<153720160041.24844.16818267557901467573.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+17,<153866809060.4465.16083821123522297999.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+18,<153867150290.4395.7757907090617110701.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+19,<15A1B710-EB0C-4A17-A1C2-160A2D6E9DC6@amsl.com>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+20,<153877793727.1026.1146854495726676148.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+21,<153929641939.7161.642717314757186712.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+22,<153938255773.29257.10827766621859025576.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+23,<154022870059.7026.11591677317604388850.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+24,<154104529553.5322.10827541457430264088.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+25,<54087F5D-D8C8-4362-BC49-F71E9C6C3E31@daedelus.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIMWL_WL_MED=-0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham autolearn_force=no",False,-1.9,False,0.49999999999999784
+26,<EB59DA95-550E-4F69-93A9-88AA05A0EA05@daedelus.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIMWL_WL_MED=-0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham autolearn_force=no",False,-1.9,False,0.49999999999999784
+27,<154122879696.32437.15169331908139381608.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+28,<154133139166.32022.13925797669939541509.idtracker@ietfa.amsl.com>,,,,,False,-0.9,False,0.49999999999999784
+29,<154139820058.32022.17625924082304543263.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+30,<154140375290.26569.174232306826866158.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+31,<154147968243.4233.2447394949011344459.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+32,<154157250891.30955.13433620817072912249.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+33,<154165328165.26475.5525422699656368699.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+34,<00B9DD02-3155-40A7-99BB-C99B5AB6567F@daedelus.com>,NO,-1.901,,"No, score=-1.901 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DKIMWL_WL_MED=-0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham autolearn_force=no",False,-1.9,False,0.49999999999999784
+35,<34F9437D-46ED-444C-BD0C-2D0EF9CA459B@ietf.org>,NO,-1.898,,"No, score=-1.898 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.22737794128918348
+36,<B0548453-F32C-457B-B17C-787B16928F4B@amsl.com>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+37,<154167426010.31248.4416991754943239225.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+38,<154167807962.31222.680910102586231233.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+39,<154210100850.23261.6155815791500350759.idtracker@ietfa.amsl.com>,,,,,False,-0.9,False,0.49999999999999784
+40,<03418194-2421-457E-A750-BFED7CC68192@amsl.com>,NO,-3.777,,"No, score=-3.777 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_GREY=0.424] autolearn=ham autolearn_force=no",False,-0.9,False,0.22737794128918348
+41,<25222282-ED11-46E7-A0FD-D02C7E20C9CE@amsl.com>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-0.9,False,0.05293206580006849

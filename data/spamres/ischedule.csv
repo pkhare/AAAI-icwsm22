@@ -1,0 +1,15 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<4B016A13.9030205@oracle.com>,NO,-6.599,,"No, score=-6.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.16528121032310528
+2,<4B0A1130.4040803@rpi.edu>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[BAYES_50=0.001]",False,-2.0,False,0.49999999999999784
+3,<4B0A9344.5090702@oracle.com>,NO,-6.599,,"No, score=-6.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.16528121032310528
+4,<4B213E26.8070703@rpi.edu>,NO,-1.67,,"No, score=-1.67 tagged_above=-999 required=5 tests=[AWL=-0.930, BAYES_20=-0.74]",False,-2.0,False,0.49999999999999784
+5,<4B96714C.6030103@oracle.com>,NO,-6.599,,"No, score=-6.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.49999999999999784
+6,<4BB4B6F7.7050902@rpi.edu>,NO,1.131,*,"No, score=1.131 tagged_above=-999 required=5 tests=[BAYES_50=0.001, DNS_FROM_OPENWHOIS=1.13]",False,-2.0,False,0.49999999999999784
+7,<4BB4F048.3090100@oracle.com>,NO,-5.469,,"No, score=-5.469 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, DNS_FROM_OPENWHOIS=1.13, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.49999999999999784
+8,<4DDEB4E7.1050708@oracle.com>,NO,-8.598,,"No, score=-8.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, GB_I_INVITATION=-2, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.49999999999999784
+9,<C928497A-2652-41CC-8F80-518B6178B814@yahoo.com>,NO,2.449,**,"No, score=2.449 tagged_above=-999 required=5 tests=[AWL=-1.051, BAYES_99=3.5]",False,-1.6,False,0.49999999999999784
+10,<1351372479.52125.YahooMailNeo@web125202.mail.ne1.yahoo.com>,NO,4.185,****,"No, score=4.185 tagged_above=-999 required=5 tests=[HTML_MESSAGE=0.001, MISSING_SUBJECT=1.285, TVD_SPACE_RATIO=2.899]",True,5.1,False,0.03481168340193519
+11,<509386B7.9090105@uninett.no>,NO,-2.6,,"No, score=-2.6 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, NO_RELAYS=-0.001]",False,-2.0,False,0.15960297761042466
+12,<D8530408-0DD2-4DB7-82C1-613F1EC28229@calconnect.org>,NO,-0.964,,"No, score=-0.964 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, IP_NOT_FRIENDLY=0.334, MANGLED_NAIL=2.3, RCVD_IN_DNSWL_LOW=-1]",False,-2.0,False,0.061902891925899775
+13,<993E8F27-737F-4738-A88C-6DBD6481CF55@calconnect.org>,NO,-0.272,,"No, score=-0.272 tagged_above=-999 required=5 tests=[BAYES_50=0.001, GB_I_LETTER=-2, HTML_MESSAGE=0.001, IP_NOT_FRIENDLY=0.334, SARE_TO_EMPTY=0.222, TO_MALFORMED=1.17]",False,-0.8,False,0.49999999999999784
+14,<B70F04A5-12B1-4E11-B87F-E8E9F3EF4FF3@calconnect.org>,NO,1.99,*,"No, score=1.99 tagged_above=-999 required=5 tests=[BAYES_50=0.8, FH_RELAY_NODNS=1.451, GB_I_INVITATION=-2, HELO_MISMATCH_NET=0.611, HTML_MESSAGE=0.001, IP_NOT_FRIENDLY=0.334, RDNS_NONE=0.793] autolearn=no",False,-2.0,False,0.49999999999999784

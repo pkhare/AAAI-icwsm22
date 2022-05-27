@@ -1,0 +1,4 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<99CC8716-FB0F-49D6-9A86-7E5C0E6E8D91@amsl.com>,NO,0.997,,"No, score=0.997 tagged_above=-999 required=5 tests=[BAYES_20=-0.001, GB_AFFORDABLE=1, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001] autolearn=no",False,-2.0,False,0.49999999999999784
+2,<296E045C-96F5-4CD6-ADD9-6C9B8FDC5E92@amsl.com>,NO,-3.201,,"No, score=-3.201 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, GB_AFFORDABLE=1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001] autolearn=ham",False,-2.0,False,0.49999999999999784
+3,<74D85385-8C17-412F-96EE-76CBD6BC2A11@amsl.com>,NO,-2.311,,"No, score=-2.311 tagged_above=-999 required=5 tests=[BAYES_40=-0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.07760509279565901

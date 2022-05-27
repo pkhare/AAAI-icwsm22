@@ -1,0 +1,707 @@
+name,group,start,end
+Kenny Paterson,cfrg,2015-07-12 01:54:22,2020-01-14 14:14:00
+Alexey Melnikov,cfrg,2015-07-12 01:54:22,None
+Nick Sullivan,cfrg,2019-05-01 15:05:02,None
+Stanislav Smyshlyaev,cfrg,2020-01-14 14:14:00,None
+Joerg Ott,dtnrg,2015-01-23 04:06:57,2016-04-05 06:40:00
+Kevin Fall,dtnrg,2015-01-23 04:06:57,2016-04-05 06:40:00
+Lisandro Granville,nmrg,2015-11-02 23:03:17,2018-08-15 23:33:42
+Jérôme François,nmrg,2019-05-08 12:43:44,None
+Laurent Ciavaglia,nmrg,2015-11-16 02:30:44,None
+Jana Iyengar,iccrg,2016-01-21 00:55:14,2017-11-27 11:26:55
+Michael Welzl,iccrg,2016-01-21 00:55:14,2017-11-27 11:26:55
+Janardhan Iyengar,iccrg,2017-11-27 11:26:55,None
+Adam Roach,apparea,2017-03-30 13:02:27,None
+Alexey Melnikov,apparea,2017-03-30 13:02:27,None
+Ben Campbell,apparea,2017-03-30 13:02:27,None
+Al Morton,bmwg,2013-04-25 11:26:15,None
+Sarah Banks,bmwg,2013-04-25 11:26:15,None
+Tomek Mrugalski,dhc,2013-03-12 07:34:36,2020-06-09 08:16:50
+Bernie Volz,dhc,2013-03-12 07:34:36,None
+Timothy Winters,dhc,2020-06-09 08:16:50,None
+Henk Uijterwaal,ippm,2012-11-27 09:53:38,2012-11-27 10:42:51
+Matthew Zekauskas,ippm,2012-11-27 09:53:38,2012-11-27 10:42:51
+Bill Cerveny,ippm,2012-11-27 09:53:38,2020-04-02 13:29:35
+Brian Trammell,ippm,2012-11-27 09:53:38,2020-04-02 13:29:35
+Ian Swett,ippm,2020-02-14 06:40:10,None
+Tommy Pauly,ippm,2018-06-14 02:26:10,None
+David Ward,isis,2013-07-17 12:30:24,2013-08-19 10:09:27
+Chris Hopps,isis,2013-07-17 12:30:24,2018-03-01 11:44:32
+Hannes Gredler,isis,2013-07-17 12:30:24,2018-03-01 11:44:32
+Justin Dean,manet,2014-11-13 15:19:40,2019-07-31 07:36:15
+Stan Ratliff,manet,2014-11-13 15:19:40,2019-11-20 02:21:25
+Ronald in 't Velt,manet,2019-10-29 14:34:13,None
+Ari Keranen,mmusic,2013-01-11 09:15:28,2015-10-16 09:19:24
+Bo Burman,mmusic,2015-10-16 09:19:24,None
+Flemming Andreasen,mmusic,2013-01-11 09:15:28,None
+George Swallow,mpls,2016-07-22 03:43:42,2018-03-22 09:08:53
+Loa Andersson,mpls,2016-07-22 03:43:42,None
+Nicolai Leymann,mpls,2016-07-27 08:24:59,None
+Tarek Saad,mpls,2019-05-15 09:03:46,None
+Brian Pawlowski,nfsv4,2019-11-21 00:48:43,None
+David Noveck,nfsv4,2019-11-21 00:48:43,None
+Eric Rescorla,saag,2017-03-30 13:16:41,None
+Kathleen Moriarty,saag,2017-03-30 13:16:41,None
+Acee Lindem,ospf,2014-08-19 09:21:35,2018-03-01 11:05:59
+Abhay Roy,ospf,2014-08-19 09:21:35,2018-03-01 11:05:59
+Eric Rescorla,secdir,2017-03-31 08:46:27,2019-03-27 11:55:41
+Kathleen Moriarty,secdir,2017-03-31 08:46:27,2019-03-27 11:55:41
+Benjamin Kaduk,secdir,2019-03-27 11:55:41,None
+Roman Danyliw,secdir,2019-03-27 11:55:41,None
+Eric Rescorla,tls,2014-02-02 10:30:01,2014-07-22 11:26:08
+Christopher Wood,tls,2018-07-07 15:03:32,None
+Joseph Salowey,tls,2014-02-02 10:30:01,None
+Sean Turner,tls,2014-03-11 16:05:34,None
+Barry Leiba,openpgp,2016-06-23 04:10:26,2017-11-11 18:19:32
+Daniel Gillmor,openpgp,2016-06-23 04:10:26,2017-11-11 18:19:32
+Mike McBride,pim,2018-07-12 18:49:45,None
+Stig Venaas,pim,2018-07-12 18:49:45,None
+Benoit Claise,opsarea,2017-03-30 13:15:30,2020-03-25 18:06:34
+Robert Wilton,opsarea,2020-03-25 18:06:34,None
+Warren Kumari,opsarea,2017-03-30 13:15:30,None
+Benno Overeinder,dnsop,2018-04-11 16:55:46,None
+Suzanne Woolf,dnsop,2013-12-20 09:14:29,None
+Tim Wicinski,dnsop,2013-12-20 09:14:29,None
+James Polk,tsvwg,2012-06-26 09:27:03,2014-12-10 15:04:48
+Rolf Winter,tsvwg,2012-06-26 09:27:03,2014-12-10 15:04:48
+David Black,tsvwg,2014-12-10 15:04:48,None
+Gorry Fairhurst,tsvwg,2012-06-26 09:27:03,None
+Wesley Eddy,tsvwg,2016-12-07 14:19:36,None
+Sam Hartman,krb-wg,2012-10-01 09:27:45,None
+Josh Howlett,krb-wg,2012-10-01 09:27:45,None
+Shawn Emery,krb-wg,2012-10-01 09:27:45,None
+Damascane Joachimpillai,forces,2013-05-16 09:53:20,2015-03-24 09:55:58
+Jamal Hadi Salim,forces,2013-04-23 08:58:51,2015-03-24 09:55:58
+Daniele Ceccarelli,ccamp,2014-12-04 15:10:42,None
+Fatai Zhang,ccamp,2014-12-04 15:10:42,None
+Alissa Cooper,geopriv,2013-04-09 08:08:58,2014-03-01 05:24:38
+Ray Bellis,geopriv,2014-03-01 05:24:38,None
+Mehmet Ersue,netconf,2014-11-13 12:28:36,2017-07-27 09:40:22
+Kent Watsen,netconf,2017-07-10 07:25:51,None
+Mahesh Jethanandani,netconf,2014-11-13 12:28:36,None
+John Brzozowski,v6ops,2013-02-21 15:23:46,2014-05-22 08:48:28
+Lee Howard,v6ops,2014-05-22 08:48:28,2018-06-01 07:14:26
+Fred Baker,v6ops,2013-02-21 14:20:30,None
+Ron Bonica,v6ops,2016-09-15 13:25:38,None
+Peter Schoenmaker,grow,2018-03-05 10:53:13,2018-03-26 08:48:37
+Christopher Morrow,grow,2018-03-05 10:53:13,None
+Job Snijders,grow,2018-03-05 10:53:13,None
+Mirjam Kuehne,edu,2017-06-16 15:28:30,2019-07-21 10:10:29
+Karen O'Donoghue,edu,2017-06-16 15:28:30,None
+KK Chittimaneni,opsec,2013-12-18 11:06:25,2015-09-17 15:13:23
+Eric Vyncke,opsec,2015-09-17 15:13:23,2018-03-05 10:51:50
+Gunter Van de Velde,opsec,2013-12-18 11:06:25,2018-03-26 08:49:15
+Éric Vyncke,opsec,2018-03-05 10:51:50,2019-04-05 07:23:06
+Jen Linkova,opsec,2019-04-05 07:23:06,None
+Ron Bonica,opsec,2018-03-05 10:51:50,None
+Mauricio Sanchez,radext,2014-03-11 10:44:51,2014-03-11 15:59:35
+Jouni Korhonen,radext,2014-03-11 10:44:51,2015-01-05 09:21:59
+Lionel Morand,radext,2015-01-05 09:21:59,None
+Stefan Winter,radext,2014-03-11 10:44:51,None
+Alia Atlas,rtgwg,2014-02-24 09:17:01,2014-03-12 15:15:32
+Alvaro Retana,rtgwg,2014-02-24 09:17:01,2015-02-23 10:32:15
+Chris Bowers,rtgwg,2015-02-23 10:32:15,None
+Jeff Tantsura,rtgwg,2014-02-24 09:17:01,None
+Michael Scharf,tcpm,2016-08-17 08:06:50,None
+Yoshifumi Nishida,tcpm,2016-08-17 08:06:50,None
+Michael Tüxen,tcpm,2016-08-17 08:06:50,None
+Alissa Cooper,genarea,2017-03-30 13:14:58,None
+Jeffrey Haas,bfd,2015-10-26 09:52:44,None
+Reshad Rahman,bfd,2015-10-26 09:52:44,None
+JP Vasseur,pce,2015-10-06 14:42:22,2017-08-22 14:45:24
+Jonathan Hardwick,pce,2015-10-06 14:42:22,2019-01-28 09:01:31
+Adrian Farrel,pce,2019-01-28 09:01:31,2019-09-11 13:35:11
+Dhruv Dhody,pce,2019-01-28 09:01:31,None
+Julien Meuric,pce,2015-10-06 14:42:22,None
+Sam Hartman,kitten,2012-10-01 09:22:55,2014-07-23 11:30:48
+Shawn Emery,kitten,2012-10-01 09:22:55,2014-07-23 11:30:48
+Josh Howlett,kitten,2012-10-01 09:22:55,2014-07-23 19:14:59
+Shawn Emery,kitten,2014-07-23 19:14:59,2015-03-27 11:06:47
+Benjamin Kaduk,kitten,2014-07-23 11:31:04,2018-07-09 15:31:21
+Matthew Miller,kitten,2014-07-23 11:30:48,2019-08-28 16:57:25
+Roland Dowdeswell,kitten,2018-07-09 15:31:21,2019-08-28 16:57:25
+Robbie Harwood,kitten,2018-07-09 15:31:21,None
+Tom,netmod,2014-01-13 09:26:05,2015-05-13 07:24:00
+Tom Nadeau,netmod,2015-05-13 07:24:00,2016-02-22 09:08:46
+Jürgen Schönwälder,netmod,2014-01-13 09:26:05,2016-06-27 10:04:07
+Joel Jaeggli,netmod,2017-12-15 09:24:34,None
+Kent Watsen,netmod,2015-05-13 07:24:00,None
+Lou Berger,netmod,2016-02-22 09:08:46,None
+Dieter Sibold,ntp,2016-10-10 08:52:09,None
+Karen O'Donoghue,ntp,2016-10-10 08:52:09,None
+Allison Mankin,ecrit,2016-08-30 08:26:01,None
+Roger Marshall,ecrit,2016-08-19 08:30:29,None
+Donald Eastlake,trill,2014-02-17 15:41:29,2014-09-25 03:43:19
+Jon Hudson,trill,2014-02-17 15:41:29,2018-03-19 12:34:22
+Susan Hares,trill,2014-09-25 03:43:19,2018-03-19 12:34:22
+Juan Zuniga,intarea,2013-10-03 15:04:36,2013-12-23 08:12:38
+Julien Laganier,intarea,2013-10-03 15:04:36,2013-12-23 08:12:38
+Juan-Carlos Zúñiga,intarea,2013-12-23 08:12:38,2016-04-05 12:30:50
+Suresh Krishnan,intarea,2013-10-03 15:04:36,2016-04-05 12:30:50
+JC Zuniga,intarea,2016-04-05 12:30:50,2017-03-29 08:09:40
+Juan-Carlos Zúñiga,intarea,2017-03-29 08:09:40,None
+Wassim Haddad,intarea,2016-02-18 15:53:34,None
+Joseph Salowey,emu,2018-02-28 20:02:58,None
+Mohit Sethi,emu,2018-07-20 06:40:52,None
+Suresh Krishnan,softwire,2012-06-20 08:03:29,2016-04-07 13:02:49
+Yong Cui,softwire,2012-06-20 08:03:29,2019-11-21 20:46:37
+Ian Farrer,softwire,2016-03-03 06:10:51,2019-11-21 20:46:37
+Mirja Kühlewind,tsvarea,2020-03-19 11:49:08,2020-03-25 17:13:31
+Magnus Westerlund,tsvarea,2020-03-19 11:49:08,None
+Martin Duke,tsvarea,2020-03-19 11:49:08,None
+Chris Morrow,sidr,2013-07-31 06:58:36,2018-09-06 09:40:56
+Sandra Murphy,sidr,2013-07-31 06:58:36,2018-09-06 09:40:56
+Russ Housley,tools,2018-08-20 12:12:03,None
+Chris Liljenstolpe,opsawg,2013-04-16 09:45:39,2013-09-06 09:16:24
+Melinda Shore,opsawg,2013-04-16 09:45:39,2014-06-23 19:08:27
+Scott Bradner,opsawg,2013-04-16 09:45:39,2016-04-07 13:04:14
+Warren Kumari,opsawg,2013-09-06 09:16:24,2017-04-24 03:38:44
+Ignas Bagdonas,opsawg,2017-02-25 09:30:48,2018-03-26 10:37:03
+Joe Clarke,opsawg,2017-05-24 07:45:07,None
+Tianran Zhou,opsawg,2016-02-02 09:54:38,None
+Patrick McManus,httpbis,2016-07-27 02:20:49,2019-11-03 22:45:42
+Mark Nottingham,httpbis,2016-07-27 02:20:49,None
+Tommy Pauly,httpbis,2018-11-05 06:38:55,None
+Jean-Michel Combes,savi,2012-08-29 08:42:05,2018-10-18 09:20:04
+Michael Richardson,roll,2013-12-05 10:32:32,2016-03-08 09:18:02
+Peter Van der Stok,roll,2016-03-08 09:18:02,2019-11-27 00:26:13
+Dominique Barthel,roll,2019-10-29 05:59:15,None
+Ines Robles,roll,2013-12-05 10:32:32,None
+Alexander Mayrhofer,drinks,2014-03-03 08:29:00,2016-04-18 11:00:05
+David Waltermire,ipsecme,2015-09-04 10:04:51,2016-05-31 08:01:48
+Paul Hoffman,ipsecme,2015-09-04 10:04:51,2016-05-31 08:01:48
+D. Waltermire,ipsecme,2016-05-31 08:01:48,2019-11-20 15:42:23
+Tero Kivinen,ipsecme,2016-05-31 08:01:48,None
+Yoav Nir,ipsecme,2019-11-20 15:42:23,None
+Enrico Marocco,alto,2014-08-19 09:41:09,2016-04-18 11:12:32
+Jan Seedorf,alto,2014-08-19 09:41:09,None
+Vijay Gurbani,alto,2014-08-19 09:41:09,None
+Hannes Tschofenig,oauth,2017-04-05 07:20:41,None
+Rifaat Shekh-Yusef,oauth,2017-04-05 07:20:41,None
+Terry Manderson,lisp,2014-03-11 10:26:16,2014-07-24 15:15:41
+Luigi Iannone,lisp,2014-03-11 10:26:16,None
+Joel Halpern,lisp,2014-03-11 10:26:16,None
+Basavaraj Patil,netext,2014-02-03 13:15:43,2016-05-11 15:26:53
+Rajeev Koodli,netext,2014-02-03 13:15:43,2016-05-11 15:26:53
+Joe Hildebrand,xmpp,2015-03-26 15:21:11,2015-09-14 10:40:55
+Adam Roach,sipcore,2015-04-27 13:05:56,2017-03-30 23:06:28
+Brian Rosen,sipcore,2017-03-29 21:03:41,None
+Jean Mahoney,sipcore,2015-04-27 13:05:56,None
+Cullen Jennings,dispatch,2015-11-01 15:18:41,2019-02-11 10:29:48
+Murray Kucherawy,dispatch,2015-11-01 15:18:41,2019-02-11 10:29:48
+Mary Barnes,dispatch,2015-11-01 15:18:41,2019-12-20 12:48:17
+Ben Campbell,dispatch,2019-02-11 10:29:48,None
+Patrick McManus,dispatch,2019-11-13 17:33:38,None
+Cullen Jennings,codec,2012-09-17 08:28:30,2013-01-11 14:07:31
+Jonathan Rosenberg,codec,2012-09-17 08:28:30,2015-02-24 14:16:25
+Mo Zanaty,codec,2015-02-24 14:16:25,2018-09-20 14:35:11
+Tim Terriberry,codec,2012-09-17 08:28:30,2018-09-20 14:35:11
+Yunfei Zhang,ppsp,2013-09-06 09:28:12,2016-01-13 14:29:05
+Ning Zong,ppsp,2013-09-06 09:28:12,2016-01-13 14:29:05
+Andrew McGregor,core,2012-09-10 16:56:30,2016-04-18 04:21:40
+Carsten Bormann,core,2012-09-10 16:56:30,2020-03-11 05:55:11
+Jaime Jimenez,core,2016-04-28 09:28:37,None
+Marco Tiloca,core,2020-03-04 07:29:09,None
+Melinda Shore,urnbis,2014-12-09 11:32:11,2016-01-22 09:06:27
+Andrew Newton,urnbis,2014-12-09 11:32:11,2017-10-25 10:47:21
+Barry Leiba,urnbis,2016-01-22 09:06:27,2017-10-25 10:47:21
+Alexey Melnikov,precis,2015-03-22 13:01:01,2016-03-15 08:29:32
+Marc Blanchet,precis,2015-03-22 13:01:01,2017-11-14 23:09:01
+Nevil Brownlee,eman,2013-06-26 15:24:45,2015-06-08 15:13:02
+Thomas Nadeau,eman,2013-06-28 11:53:02,2015-06-08 15:13:02
+Alexey Melnikov,websec,2012-07-30 13:20:27,2015-04-21 13:15:10
+Tobias Gondrom,websec,2012-07-30 13:20:27,2015-04-21 13:15:10
+Yoav Nir,websec,2012-07-30 13:20:27,2015-04-21 13:15:10
+Mark Townsley,homenet,2015-04-09 15:33:48,2017-07-27 09:29:06
+bs7652@att.com,homenet,2017-07-27 09:29:06,2017-09-06 07:17:48
+Ray Bellis,homenet,2015-04-09 15:33:48,2018-02-21 07:45:14
+Barbara Stark,homenet,2017-09-06 07:17:48,None
+Stephen Farrell,homenet,2017-09-06 07:17:48,None
+Alexey Melnikov,appsawg,2012-06-22 08:43:05,2012-07-03 07:35:06
+Salvatore Loreto,appsawg,2012-06-22 08:43:05,2014-07-29 09:03:25
+Alexey Melnikov,appsawg,2014-07-16 16:59:01,2016-03-15 08:28:56
+Murray Kucherawy,appsawg,2012-06-22 08:43:05,2017-07-06 15:15:13
+Ondrej Sury,dane,2014-02-20 08:15:01,2014-03-06 01:38:41
+Olafur Gudmundsson,dane,2014-02-20 08:15:01,2017-03-21 10:25:44
+Warren Kumari,dane,2014-02-20 08:15:01,2017-03-21 10:25:44
+Rachel Huang,avtcore,2017-03-07 20:15:03,2019-12-19 08:45:18
+Jonathan Lennox,avtcore,2017-03-07 20:15:03,None
+Roni Even,avtcore,2019-09-20 10:43:52,None
+Keith Drage,avtext,2013-01-11 09:03:50,2015-11-04 21:54:17
+Jonathan Lennox,avtext,2013-01-11 09:03:50,2017-08-11 08:28:58
+Rachel Huang,avtext,2015-11-04 21:54:17,2017-08-11 08:28:58
+Dan Romascanu,xrblock,2016-08-18 12:15:04,2019-09-20 11:49:12
+Shida Schubert,xrblock,2016-08-18 12:15:04,2019-09-20 11:49:12
+Daniel Burnett,clue,2014-11-19 08:41:23,2016-08-08 15:26:29
+Paul Kyzivat,clue,2014-11-19 08:41:23,2020-03-17 12:42:13
+Roni Even,clue,2014-11-19 08:41:23,2020-03-17 12:42:13
+Robert Cragie,lwig,2014-08-19 16:52:23,2017-09-19 12:18:02
+Mohit Sethi,lwig,2017-09-19 12:18:02,None
+Zhen Cao,lwig,2014-08-19 16:52:23,None
+Brian Rosen,paws,2014-02-14 13:51:53,2015-05-22 15:11:58
+Gabor Bajko,paws,2014-02-14 13:51:53,2015-05-22 15:11:58
+Cullen Jennings,rtcweb,2014-04-16 07:04:43,2018-11-19 11:59:18
+Sean Turner,rtcweb,2014-04-16 07:04:43,2019-08-14 13:56:30
+Ted Hardie,rtcweb,2014-04-16 07:04:43,2019-08-14 13:56:30
+Daryl Malas,cdni,2015-11-01 18:37:22,2015-11-05 01:31:59
+Francois Le Faucheur,cdni,2015-11-01 18:37:22,None
+Kevin Ma,cdni,2015-11-01 18:37:22,None
+Phil Sorber,cdni,2017-11-21 07:44:46,None
+Matt Lepinski,httpauth,2013-03-11 04:30:14,2015-07-23 00:25:46
+Rifaat Shekh-Yusef,httpauth,2015-07-23 00:25:46,2017-02-01 10:31:29
+Yoav Nir,httpauth,2013-03-11 04:30:14,2017-02-01 10:31:29
+Tony Hansen,jose,2012-08-01 14:12:19,2012-08-01 14:21:17
+Jim Schaad,jose,2012-08-01 14:12:19,2016-08-22 08:23:42
+Karen O'Donoghue,jose,2012-08-01 14:12:19,2016-08-22 08:23:42
+Takeshi Takahashi,mile,2014-03-06 07:48:28,2014-03-06 07:49:02
+Brian Trammell,mile,2014-03-07 01:25:10,2014-03-07 23:27:38
+Alexey Melnikov,mile,2014-03-06 07:48:28,2016-04-20 13:22:56
+Nancy Cam-Winget,mile,2016-04-20 13:22:56,2020-12-03 08:57:10
+Takeshi Takahashi,mile,2014-03-07 01:13:10,2020-12-03 08:57:10
+Keith Drage,bfcpbis,2017-08-01 12:24:44,2021-01-20 09:49:55
+Charles Eckel,bfcpbis,2017-08-01 12:24:44,2021-01-20 09:49:55
+Karen Nielsen,rmcat,2014-03-06 09:03:29,2015-01-14 10:41:41
+Lars Eggert,rmcat,2012-09-20 19:08:44,2015-01-14 10:41:41
+Karen E. E. Nielsen,rmcat,2015-01-14 10:41:41,2016-02-04 06:53:26
+Mirja Kuehlewind,rmcat,2012-09-20 19:08:44,2016-02-04 06:53:26
+Mirja Kühlewind,rmcat,2016-02-04 06:53:26,2016-04-18 11:10:50
+Martin Stiemerling,rmcat,2016-04-18 11:10:50,2020-01-21 14:21:03
+Anna Brunstrom,rmcat,2015-12-01 09:36:59,None
+Colin Perkins,rmcat,2016-11-01 02:22:26,None
+Keith Drage,insipid,2017-08-01 12:25:13,2018-10-02 16:45:09
+Gonzalo Salgueiro,insipid,2017-08-01 12:25:13,2018-10-02 16:45:09
+Sam Aldrin,nvo3,2016-07-07 08:58:32,None
+Matthew Bocci,nvo3,2016-07-07 08:58:32,None
+Jouni Korhonen,dmm,2013-12-23 08:12:58,2017-09-25 12:13:57
+Dapeng Liu,dmm,2013-12-23 08:12:58,None
+Satoru Matsushima,dmm,2019-08-06 14:02:33,None
+Sri Gundavelli,dmm,2017-02-15 21:05:30,None
+David Oran,icnrg,2020-03-12 11:48:51,None
+Dirk Kutscher,icnrg,2020-03-12 11:48:51,None
+Alexey Melnikov,imapmove,2012-06-21 13:09:07,None
+Ned Freed,imapmove,2012-06-21 13:09:07,None
+Christer Holmberg,straw,2012-07-05 07:42:50,2017-03-17 10:59:29
+Victor Pascual,straw,2012-07-05 07:42:50,2017-03-17 10:59:29
+David Meyer,sdnrg,2014-11-11 15:29:29,2015-09-16 08:06:32
+Daniel King,sdnrg,2014-11-11 15:29:29,2017-01-09 08:57:47
+Kohei Shiomoto,sdnrg,2015-11-05 01:40:19,2017-01-09 08:57:47
+Adam,sacm,2013-06-28 09:54:08,2015-11-23 09:28:15
+Dan Romascanu,sacm,2013-06-28 09:54:08,2015-11-23 09:28:15
+Adam Montville,sacm,2015-11-23 09:28:15,2018-03-25 17:39:17
+Christopher Inacio,sacm,2017-10-19 11:50:36,None
+Karen O'Donoghue,sacm,2015-11-23 09:28:15,None
+Sharon Boeyen,wpkops,2013-02-21 10:10:42,2013-11-12 12:40:38
+Jeremy Rowley,wpkops,2013-04-03 13:14:03,2015-05-22 15:30:03
+Tim Moses,wpkops,2013-02-21 10:10:42,2015-05-22 15:30:03
+Alia Atlas,i2rs,2013-01-29 09:29:41,2014-03-12 15:15:01
+Edward Crabbe,i2rs,2013-01-29 09:29:41,2014-11-13 17:48:09
+Jeffrey Haas,i2rs,2014-02-26 11:44:14,2016-06-02 13:51:20
+Russ White,i2rs,2016-06-02 13:51:20,2021-03-11 05:36:12
+Susan Hares,i2rs,2014-11-13 17:48:09,2021-03-11 05:36:12
+Dan Romascanu,lmap,2013-06-27 09:31:08,2018-02-23 08:23:52
+Jason Weil,lmap,2013-07-01 10:34:30,2018-02-23 08:23:52
+m&m,json,2013-05-27 10:36:25,2015-03-23 13:29:07
+Paul Hoffman,json,2013-05-27 10:36:25,2015-03-23 13:29:07
+Victor Firoiu,nwcrg,2016-10-06 00:18:42,2017-09-12 09:20:43
+Marie-Jose Montpetit,nwcrg,2017-09-12 09:20:43,None
+Vincent Roca,nwcrg,2016-10-06 00:18:42,None
+Dave Cridland,qresync,2013-04-29 10:21:40,None
+Eliot Lear,qresync,2013-04-29 10:19:06,None
+Mirja Kuehlewind,tcmtf,2014-02-12 06:33:27,None
+Brian Trammell,tcmtf,2014-02-10 13:20:40,None
+Barry Leiba,dmarc,2016-05-05 10:47:49,2019-02-12 06:02:47
+Ned Freed,dmarc,2014-08-11 09:44:58,2019-02-12 06:02:47
+Tim Draegen,dmarc,2014-08-11 09:44:58,2019-02-12 06:02:47
+Murray Kucherawy,dmarc,2019-02-12 06:02:47,2020-03-25 17:42:42
+Alexey Melnikov,dmarc,2020-03-25 17:42:42,None
+Seth Blank,dmarc,2020-03-05 07:14:43,None
+Tim Wicinski,dmarc,2019-02-12 09:36:18,None
+Richard Scheffenegger,aqm,2013-09-24 09:55:57,2017-10-16 16:20:24
+Wesley Eddy,aqm,2013-09-24 09:55:57,2017-10-16 16:20:24
+Ralph Droms,dnssd,2017-08-01 10:27:01,2017-11-13 03:24:33
+Tim Chown,dnssd,2017-08-01 10:27:01,2018-10-02 15:43:12
+Barbara Stark,dnssd,2018-10-02 15:43:12,None
+David Schinazi,dnssd,2017-08-01 10:27:01,None
+Dorothy Gellert,dice,2013-09-27 13:41:29,2016-01-25 13:20:17
+Zach Shelby,dice,2013-09-27 13:41:29,2016-01-25 13:20:17
+Ulrich Herberg,6lo,2013-09-18 08:15:36,2014-09-29 12:24:41
+Ralph Droms,6lo,2014-09-29 12:24:41,2014-12-16 07:37:46
+Gabriel Montenegro,6lo,2014-12-16 07:37:46,2019-01-29 12:04:03
+Samita Chakrabarti,6lo,2013-09-18 08:15:36,2019-01-29 12:04:03
+Carles Gomez,6lo,2019-01-29 12:04:03,None
+Shwetha Bhandari,6lo,2019-01-29 12:04:03,None
+Russ Housley,stir,2013-08-29 10:03:51,None
+Robert Sparks,stir,2013-08-29 10:03:51,None
+Alvaro Retana,spring,2013-10-24 11:26:01,2015-02-24 09:41:37
+John Scudder,spring,2013-10-24 11:26:01,2016-07-27 08:34:32
+Martin Vigoureux,spring,2016-07-27 08:34:32,2018-03-23 04:55:23
+Rob Shakir,spring,2018-02-21 04:43:13,2020-05-27 11:31:31
+Bruno Decraene,spring,2015-02-24 09:41:37,None
+Alexandru Petrescu,its,2013-09-24 09:34:21,2016-02-26 07:50:18
+Carlos Pignataro,its,2016-02-26 07:50:18,None
+Russ Housley,its,2016-02-26 07:50:18,None
+Martin Stiemerling,sfc,2015-12-17 10:17:53,2016-11-01 10:35:01
+Thomas Narten,sfc,2013-09-25 11:46:45,2016-11-01 10:35:01
+Jim Guichard,sfc,2013-09-25 11:46:45,None
+Joel Halpern,sfc,2016-11-01 10:35:01,None
+Stephen Farrell,perpass,2013-10-15 12:31:20,None
+Sean Turner,perpass,2013-10-15 12:31:20,None
+Antoin Verschuren,eppext,2013-12-11 10:10:58,2016-03-15 10:16:22
+James Galvin,eppext,2013-12-11 10:10:58,2016-03-15 10:16:22
+Orit Levin,uta,2013-12-11 08:42:31,2017-10-05 05:00:48
+Leif Johansson,uta,2013-12-11 08:42:31,None
+Valery Smyslov,uta,2017-11-14 22:41:15,None
+Melinda Shore,trans,2014-02-14 13:45:17,None
+Paul Wouters,trans,2014-05-22 03:00:36,None
+Hannes Tschofenig,ace,2015-01-21 13:55:49,2017-10-29 13:18:55
+Kepeng Li,ace,2015-01-21 13:55:49,2017-10-29 13:18:55
+Benjamin Kaduk,ace,2017-10-29 13:18:55,2018-03-21 12:16:27
+Roman Danyliw,ace,2018-03-21 12:31:32,2019-03-28 01:58:44
+Daniel Migault,ace,2019-03-19 17:26:10,None
+Jim Schaad,ace,2017-10-29 13:18:55,None
+Marc Blanchet,dbound,2014-01-23 10:45:11,2015-03-23 12:58:31
+Olaf Kolkman,dbound,2014-01-23 10:45:11,2015-03-23 12:58:31
+Pete Resnick,dbound,2015-03-23 12:58:31,2017-04-24 09:43:10
+Murray Kucherawy,dbound,2015-03-23 12:58:31,2017-04-24 09:43:10
+Brian Haberman,dnse,2014-02-20 10:37:08,None
+Michael Welzl,taps,2014-02-17 15:49:45,2014-06-23 19:15:35
+Murray Kucherawy,taps,2014-02-17 15:49:45,2014-06-23 19:15:35
+Aaron,taps,2014-06-23 19:15:35,None
+Zaheduzzaman Sarker,taps,2016-04-03 15:11:48,None
+Melinda Shore,vnfpool,2014-06-17 09:06:18,None
+Ning Zong,vnfpool,2014-02-10 13:22:37,None
+Marc Petit-Huguenin,tram,2014-02-13 13:25:55,2014-02-14 07:32:34
+Gonzalo Camarillo,tram,2014-02-14 07:32:34,None
+Simon Perreault,tram,2014-02-13 13:25:55,None
+Tero Kivinen,tcpinc,2014-07-07 09:30:07,2015-07-24 01:37:57
+Marcelo Bagnulo,tcpinc,2014-06-27 08:20:16,2015-07-24 01:37:57
+Mirja Kuehlewind,tcpinc,2015-07-24 01:37:57,2016-04-18 11:09:52
+David Black,tcpinc,2015-10-22 10:25:27,2019-06-05 12:07:36
+Kyle Rose,tcpinc,2015-11-10 09:21:14,2019-06-05 12:07:36
+Andrew Sullivan,ianaplan,2014-06-25 08:11:02,2014-09-08 08:56:39
+Leslie Daigle,ianaplan,2014-09-08 08:56:39,2016-11-14 20:22:27
+Marc Blanchet,ianaplan,2014-06-25 08:11:02,2016-11-14 20:22:27
+Daniel King,actn,2014-07-20 07:32:35,2014-10-02 09:14:17
+Daniele Ceccarelli,actn,2014-10-02 09:14:17,None
+Young Lee,actn,2014-07-20 07:32:35,None
+Eliot Lear,tzdist,2014-07-31 14:48:48,2016-04-02 09:43:41
+Daniel Migault,tzdist,2014-07-31 14:48:48,2016-04-02 09:43:41
+Deng Lingli,dclcrg,2014-10-06 08:25:03,2016-08-31 05:26:43
+Fred Baker,dclcrg,2014-10-06 08:25:03,2016-08-31 05:26:43
+Amanda,calext,2014-08-28 15:30:15,2016-05-05 05:52:46
+Amanda Anganes,calext,2016-05-05 05:52:46,2016-05-06 09:51:52
+Philipp Kewisch,calext,2016-05-06 09:51:52,2019-01-08 03:21:24
+Donald Eastlake,calext,2014-08-28 15:30:15,2019-03-23 09:10:13
+Bron Gondwana,calext,2019-01-08 03:21:24,None
+Daniel Migault,calext,2016-05-05 05:52:46,None
+Toerless Eckert,anima,2014-11-03 15:08:46,None
+Sheng Jiang,anima,2014-11-03 15:08:46,None
+Joe Hildebrand,webpush,2014-10-03 14:04:46,2017-12-07 13:08:15
+Phil Sorber,webpush,2017-04-06 07:55:28,2017-12-07 13:08:15
+Shida Schubert,webpush,2014-10-03 14:04:46,2017-12-07 13:08:15
+Warren Kumari,dprive,2014-10-02 09:09:39,2017-07-03 09:03:38
+Brian Haberman,dprive,2017-07-03 09:03:38,None
+Tim Wicinski,dprive,2014-10-02 09:09:39,None
+Carlos Pignataro,lime,2014-10-16 10:12:05,2018-02-26 17:03:43
+Ron Bonica,lime,2014-10-16 10:12:05,2018-02-26 17:03:43
+Martin Vigoureux,bess,2017-12-01 08:17:35,2018-03-21 11:46:31
+Matthew Bocci,bess,2018-02-13 08:12:51,None
+Stephane Litkowski,bess,2017-12-01 08:17:35,None
+Murray Kucherawy,arcmedia,2014-10-02 10:24:13,2015-02-08 11:32:41
+Dave Crocker,arcmedia,2015-02-08 11:32:41,2015-07-22 04:44:36
+Pascal Thubert,detnet,2014-10-02 09:10:49,2014-11-07 06:21:35
+Jouni Korhonen,detnet,2014-10-02 09:10:49,2015-06-11 12:14:27
+Erik Nordmark,detnet,2014-11-07 06:21:35,2015-06-11 12:14:27
+Patricia Thaler,detnet,2015-06-11 12:14:27,2018-03-26 07:46:17
+Janos Farkas,detnet,2017-12-01 10:42:43,None
+Lou Berger,detnet,2015-06-11 12:14:27,None
+Jon Peterson,netvc,2015-02-12 10:57:44,2015-05-18 12:05:24
+Adam Roach,netvc,2015-02-12 10:57:44,2017-03-28 11:12:41
+Natasha Rooney,netvc,2017-03-28 11:12:41,2018-05-29 15:29:47
+Matthew Miller,netvc,2018-03-22 18:55:11,2020-03-25 13:53:23
+Mo Zanaty,netvc,2015-05-18 12:05:24,2020-03-25 13:53:23
+Greg Shepherd,bier,2014-10-02 09:14:42,None
+Tony Przygienda,bier,2015-02-11 13:11:02,None
+Joseph Salowey,i2nsf,2014-10-23 09:46:28,2015-06-12 08:17:52
+Dan Romascanu,i2nsf,2014-10-23 09:46:28,2015-09-10 08:03:54
+J. Salowey,i2nsf,2015-06-12 08:17:52,2015-09-10 08:03:54
+Adrian Farrel,i2nsf,2015-09-10 08:03:54,2017-07-18 14:52:11
+Linda Dunbar,i2nsf,2015-09-10 08:03:54,None
+Yoav Nir,i2nsf,2017-07-18 14:52:11,None
+Fred Templin,dtn,2014-10-02 09:15:27,2014-10-07 13:14:29
+Marc Blanchet,dtn,2014-10-02 09:15:27,2014-10-07 13:14:29
+Fred Templin,dtn,2014-10-30 10:15:34,2014-10-30 10:21:40
+Marc Blanchet,dtn,2014-10-30 10:15:34,2014-10-30 10:21:40
+Brian Haberman,dtn,2014-11-07 08:11:26,2016-06-06 09:27:12
+Marc Blanchet,dtn,2014-11-07 08:11:26,None
+Rick Taylor,dtn,2016-04-25 10:51:51,None
+Dilip Krishnaswamy,nfvrg,2014-10-06 08:20:35,2015-01-20 01:20:45
+ramki,nfvrg,2014-10-06 08:20:35,2015-01-20 01:20:45
+Diego Lopez,nfvrg,2014-10-06 08:20:35,2018-11-19 11:19:25
+Ram (Ramki) Krishnan,nfvrg,2015-01-20 01:20:45,2018-11-19 11:19:25
+Warren Kumari,gaia,2014-10-06 23:59:36,2014-10-15 04:37:00
+Mat Ford,gaia,2014-10-15 04:37:00,2017-05-02 06:47:14
+Arjuna Sathiaseelan,gaia,2014-10-06 23:59:36,2018-02-24 19:05:04
+Jane Coffin,gaia,2017-05-02 06:47:14,None
+Leandro Navarro,gaia,2018-02-27 10:12:08,None
+Jari Arkko,genart,2017-03-10 08:08:39,2017-03-30 06:11:20
+Alissa Cooper,genart,2017-03-10 08:08:39,None
+Ted Lemon,iotdir,2016-11-03 06:24:58,2018-01-10 17:00:42
+Terry Manderson,iotdir,2016-11-30 15:26:09,2019-04-29 22:37:28
+Ari Keränen,iotdir,2016-11-03 06:24:58,None
+Éric Vyncke,iotdir,2019-04-29 22:37:28,None
+Samita Chakrabarti,iotdir,2016-11-03 06:24:58,None
+Suresh Krishnan,iotdir,2016-11-30 15:26:09,None
+Jon Hudson,rtgdir,2017-01-10 01:34:26,2017-02-16 08:46:16
+Jonathan Hardwick,rtgdir,2017-01-10 01:34:26,2019-02-12 07:47:23
+Min Ye,rtgdir,2017-01-10 01:34:26,None
+Luc Burdet,rtgdir,2019-03-07 17:23:49,None
+Lou Berger,teas,2015-03-04 13:05:30,None
+Vishnu Beeram,teas,2015-03-04 13:05:30,None
+Niels,hrpc,2015-01-23 07:26:54,2018-04-17 00:37:55
+Avri Doria,hrpc,2015-01-23 07:26:54,None
+Mallory Knodel,hrpc,2018-08-15 23:36:25,None
+Leif Johansson,tokbind,2015-03-11 15:05:39,2021-03-12 17:57:37
+John Bradley,tokbind,2015-03-11 15:05:39,2021-03-12 17:57:37
+Ari Keranen,t2trg,2015-11-30 05:30:52,None
+Carsten Bormann,t2trg,2015-11-30 05:30:52,None
+Dave Thaler,lucid,2015-02-17 06:34:51,None
+Marc Blanchet,lucid,2015-02-17 06:34:51,None
+Daniel King,supa,2015-10-02 09:44:29,2017-08-03 04:40:34
+Nevil Brownlee,supa,2015-10-02 09:44:29,2017-08-03 04:40:34
+Adam Roach,modern,2015-03-23 15:22:34,2015-06-01 14:16:34
+Steve Donovan,modern,2015-06-01 14:16:34,2020-02-06 11:43:25
+Tom McGarry,modern,2015-02-12 10:56:18,2020-02-06 11:43:25
+Ted Hardie,acme,2017-06-21 10:14:04,2017-09-07 09:08:33
+Rich Salz,acme,2017-06-21 10:14:04,None
+Yoav Nir,acme,2017-06-21 10:14:04,None
+Russ Housley,dots,2015-02-17 10:18:07,2015-06-04 06:07:07
+Roman Danyliw,dots,2015-02-17 10:29:43,2019-03-23 03:52:04
+Tobias Gondrom,dots,2015-07-16 08:03:44,2019-03-23 03:52:04
+Liang Xia,dots,2018-07-09 08:47:21,None
+Valery Smyslov,dots,2019-03-23 03:52:04,None
+Adrian Farrel,l3sm,2015-03-24 14:59:05,2016-11-30 16:09:03
+Qin Wu,l3sm,2015-03-24 14:59:05,2016-11-30 16:09:03
+N Rooney,slim,2015-10-05 06:20:29,2017-11-11 17:24:37
+Bernard Aboba,slim,2015-09-28 11:57:35,2018-10-25 06:26:32
+Erik Wilde,geojson,2015-10-02 09:17:43,2017-06-07 16:55:09
+Martin Thomson,geojson,2015-10-02 09:17:43,2017-06-07 16:55:09
+Justin Richer,cose,2015-06-03 09:02:34,2016-11-29 09:28:35
+Kepeng Li,cose,2015-06-03 06:58:32,2016-11-29 09:28:35
+Ivaylo Petrov,cose,2018-12-03 06:56:46,None
+Matthew Miller,cose,2018-12-03 06:56:46,None
+Marc Blanchet,lager,2015-06-24 11:57:57,2016-10-27 10:37:00
+Scott Hollenbeck,lager,2015-06-24 11:57:57,2016-10-27 10:37:00
+Richard Barnes,perc,2015-06-02 19:35:49,2017-04-18 11:48:33
+Nils Ohlmeier,perc,2017-04-18 11:48:14,None
+Suhas Nandakumar,perc,2015-06-02 19:35:49,None
+S Moonesamy,imapapnd,2015-06-26 12:48:40,2016-05-19 06:36:25
+Warren Kumari,capport,2015-10-01 06:48:46,2017-03-28 13:40:38
+Erik Kline,capport,2017-03-30 23:06:14,2020-12-07 09:12:39
+Martin Thomson,capport,2015-10-15 11:10:36,2020-12-07 09:12:39
+Alexey Melnikov,artarea,2017-03-30 13:14:23,2020-03-25 17:58:28
+Adam Roach,artarea,2017-03-30 13:14:23,2020-03-25 17:58:28
+Ben Campbell,artarea,2017-03-30 13:14:23,2020-03-25 17:58:28
+Barry Leiba,artarea,2020-03-25 17:58:28,None
+Murray Kucherawy,artarea,2020-03-25 17:58:28,None
+Albert,nmlrg,2016-02-29 01:31:51,None
+Sheng Jiang,nmlrg,2016-02-29 01:31:51,None
+Yong Cui,iss,2015-11-01 15:25:23,None
+David Black,iss,2015-11-01 15:25:23,None
+Ari Keranen,ice,2015-10-02 15:25:45,2020-01-24 14:49:31
+Peter Thatcher,ice,2015-10-02 15:25:45,2020-01-24 14:49:31
+Ari Keränen,ice,2020-01-24 14:49:31,2020-07-31 08:39:18
+tessa.fallon@gmail.com,cellar,2015-10-22 08:03:18,2015-11-03 17:43:45
+Tessa Fallon,cellar,2015-11-03 17:43:45,2018-04-09 18:14:37
+Tim Terriberry,cellar,2015-11-03 17:43:45,2020-01-13 08:58:41
+Michael Richardson,cellar,2018-04-19 02:11:57,None
+Spencer Dawkins,cellar,2020-01-13 08:58:41,None
+Barry Leiba,hackathon,2016-04-06 14:01:57,None
+Charles Eckel,hackathon,2016-04-06 14:01:57,None
+Daniel Migault,curdle,2015-12-16 07:13:01,None
+Rich Salz,curdle,2015-12-16 07:13:01,None
+Mirja Kuehlewind,maprg,2016-01-14 01:44:01,2016-08-19 11:47:36
+plonka@akamai.com,maprg,2016-01-14 01:44:01,2016-08-19 11:47:36
+Dave Plonka,maprg,2016-08-19 11:47:36,None
+Mirja Kühlewind,maprg,2016-08-19 11:47:36,None
+Ray Pelletier,mtgvenue,2016-03-09 10:22:22,2016-03-09 10:27:25
+Fred Baker,mtgvenue,2016-03-09 10:22:22,2016-06-06 09:04:48
+Jonne Soininen,mtgvenue,2016-06-30 07:55:56,2017-03-08 08:33:30
+Melinda Shore,mtgvenue,2016-06-30 07:55:56,2017-03-08 08:33:30
+Charles Eckel,mtgvenue,2017-03-08 08:33:30,2020-04-29 06:12:04
+Pete Resnick,mtgvenue,2017-03-08 08:33:30,2020-04-29 06:12:04
+Alexander Pelov,lpwan,2016-06-10 08:58:33,None
+Pascal Thubert,lpwan,2016-06-10 08:58:33,None
+Donald Eastlake,babel,2016-05-09 13:17:59,None
+Russ White,babel,2016-05-09 13:17:59,None
+Gonzalo Camarillo,sipbrandy,2016-08-03 13:04:03,2021-02-04 08:27:08
+Gonzalo Salgueiro,sipbrandy,2016-08-03 13:04:03,2021-02-04 08:27:08
+Alissa Cooper,imtg,2016-07-08 13:11:55,None
+Brian Trammell,quic,2016-06-15 13:30:37,2016-08-22 13:34:50
+Lars Eggert,quic,2016-06-15 13:30:37,2016-08-22 13:34:50
+Lars Eggert,quic,2016-10-03 20:57:12,None
+Lucas Pardue,quic,2020-01-15 05:08:17,None
+Mark Nottingham,quic,2016-10-03 20:57:12,None
+Aaron Falk,plus,2016-06-15 13:32:32,None
+Natasha Rooney,plus,2016-06-15 13:32:32,None
+Russ Housley,lamps,2018-05-01 06:10:20,None
+Timothy Hollebeek,lamps,2018-05-01 06:10:20,None
+Keyur Patel,sidrops,2016-10-19 08:38:04,None
+Chris Morrow,sidrops,2016-10-19 08:38:04,None
+Carlos Bernardos,ipwave,2016-10-18 02:33:13,None
+Russ Housley,ipwave,2016-09-22 07:21:51,None
+Adrian Farrel,l2sm,2016-11-03 07:14:55,2018-12-21 09:19:22
+Qin Wu,l2sm,2016-11-03 07:14:55,2018-12-21 09:19:22
+Yoav Nir,secevent,2016-10-28 08:51:46,2016-11-30 09:08:18
+Dick Hardt,secevent,2016-11-30 09:08:18,None
+Yaron Sheffer,secevent,2016-11-30 09:08:18,None
+Brian Trammell,banana,2016-10-12 04:24:39,None
+Margaret Cullen,banana,2016-10-12 04:24:39,None
+Jim Galvin,dnsbundled,2016-10-06 10:23:38,None
+Ning Kong,dnsbundled,2016-10-06 10:23:38,None
+NRO Chair,ccg,2016-10-28 08:41:37,None
+Greg Shatan,ccg,2016-10-28 08:41:37,None
+Russ Housley,ccg,2016-10-28 08:41:37,None
+Mirja Kühlewind,tsvart,2016-11-14 22:22:36,2020-03-25 18:55:47
+Spencer Dawkins,tsvart,2016-11-14 22:22:36,2020-03-25 18:55:47
+Magnus Westerlund,tsvart,2020-03-25 18:55:47,None
+Martin Duke,tsvart,2020-03-25 18:55:47,None
+Joe Hildebrand,cbor,2016-12-15 07:46:59,2018-03-23 07:25:24
+Barry Leiba,cbor,2018-03-31 05:17:57,2019-03-23 07:32:58
+Francesca Palombini,cbor,2016-12-15 07:46:59,None
+Jim Schaad,cbor,2019-03-23 09:12:20,None
+Barry Leiba,jmap,2017-03-25 16:02:26,2019-03-23 07:33:28
+Bron Gondwana,jmap,2017-02-15 11:02:14,None
+Jim Fenton,jmap,2019-04-04 02:57:47,None
+Tal Mizrahi,ioam,2017-02-15 11:13:48,None
+Paul Hoffman,wugh,2017-03-10 16:01:24,None
+Gonzalo Camarillo,iasa20,2017-02-27 13:20:25,2017-03-13 09:21:37
+Leslie Daigle,iasa20,2017-02-27 13:20:25,2017-03-13 09:21:37
+Jon Peterson,iasa20,2017-03-13 09:01:18,None
+Marc Blanchet,casm,2017-02-21 10:33:57,None
+Ralph Droms,casm,2017-02-21 10:33:57,None
+Tero Kivinen,teep,2017-03-03 07:41:11,2017-09-13 11:44:10
+Dave Thaler,teep,2017-09-13 11:44:10,2019-11-17 07:33:16
+Nancy Cam-Winget,teep,2017-03-03 07:41:11,None
+Reddy K,teep,2019-11-18 18:17:04,None
+Ben Campbell,artart,2017-03-26 17:04:49,2019-03-27 11:19:57
+Alexey Melnikov,artart,2017-03-26 17:04:49,2020-03-25 18:01:15
+Adam Roach,artart,2017-03-26 17:04:49,2020-03-25 18:01:15
+Barry Leiba,artart,2019-03-27 11:19:57,None
+Murray Kucherawy,artart,2020-03-25 18:01:15,None
+Rich Salz,dcrup,2017-04-24 07:49:45,2018-09-20 11:08:06
+Murray Kucherawy,dcrup,2017-04-24 07:49:45,2018-09-20 11:08:06
+Brian Haberman,ideas,2017-06-15 08:31:47,2017-09-07 11:36:04
+Tim Wicinski,ideas,2017-06-15 08:31:47,2017-09-28 06:32:20
+Padma Pillay-Esnault,ideas,2017-09-07 11:36:04,None
+Adrian Farrel,netslicing,2017-06-12 07:12:48,None
+Gonzalo Camarillo,netslicing,2017-06-12 07:12:48,None
+Jen Linkova,panrg,2017-06-09 12:53:50,None
+Brian Trammell,panrg,2017-06-09 12:53:50,None
+Mirjam Kuehne,emodir,2017-06-16 16:57:55,None
+Karen O'Donoghue,emodir,2017-06-16 16:57:55,None
+Bron Gondwana,extra,2017-09-11 07:44:00,None
+Jiankang Yao,extra,2017-11-14 21:09:53,None
+Benjamin Schwartz,doh,2017-09-28 12:55:51,2020-03-17 12:12:31
+David Lawrence,doh,2017-09-28 12:55:51,2020-03-17 12:12:31
+David Waltermire,suit,2017-10-27 12:29:39,None
+Dave Thaler,suit,2017-10-27 12:29:39,None
+Russ Housley,suit,2017-10-27 12:29:39,None
+Jeff Tantsura,rift,2018-02-01 12:34:11,None
+Zhaohui Zhang,rift,2018-02-01 12:34:11,None
+Adrian Farrel,coms,2018-02-27 15:09:33,None
+Gonzalo Camarillo,coms,2018-02-27 15:09:33,None
+Joel Halpern,ila,2018-03-06 20:36:56,None
+Samita Chakrabarti,ila,2018-03-06 20:36:56,None
+Roman Danyliw,secdispatch,2018-03-08 07:31:02,2019-03-27 11:34:29
+Francesca Palombini,secdispatch,2019-11-16 15:58:10,None
+Kathleen Moriarty,secdispatch,2019-03-18 20:54:23,None
+Richard Barnes,secdispatch,2018-03-08 07:31:02,None
+Nick Sullivan,mls,2018-03-01 07:51:33,None
+Sean Turner,mls,2018-02-28 20:04:42,None
+Jason Livingood,iasa2,2018-04-19 07:13:11,2020-03-05 11:30:59
+Jon Peterson,iasa2,2018-04-19 07:13:11,2020-03-05 11:30:59
+Gonzalo Camarillo,rfcplusplus,2018-06-21 08:47:45,None
+Sean Turner,rfcplusplus,2018-06-21 08:47:45,None
+Pete Resnick,i18nrp,2018-06-14 11:37:07,None
+Peter Saint-Andre,i18nrp,2018-06-14 11:37:07,None
+Christopher Wood,pearg,2019-02-21 08:39:34,None
+Sara Dickinson,pearg,2019-02-21 08:39:34,None
+Shivan Sahib,pearg,2019-02-21 08:39:34,None
+Stephanie Wehner,qirg,2018-11-06 14:00:16,2020-03-02 15:35:12
+Rodney Van Meter,qirg,2018-11-06 14:00:16,None
+Wojciech Kozlowski,qirg,2020-03-02 15:35:12,None
+Roman Danyliw,rats,2018-10-21 19:53:26,2019-03-27 22:51:59
+Kathleen Moriarty,rats,2019-03-07 08:11:49,None
+Nancy Cam-Winget,rats,2018-10-21 19:53:26,None
+Ned Smith,rats,2019-03-07 08:11:49,None
+Christopher Wood,git,2019-01-29 06:53:21,2020-09-10 09:25:09
+Paul Hoffman,git,2019-01-29 06:53:21,2020-09-10 09:25:09
+Eve Schooler,coinrg,2019-02-19 14:19:41,None
+Jianfei He,coinrg,2019-02-19 14:19:41,None
+Marie-Jose Montpetit,coinrg,2019-02-19 14:19:41,None
+Richard Barnes,bimi,2019-03-01 07:53:07,None
+Murray Kucherawy,bimi,2019-02-20 04:50:15,None
+Alvaro Retana,wgtlgo,2019-03-15 05:55:49,None
+Karen O'Donoghue,wgtlgo,2019-03-15 05:55:49,None
+Spencer Dawkins,wgtlgo,2019-03-15 05:55:49,None
+Adrian Farrel,bcause,2019-03-12 02:21:26,None
+Barbara Stark,bcause,2019-03-12 02:21:26,None
+Christopher Inacio,cacao,2019-02-25 14:35:35,None
+Joseph Salowey,cacao,2019-02-25 14:35:35,None
+Kathleen Moriarty,smart,2019-03-24 04:40:15,None
+Kirsty P,smart,2019-03-24 04:40:15,None
+Ethan Grossman,paw,2019-03-23 05:22:37,None
+Pascal Thubert,paw,2019-03-23 05:22:37,None
+Brian Rosen,rum,2019-02-27 08:53:35,None
+Paul Kyzivat,rum,2019-02-27 08:53:35,None
+Lars Eggert,add,2019-07-08 08:51:51,2019-10-09 08:07:23
+David Lawrence,add,2019-07-08 08:51:51,2019-10-09 08:07:23
+Benjamin Schwartz,add,2020-01-28 11:15:58,2020-02-06 09:23:42
+David Lawrence,add,2020-01-28 11:15:58,None
+Glenn Deen,add,2020-02-06 09:23:42,None
+Glenn Deen,mops,2019-11-17 00:37:23,2019-12-08 03:19:21
+Kyle Rose,mops,2019-12-08 03:19:21,None
+Leslie Daigle,mops,2019-09-30 14:24:19,None
+Mališa Vučinić,lake,2019-10-30 10:33:47,None
+Stephen Farrell,lake,2019-09-25 15:55:10,None
+Ole Trøan,loops,2019-06-27 06:11:22,None
+Spencer Dawkins,loops,2019-06-27 06:11:22,None
+Alvaro Retana,tdd,2019-07-03 05:48:51,2019-07-12 08:41:54
+Karen O'Donoghue,tdd,2019-07-03 05:48:51,2019-07-12 08:41:54
+Warren Kumari,tdd,2019-07-03 05:48:51,2019-07-12 08:41:54
+Spencer Dawkins,tdd,2019-07-03 05:48:51,2019-07-22 05:17:24
+Jamal Hadi Salim,tdd,2019-07-12 08:41:54,2020-02-04 09:33:47
+Mirja Kühlewind,tdd,2019-07-03 05:48:51,2020-02-04 09:33:47
+Geoff Huston,tdd,2020-02-04 09:33:47,None
+Wes Hardaker,tdd,2020-02-04 09:33:47,None
+Francesca Palombini,gendispatch,2019-09-26 09:20:53,None
+Pete Resnick,gendispatch,2019-09-26 09:20:53,None
+Benjamin Schwartz,abcd,2019-10-16 08:13:12,None
+David Lawrence,abcd,2019-10-16 08:13:12,None
+Patrick McManus,wpack,2019-10-16 08:13:38,2020-01-17 08:34:42
+David Lawrence,wpack,2020-03-03 02:48:55,None
+Sean Turner,wpack,2019-11-17 17:40:46,None
+Daniel Migault,tmrid,2019-11-07 11:22:30,None
+Gonzalo Camarillo,tmrid,2019-11-07 11:22:30,None
+Erik Nordmark,raw,2019-10-14 07:26:29,2020-01-17 10:34:50
+Rick Taylor,raw,2019-10-14 07:26:29,2020-01-17 10:34:50
+Eve Schooler,raw,2020-02-07 12:03:07,None
+Rick Taylor,raw,2020-02-07 12:03:07,None
+Dick Hardt,txauth,2019-10-28 08:24:39,None
+Yaron Sheffer,txauth,2019-10-28 08:43:56,None
+Rich Salz,mathmesh,2019-10-18 12:14:52,None
+Wes Hardaker,mathmesh,2019-11-08 05:41:06,None
+Bernard Aboba,webtrans,2019-10-15 16:23:10,None
+David Schinazi,webtrans,2019-10-15 16:23:10,None
+Daniel Migault,drip,2020-02-12 03:51:24,None
+Mohamed Boucadair,drip,2020-03-12 01:34:03,None
+Martin Thomson,ript,2020-02-14 15:26:49,None
+Mo Zanaty,ript,2020-02-14 15:26:49,None
+Jana Iyengar,masque,2020-02-18 15:17:04,2020-05-11 08:03:02
+Christopher Wood,masque,2020-02-18 15:17:04,None
+Eric Kinnear,masque,2020-04-22 10:27:40,None
+Benjamin Schwartz,privacypass,2020-03-11 08:17:30,None
+Joseph Salowey,privacypass,2020-03-10 13:47:02,None
+Jari Arkko,model-t,2020-02-13 10:58:01,None
+Stephen Farrell,model-t,2020-02-13 10:58:01,None

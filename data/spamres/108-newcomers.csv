@@ -1,0 +1,8 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<159355440009.27580.1854953764704188210@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+2,<159405893817.6601.4070056947997987768@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+3,<159526638036.29114.2742042238923915292@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
+4,<097D3776-8457-4817-9DD8-14A9AC8C802B@amsl.com>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, SPF_HELO_NONE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+5,<276A2F7E-64A9-474B-A575-D70210F4D653@amsl.com>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, SPF_HELO_NONE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
+6,<9d7bc720a6fc470c99e08b5045f525b7@huawei.com>,NO,0.073,,"No, score=0.073 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, DEAR_SOMETHING=1.973, HTML_MESSAGE=0.001, RCVD_IN_MSPIKE_H2=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no autolearn_force=no",False,-0.3,False,0.011533590852220566
+7,<FF185A34-2DC4-4776-A769-4766CEE3FD52@amsl.com>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, SPF_HELO_NONE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784

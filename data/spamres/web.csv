@@ -1,0 +1,13 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<20140418120632.2560.63276.ARCHIVE@ietfa.amsl.com>,,4.0 (++++),,,False,3.9,False,4.617738958009854e-10
+2,<20140418120632.2560.48392.ARCHIVE@ietfa.amsl.com>,,3.8 (+++),,,False,1.5,False,0.00042790360866136007
+3,<20140418120632.2560.87439.ARCHIVE@ietfa.amsl.com>,,0.0 (/),,,False,2.7,False,0.16172319552012535
+4,<20140418120632.2560.74781.ARCHIVE@ietfa.amsl.com>,,1.0 (+),,,True,8.3,False,5.457778236602748e-09
+5,<20140418120632.2560.39014.ARCHIVE@ietfa.amsl.com>,,2.1 (++),,,False,3.8,False,5.780474329840908e-10
+6,<20140418120632.2560.12859.ARCHIVE@ietfa.amsl.com>,,0.0 (/),,,False,3.7,False,3.8263160375457126e-12
+7,<20140418120632.2560.71018.ARCHIVE@ietfa.amsl.com>,,2.0 (++),,,False,1.5,False,6.486662664655245e-10
+8,<20140418120632.2560.26601.ARCHIVE@ietfa.amsl.com>,,0.0 (/),,,False,3.8,False,2.2632748116363895e-11
+9,<20140418120633.2560.8077.ARCHIVE@ietfa.amsl.com>,,2.0 (++),,,False,4.8,False,6.605846656753064e-06
+10,<20140418120633.2560.62907.ARCHIVE@ietfa.amsl.com>,,0.1 (/),,,True,9.1,False,4.842934352407561e-09
+11,<20140418120633.2560.55112.ARCHIVE@ietfa.amsl.com>,,3.5 (+++),,,False,3.1,False,1.6440603930154233e-10
+12,<20140418120633.2560.23522.ARCHIVE@ietfa.amsl.com>,,0.1 (/),,,False,4.9,False,4.204138001666465e-11

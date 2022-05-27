@@ -1,0 +1,28 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<4B0AC057.5040703@nostrum.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+2,<A444A0F8084434499206E78C106220CA1CFA49A7@MCHP058A.global-ad.net>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=-0.001, BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.49999999999999784
+3,<167dfb9b0911232248j6e3f54acged489f40ea881921@mail.gmail.com>,NO,-3.563,,"No, score=-3.563 tagged_above=-999 required=5 tests=[BAYES_40=-0.185, FM_FORGED_GMAIL=0.622, RCVD_IN_DNSWL_MED=-4]",False,-1.0,False,0.15960297761042466
+4,<D6D7E616-C79C-4D29-9B3D-801759359278@ntt-at.com>,NO,-1.965,,"No, score=-1.965 tagged_above=-999 required=5 tests=[AWL=0.299, BAYES_00=-2.599, HTML_MESSAGE=0.001, IP_NOT_FRIENDLY=0.334]",False,-2.0,False,0.49999999999999784
+5,<101C6067BEC68246B0C3F6843BCCC1E30672CA70F3@MCHP058A.global-ad.net>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.03481168340193519
+6,<4B0B9F77.2060103@ericsson.com>,NO,-6.249,,"No, score=-6.249 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HELO_EQ_SE=0.35, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.49999999999999784
+7,<4B0C5889.8050401@nostrum.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.000, BAYES_00=-2.599, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+8,<4B0D9DC3.8030202@nostrum.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=-0.000, BAYES_00=-2.599, HTML_MESSAGE=0.001, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+9,<4B0DA1E3.4070304@nostrum.com>,NO,-3.266,,"No, score=-3.266 tagged_above=-999 required=5 tests=[AWL=-0.667, BAYES_00=-2.599, HTML_MESSAGE=0.001, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+10,<A444A0F8084434499206E78C106220CA43A2E6C9@MCHP058A.global-ad.net>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.000, BAYES_00=-2.599]",False,-2.0,False,0.49999999999999784
+11,<4B13FE1B.3000804@nostrum.com>,NO,-3.171,,"No, score=-3.171 tagged_above=-999 required=5 tests=[AWL=-0.571, BAYES_00=-2.599, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+12,<4B141916.3070904@nostrum.com>,NO,-3.1,,"No, score=-3.1 tagged_above=-999 required=5 tests=[AWL=-0.500, BAYES_00=-2.599, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+13,<A444A0F8084434499206E78C106220CA45894AAF@MCHP058A.global-ad.net>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.000, BAYES_00=-2.599]",False,-2.0,False,0.49999999999999784
+14,<839A9D89-DD1C-470F-8C5C-993069D5C1DC@ntt-at.com>,NO,-2.165,,"No, score=-2.165 tagged_above=-999 required=5 tests=[AWL=0.100, BAYES_00=-2.599, IP_NOT_FRIENDLY=0.334]",False,-2.0,False,0.49999999999999784
+15,<90243C8A881F8D419D855264D9636F3A02922807@zcarhxm2.corp.nortel.com>,NO,-6.599,,"No, score=-6.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4]",False,-0.6,False,0.49999999999999784
+16,<4B158C51.7040705@nostrum.com>,NO,-3.044,,"No, score=-3.044 tagged_above=-999 required=5 tests=[AWL=-0.444, BAYES_00=-2.599, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+17,<4B158FC1.1040703@nostrum.com>,NO,-3,,"No, score=-3 tagged_above=-999 required=5 tests=[AWL=-0.400, BAYES_00=-2.599, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+18,<8B0A9FCBB9832F43971E38010638454F01D656C7EB@SISPE7MB1.commscope.com>,NO,-1.599,,"No, score=-1.599 tagged_above=-999 required=5 tests=[AWL=-0.800, BAYES_00=-2.599, J_CHICKENPOX_44=0.6, J_CHICKENPOX_63=0.6, J_CHICKENPOX_64=0.6]",False,0.0,False,0.15960297761042466
+19,<4B169AA8.5020208@nostrum.com>,NO,-2.063,,"No, score=-2.063 tagged_above=-999 required=5 tests=[AWL=-1.263, BAYES_00=-2.599, J_CHICKENPOX_44=0.6, J_CHICKENPOX_63=0.6, J_CHICKENPOX_64=0.6, SPF_PASS=-0.001]",False,-2.0,False,0.7247867850870169
+20,<8B0A9FCBB9832F43971E38010638454F01D656C8D0@SISPE7MB1.commscope.com>,NO,-2.442,,"No, score=-2.442 tagged_above=-999 required=5 tests=[AWL=0.157, BAYES_00=-2.599]",False,0.0,False,0.49999999999999784
+21,<4B2117A3.3050202@nostrum.com>,NO,-2.499,,"No, score=-2.499 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RDNS_DYNAMIC=0.1]",False,-2.0,False,0.49999999999999784
+22,<1261072476.30342.435.camel@scott>,NO,-6.171,,"No, score=-6.171 tagged_above=-999 required=5 tests=[AWL=0.428, BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4]",False,4.1,False,0.49999999999999784
+23,<1261078028.30342.456.camel@scott>,NO,-6.21,,"No, score=-6.21 tagged_above=-999 required=5 tests=[AWL=0.389, BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4]",False,4.1,False,0.49999999999999784
+24,<1261137284.12725.5.camel@scott>,NO,-6.242,,"No, score=-6.242 tagged_above=-999 required=5 tests=[AWL=0.357, BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4]",False,4.1,False,0.49999999999999784
+25,<4B2C180D.8000000@nostrum.com>,NO,-2.806,,"No, score=-2.806 tagged_above=-999 required=5 tests=[AWL=-0.206, BAYES_00=-2.599, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784
+26,<1261246558.12725.260.camel@scott>,NO,-1.936,,"No, score=-1.936 tagged_above=-999 required=5 tests=[AWL=0.664, BAYES_00=-2.599]",True,5.1,False,0.49999999999999784
+27,<4B7060CB.4020105@nostrum.com>,NO,-2.55,,"No, score=-2.55 tagged_above=-999 required=5 tests=[AWL=0.049, BAYES_00=-2.599, HTML_MESSAGE=0.001, SPF_PASS=-0.001]",False,-2.0,False,0.49999999999999784

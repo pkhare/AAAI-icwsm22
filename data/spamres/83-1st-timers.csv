@@ -1,0 +1,4 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<83FC3F65-2A64-4D90-8CA1-9FB5B14ADDF6@ietf.org>,NO,-102.332,,"No, score=-102.332 tagged_above=-999 required=5 tests=[AWL=0.267, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+2,<AC939264-EA26-4FE3-BC30-D2A56E18EC6E@amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.07970566712219727
+3,<918BFD4F-CFAB-4DF5-9D7A-8C10F600EC7E@amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.07970566712219727

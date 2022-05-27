@@ -1,0 +1,3 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<17F2A2AB-1D7C-4543-A767-6CA8E58946C8@amsl.com>,NO,0.79,,"No, score=0.79 tagged_above=-999 required=5 tests=[BAYES_50=0.8, HTML_MESSAGE=0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.22737794128918348
+2,<20150719133324.7556.40851.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.15960297761042466

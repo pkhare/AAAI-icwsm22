@@ -1,0 +1,9 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<20100719222216.F3D0E3A698C@core3.amsl.com>,,,,,False,-0.8,False,0.15960297761042466
+2,<4C4598FE.4010408@gmx.net>,NO,-1.587,,"No, score=-1.587 tagged_above=-999 required=5 tests=[AWL=1.013, BAYES_00=-2.599]",False,-2.0,False,0.49999999999999784
+3,<57431BD3-7399-47D0-BA14-271D4F87FAA6@gmail.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,-0.6,False,0.49999999999999784
+4,<727B5244734C1F4E83CF2575353129BA085D36@TK5EX14MBXW652.wingroup.windeploy.ntdev.microsoft.com>,NO,-10.599,,"No, score=-10.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_HI=-8]",False,-2.0,False,0.49999999999999784
+5,<tsly6cy5lqv.fsf@mit.edu>,NO,-2.265,,"No, score=-2.265 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, IP_NOT_FRIENDLY=0.334]",False,-1.0,False,0.49999999999999784
+6,<7CF277500761BD408EA4F0B131539B56EAFE@TK5EX14MBXW653.wingroup.windeploy.ntdev.microsoft.com>,NO,-10.599,,"No, score=-10.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_HI=-8]",False,-2.0,False,0.15960297761042466
+7,<alpine.LNX.2.00.1007281251270.1524@whitebox>,NO,-2.249,,"No, score=-2.249 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HELO_EQ_FR=0.35]",False,0.2,False,0.49999999999999784
+8,<D438B1D5-6243-483E-89D9-81963D72764F@gmail.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.000, BAYES_00=-2.599]",False,-0.6,False,0.49999999999999784

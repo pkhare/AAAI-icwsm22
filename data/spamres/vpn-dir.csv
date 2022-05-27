@@ -1,0 +1,14 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<200308041506.h74F6rTO024171@rotala.raleigh.ibm.com>,,,,,False,-1.0,False,0.49999999999999784
+2,<4.3.2.20030921233800.02bc4e90@zircon.juniper.net>,,,,,False,-2.0,False,0.49999999999999784
+3,<200401210035.i0L0ZVV07875@cichlid.raleigh.ibm.com>,,,,"No, hits=0.2 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+4,<4.3.2.20040120214537.0304b048@zircon.juniper.net>,,,,"No, hits=2.0 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+5,<104101484507.20040120175450@psg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,DATE_IN_PAST_03_06, RCVD_NUMERIC_HELO autolearn=no version=2.60",False,-3.4,False,0.7189408625521978
+6,<200401211838.i0LIcRW02964@cichlid.raleigh.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+7,<4.3.2.20040121152826.030d8028@zircon.juniper.net>,,,,"No, hits=2.0 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+8,<4.3.2.20040121152252.030c5580@zircon.juniper.net>,,,,"No, hits=2.0 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-2.0,False,0.8674304598559883
+9,<200401271702.i0RH2AJ05563@cichlid.raleigh.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+10,<200401272211.i0RMBeV07390@cichlid.raleigh.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+11,<4.3.2.20040130150047.02ed1aa0@zircon.juniper.net>,,,,"No, hits=2.0 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+12,<4.3.2.20040130142850.01383b48@zircon.juniper.net>,,,,"No, hits=2.0 required=5.0 tests=AWL,FORGED_MUA_EUDORA  autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+13,<200309191939.h8JJdWgw019928@rotala.raleigh.ibm.com>,,,,,False,-1.0,False,0.03813740723243072

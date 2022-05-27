@@ -1,0 +1,769 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<920117135023*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.7386174299882467e-12
+2,<9201251745.AA17820@lbl.gov>,,,,,False,0.0,True,0.9924762977537074
+3,<14515.696416316@UK.AC.UCL.CS>,,,,,False,-0.0,True,0.9999998428259866
+4,<9201272315.AA26377@lbl.gov>,,,,,False,0.0,True,0.9999977671562472
+5,<199201281017.AA16712@mitsou.inria.fr>,,,,,False,-0.0,True,0.9999999960848682
+6,<976.696631862@nma.com>,,,,,False,0.0,True,0.999123793356327
+7,<900*eskovgaa@cue.bc.ca>,,,,,False,-0.0,True,0.9986860660701274
+8,<9201300008.AA08464@lbl.gov>,,,,,False,0.0,False,0.8573285970807544
+9,<9201311132.aa15355@NRI.NRI.Reston.VA.US>,,,,,False,2.4,False,3.6133544419599785e-09
+10,<9201311630.AA15013@dimacs.rutgers.edu>,,,,,False,2.4,False,3.6133544419599785e-09
+11,<9201311300.aa18159@NRI.NRI.Reston.VA.US>,,,,,False,2.4,False,5.1890423918501295e-12
+12,<9201311830.AA04835@ophelia.nersc.gov>,,,,,False,0.8,False,2.6723185739263963e-06
+13,<9201311908.AA03120@hpindda.cup.hp.com>,,,,,False,0.8,False,0.023326910387820518
+14,<9201312025.AA06858@Mordor.Stanford.EDU>,,,,,False,1.2,False,0.007020477586058912
+15,<9202010351.AA21431@lbl.gov>,,,,,False,0.0,True,0.9999622952517827
+16,<9202012342.AA04560@cs.wisc.edu>,,,,,False,0.8,False,3.4275513354371006e-08
+17,<9202061444.AA00891@landmark.mitre.org>,,,,,False,0.8,False,2.8544797482959155e-05
+18,<9202101606.aa19639@NRI.NRI.Reston.VA.US>,,,,,False,2.4,False,1.643001731778147e-10
+19,<199202111656.AA02871@mitsou.inria.fr>,,,,,False,-0.0,True,0.9908596031081133
+20,<9202121149.AA14457@survival.surfnet.nl>,,,,,False,-0.0,False,1.7135966718892726e-10
+21,<9202121444.AA14725@arcturus.mitre.org>,,,,,False,0.8,False,0.6823091621838483
+22,<9202121751.aa00685@NRI.NRI.Reston.VA.US>,,,,,False,2.4,False,3.481490509000375e-08
+23,<2117*Alf.Hansen@delab.sintef.no>,,,,,False,0.0,False,5.836832285320013e-09
+24,<9202141733.aa29048@NRI.NRI.Reston.VA.US>,,,,,False,2.4,False,0.6191380569758939
+25,<199202170854.AA10789@mitsou.inria.fr>,,,,,False,-0.0,False,2.5400245314665035e-12
+26,<2627.698320080@ics.uci.edu>,,,,,False,0.0,True,0.9446502625157793
+27,<2127*Alf.Hansen@delab.sintef.no>,,,,,False,0.0,False,1.8992418290734605e-15
+28,<1941.698771584@UK.AC.UCL.CS>,,,,,False,-0.0,False,0.8489495952697478
+29,<2077*/S=Eppenberger/OU=verw/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+30,"<""81924182202991/90413 INFN*""@MHS>",,,,,False,2.0,False,1.5716136076558147e-12
+31,<2188*Alf.Hansen@delab.sintef.no>,,,,,False,0.0,False,1.715910458390763e-13
+32,<9202280834.AA00891@simpukka.funet.fi>,,,,,False,-0.0,False,1.1130188964847164e-06
+33,"<""92-03-06-13:07:57.68*GRZ027""@DBNGMD21.BITNET>",,,,,False,0.8,True,0.9350425443236682
+34,<199203061158.AA09576@chsun.chuug.ch>,,,,,False,0.8,False,3.5406363468786955e-11
+35,"<""05534160302991/95435 INFN*""@MHS>",,,,,False,2.0,False,0.00035171519383903966
+36,<9203111529.aa23843@NRI.Reston.VA.US>,,,,,False,2.4,False,1.1394807803458476e-06
+37,<9203111813.aa00401@NRI.Reston.VA.US>,,,,,False,2.4,False,0.725474675075947
+38,<2222*Alf.Hansen@delab.sintef.no>,,,,,False,0.0,False,5.560349977504503e-18
+39,"<""83132121302991/97387 INFN*""@MHS>",,,,,False,2.0,False,0.001337468836923876
+40,<2135.700446747@UK.AC.UCL.CS>,,,,,False,0.0,False,0.5247436434332635
+41,<599*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.00019065554520011918
+42,<28101.700483809@xtel.co.uk>,,,,,False,0.0,False,8.872378019656092e-05
+43,<2225*Alf.Hansen@delab.sintef.no>,,,,,False,0.0,False,2.7392300812116376e-10
+44,<6291*harald.alvestrand@delab.sintef.no>,,,,,False,0.0,False,0.49999999999999784
+45,<28194.700484774@xtel.co.uk>,,,,,False,-0.0,False,1.816626173306516e-11
+46,<920325151610*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+47,<9203252207.AA03172@kraai.cwi.nl>,,,,,False,-0.0,False,1.0154594223993198e-08
+48,<FF929D10710001*/I=E/G=Kevin/S=Jordan/OU=mercury/OU=oss/OU=arh/O=cpg/PRMD=cdc/ADMD=attmail/C=us/@MHS>,,,,,False,0.0,False,0.15960297761042466
+49,<9203260202.AA10378@lbl.gov>,,,,,False,0.0,False,0.42951084888253366
+50,<2258*Alf.Hansen@delab.sintef.no>,,,,,False,0.0,True,0.999949925677378
+51,<920326143331*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+52,<9203262215.AA09189@gateway.mitre.org>,,,,,False,0.8,False,7.283714826411088e-06
+53,<9203271736.AA18255@lbl.gov>,,,,,False,0.0,False,0.005199537429239006
+54,<9203271237.aa16873@NRI.Reston.VA.US>,,,,,False,2.4,False,4.442012554277198e-11
+55,<9203271242.aa17024@NRI.Reston.VA.US>,,,,,False,2.4,False,0.49999999999999784
+56,"<""92-03-27-19:56:20.53*GRZ027""@DBNGMD21.BITNET>",,,,,False,-0.0,True,0.9919023915279328
+57,<9203301328.AA04272@pram.mitre.org>,,,,,False,0.8,False,0.2469468192236073
+58,<9203302147.AA00918@cs.wisc.edu>,,,,,False,0.8,False,5.122811998780338e-09
+59,<9203301016.AA00539@survival.surfnet.nl>,,,,,False,-0.0,False,8.178598906834807e-10
+60,<9203301207.AA08805@mailimailo.cicb.fr>,,,,,False,0.0,False,0.0039969966675691615
+61,"<""41720010402991/106365 INFN*""@MHS>",,,,,False,2.0,False,1.532842829668074e-09
+62,<2239*/S=Eppenberger/OU=verw/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,9.58388319740744e-10
+63,<9204010709.AA08547@kraai.cwi.nl>,,,,,False,0.0,False,1.6584179480633521e-09
+64,"<""55151110402991/106693 INFN*""@MHS>",,,,,False,2.7,False,0.001125547497902475
+65,<199204011018.AA19398@chenas.inria.fr>,,,,,False,0.0,True,0.9997254439639707
+66,<199204010832.AA02991@mitsou.inria.fr>,,,,,False,0.0,False,6.0696596336824915e-05
+67,<9204010842.AA06725@panter.cwi.nl>,,,,,False,0.0,False,1.1123549321963574e-11
+68,<9204011019.AA21937@cs.wisc.edu>,,,,,False,0.8,False,2.5945680450553276e-09
+69,<9204011150.AA06851@panter.cwi.nl>,,,,,False,0.7,False,4.194000952533579e-11
+70,<9204011220.AA09880@vbormc.vbo.dec.com>,,,,,False,0.8,False,1.7805812999927875e-09
+71,"<"" 1-Apr-92 13:04:15 PST"".*.Steven_S._Kang.ESCP10@Xerox.com>",,,,,False,1.2,False,1.8089584992262386e-06
+72,<9204011621.aa03238@NRI.Reston.VA.US>,,,,,False,2.4,False,1.271401659091414e-07
+73,<9204012142.AA25148@ophelia.nersc.gov>,,,,,False,3.0,False,0.1939469716610364
+74,<9204021316.AA09300@cise.cise.nsf.gov>,,,,,False,0.8,False,8.643095038079473e-12
+75,<9204020656.AA01800@cs.wisc.edu>,,,,,False,0.8,False,0.5536709661655905
+76,<9204021539.AA21853@orion.arc.nasa.gov>,,,,,False,0.8,False,7.697323005810092e-09
+77,<9204031558.AA23429@lbl.gov>,,,,,False,0.0,True,0.9952946475302253
+78,<2316*Alf.Hansen@delab.sintef.no>,,,,,False,0.0,False,4.7647366088967744e-14
+79,<2285*/S=Eppenberger/OU=verw/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.2300704418222673
+80,<2288*/S=Eppenberger/OU=verw/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.629999669655669
+81,<1272.702654307@UK.AC.UCL.CS>,,,,,False,-0.0,False,3.2024491949690025e-07
+82,<6534*/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,3.626087405192058e-05
+83,<9204071043.AA03362.piet@kraai.cwi.nl>,,,,,False,-0.0,False,6.045683707336434e-09
+84,"<""2317*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,1.0596782052893346e-05
+85,<6524*/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,True,0.9987919488183042
+86,<9204071058.AA04477@survival.surfnet.nl>,,,,,False,-0.0,False,2.0451302192883048e-06
+87,"<""QGJC-4218-7221/27""*/PN=JOHN.R.SHERBURNE/O=SPRINTINTL/ADMD=TELEMAIL/C=US/@sprint.com>",,,,,False,0.8,False,0.000479657484105394
+88,<01GIL4IF3GES9BVCSK@HMCVAX.CLAREMONT.EDU>,,,,,False,0.8,False,3.742058199344736e-12
+89,"<""2348*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,7.445769393503057e-08
+90,<199204101146.AA01793@mailimailo.cicb.fr>,,,,,False,0.0,False,0.49999999999999784
+91,<9204101207.AA07704@survival.surfnet.nl>,,,,,False,-0.0,False,0.10810356805899377
+92,<920413102641*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,2.4966784543609953e-12
+93,"<""23847131402991/111771 INFN*""@MHS>",,,,,False,2.0,False,7.75020464083931e-06
+94,<920414094359*/S=kaufmann/PRMD=DFN/ADMD=DBP/C=DE/@MHS>,,,,,False,0.8,True,0.9972009487328841
+95,<199204140909.AA13510@mailimailo.cicb.fr>,,,,,False,0.0,True,0.9280485847724179
+96,<9204150730.AA10021@survival.surfnet.nl>,,,,,False,-0.0,False,0.0011856070418187728
+97,<920417142602*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,6.681380090379491e-13
+98,<463.704446542@UK.AC.UCL.CS>,,,,,False,-0.0,False,4.009359221998677e-06
+99,<9204290455.AA06353@fox.merit.edu>,,,,,False,0.0,False,0.05005878861680383
+100,"<""2417*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,2.1764379242357029e-07
+101,"<""2418*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.0004118576514771712
+102,<1487.704734286@UK.AC.UCL.CS>,,,,,False,-0.0,False,8.871039914323091e-12
+103,<1322.704843559@UK.AC.UCL.CS>,,,,,False,-0.0,False,0.003611564869054474
+104,<5512.705209931@nma.com>,,,,,False,0.0,True,0.9997532518531155
+105,<5283.705166217@UK.AC.UCL.CS>,,,,,False,1.8,False,1.6829672421127342e-09
+106,<1249.705167899@dbc.mtview.ca.us>,,,,,False,0.0,True,0.9994999977603417
+107,<9205061742.AA02454@ophelia.nersc.gov>,,,,,False,3.0,False,0.7046236059858884
+108,<355*/S=Eppenberger/OU=verw/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.1147273781027593
+109,"<""74431260502991/120913 INFN*""@MHS>",,,,,False,2.0,False,1.8326924461185695e-08
+110,<9205061710.aa14472@NRI.Reston.VA.US>,,,,,False,2.4,False,3.981669978154526e-13
+111,<5012.705190958@nma.com>,,,,,False,0.0,True,0.9912152960875087
+112,<9205070931.AA02054@acrab25.ecrc>,,,,,False,0.0,False,5.200880236821166e-11
+113,<6809*/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,True,0.9245357381343982
+114,<362*/S=Eppenberger/OU=verw/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.8371547300343968
+115,"<""2461*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.13867965514109157
+116,"<""2462*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,4.303159509764715e-06
+117,<m0lj6hn-0000q7C@uts.uni-c.dk>,,,,,False,0.8,False,4.85249905980939e-05
+118,<9205070925.AA02045@acrab25.ecrc>,,,,,False,0.0,False,4.028150102519336e-06
+119,<982*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.019099203950025217
+120,<17235.705426530@dbc.mtview.ca.us>,,,,,False,0.0,True,0.9837540845338771
+121,<920512134650*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,7.831618581141278e-13
+122,<9205131228.AA26628@bistromath>,,,,,False,0.8,False,7.246107069574617e-05
+123,<3689.705778097@nma.com>,,,,,False,0.0,False,8.320762285113135e-05
+124,<9205190210.AA26107@enet-gw.pa.dec.com>,,,,,False,0.8,False,0.28062998782859366
+125,"<""2512*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,7.254734882791606e-07
+126,<920529114527*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.0005155224204618204
+127,<459*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.002552201826057765
+128,<920601164448*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,4.458731540503956e-09
+129,<495*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,2.1651605179025345e-05
+130,"<""2596*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,1.5787016525638872e-12
+131,<920616143819*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.7363969524243374
+132,"<""7221*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,3.2106678990014808e-06
+133,<920624114342*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.1395796019163681e-11
+134,<920625164049*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.7,False,0.49999999999999784
+135,<2704*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,3.74290006365533e-15
+136,<2703*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.012548671221445854
+137,<1304*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,5.002626834195109e-09
+138,<2708*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,5.356281817465052e-14
+139,<2718*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+140,<2719*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,7.996502962876788e-10
+141,<9207061525.AA18738@cs.wisc.edu>,,,,,False,0.8,False,0.49999999999999784
+142,<255*/S=Tsigaridas/OU=fokus/OU=berlin/PRMD=gmd/ADMD=dbp/C=de/@MHS>,,,,,False,0.8,False,0.49999999999999784
+143,<256*/S=Tsigaridas/OU=fokus/OU=berlin/PRMD=gmd/ADMD=dbp/C=de/@MHS>,,,,,False,0.8,False,0.49999999999999784
+144,<751*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.2053818171627717e-05
+145,<751*Eppenberger@switch.ch>,,,,,False,-0.0,False,1.3189776248704923e-08
+146,<9207070704.AA16731@survival.surfnet.nl>,,,,,False,-0.0,False,1.2459887543307396e-06
+147,<9207092108.AA14710@gateway.mitre.org>,,,,,False,2.1,False,0.49999999999999784
+148,<9207100013.AA12306@hpisrhe.cup.hp.com>,,,,,False,0.8,False,0.7336160441800829
+149,<9207101314.AA19812@gateway.mitre.org>,,,,,False,2.1,False,0.49999999999999784
+150,"<""50426101702991/31315 INFN*""@MHS>",,,,,False,2.0,False,8.240394957905112e-12
+151,<9207101638.AA13078@hpisrhe.cup.hp.com>,,,,,False,0.8,False,0.15960297761042466
+152,<6566.710788550@nma.com>,,,,,False,0.0,True,0.96910542322393
+153,<9207102103.AA14961@hpisrhe.cup.hp.com>,,,,,False,0.8,False,0.8583435861690752
+154,<9207140318.AA24053@hpisrhe.cup.hp.com>,,,,,False,0.8,False,0.42923756461293544
+155,<2a62e112@Tysons.BAH.pc.niaid.nih.gov>,,,,,False,0.8,True,0.99474029717055
+156,<24468.711124261@ics.uci.edu>,,,,,False,0.0,False,0.00033587070558639627
+157,<9207141729.AA24521@hpisrhe.cup.hp.com>,,,,,False,0.8,False,0.055929450452951855
+158,<27686.711170227@ics.uci.edu>,,,,,False,0.0,False,0.03481168340193519
+159,<199207150615.AA13858@gorgon.tf.tele.no>,,,,,False,1.3,True,0.9994648986907164
+160,"<""02936161702991/34081 INFN*""@MHS>",,,,,False,2.0,False,7.413994940276469e-12
+161,<9207171307.AA29166@nuri.inria.fr>,,,,,False,-0.0,False,3.192807537395644e-07
+162,<920722120807*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,6.623341923787142e-07
+163,<6539.711829098@nma.com>,,,,,False,0.0,False,0.09119167618595128
+164,<9207222116.AA21917@ophelia.nersc.gov>,,,,,False,0.8,False,1.0013265689890443e-05
+165,<9207222215.AA06506@gateway.mitre.org>,,,,,False,2.1,False,0.015717712360663296
+166,<9207222344.AA22107@ophelia.nersc.gov>,,,,,False,0.8,False,0.0025252760226503954
+167,<7152.711853358@nma.com>,,,,,False,0.0,False,0.15960297761042466
+168,<7164.711853727@nma.com>,,,,,False,0.0,False,0.2475468708717122
+169,<9207231227.AA11661@hub.nsf.gov>,,,,,False,0.0,False,7.372612171163852e-06
+170,<9207231244.AA11277@gateway.mitre.org>,,,,,False,2.1,False,0.15960297761042466
+171,<9207231850.AA15333@gateway.mitre.org>,,,,,False,2.1,False,0.49999999999999784
+172,<920723140144*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,2.5,False,0.49999999999999784
+173,<8158.711917289@nma.com>,,,,,False,0.0,False,0.0004752837573212506
+174,<8133.711917129@nma.com>,,,,,False,0.0,False,0.809920439398234
+175,<8495.711924686@nma.com>,,,,,False,0.0,False,0.7486588614010465
+176,<9207240109.AA25092@net.lbl.gov>,,,,,False,0.0,False,0.02062508430630984
+177,<920724.012745.EDT.VALDIS@vtvm1.cc.vt.edu>,,,,,False,0.8,False,6.431603541236588e-05
+178,<9207240800.AA02538@simpukka.funet.fi>,,,,,False,-0.0,False,4.6832450275929577e-07
+179,<920724.013804.EDT.VALDIS@vtvm1.cc.vt.edu>,,,,,False,0.8,False,3.499503830837671e-05
+180,<9207241454.AA13288@hub.nsf.gov>,,,,,False,0.0,False,0.8703640514575204
+181,<9483.711997655@nma.com>,,,,,False,0.0,False,0.8485015311763335
+182,<9503.712001690@nma.com>,,,,,False,0.0,False,0.640013956149431
+183,<9207242009.AA23767@ophelia.nersc.gov>,,,,,False,0.8,False,0.6519281826503424
+184,<9494.711998151@nma.com>,,,,,False,0.0,False,0.6124998279523137
+185,<9207242313.AA23887@ophelia.nersc.gov>,,,,,False,0.8,False,0.04041611537757407
+186,<10134.712022875@nma.com>,,,,,False,0.0,False,0.49999999999999784
+187,<10208.712026052@nma.com>,,,,,False,0.0,True,0.9910435733613249
+188,<271*/S=Tsigaridas/OU=fokus/OU=berlin/PRMD=gmd/ADMD=dbp/C=de/@MHS>,,,,,False,0.8,False,0.0028875562220631607
+189,<2739*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.1488350718815246e-08
+190,<2741*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.5302206398753323
+191,<9208051753.AA15204@ophelia.nersc.gov>,,,,,False,0.8,False,0.49999999999999784
+192,<9208052300.AA06565@net.lbl.gov>,,,,,False,2.5,True,0.996108694179685
+193,<2744*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,2.430341939480759e-07
+194,<38172A81299D001*/I=E/G=Kevin/S=Jordan/OU=mercury/OU=oss/OU=arh/O=cpg/PRMD=cdc/ADMD=attmail/C=us/@MHS>,,,,,False,0.0,False,0.15960297761042466
+195,<1E952A8278CB001*/I=E/G=Kevin/S=Jordan/OU=mercury/OU=oss/OU=arh/O=cpg/PRMD=cdc/ADMD=attmail/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+196,<7126.713244467@nma.com>,,,,,False,0.0,True,0.9947555218860749
+197,"<""7510*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.49999999999999784
+198,<5891.713208125@nma.com>,,,,,False,0.0,False,0.49999999999999784
+199,<15257.713514059@nma.com>,,,,,False,0.0,False,0.49999999999999784
+200,<9208101855.AA25072@mbunix.mitre.org>,,,,,False,0.8,False,0.49999999999999784
+201,<920810154931*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,2.5,False,0.49999999999999784
+202,<13847.713478503@nma.com>,,,,,False,0.0,False,0.49999999999999784
+203,<199208102312.AA29707@chsun.chuug.ch>,,,,,False,0.8,False,1.527627408940977e-07
+204,<15737.713516529@nma.com>,,,,,False,0.0,False,0.15960297761042466
+205,<2761*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+206,<2762*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.03481168340193519
+207,<16330.713547322@nma.com>,,,,,False,0.0,False,8.540222599278872e-06
+208,<2760*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+209,<9208141601.AA15230@cs.wisc.edu>,,,,,False,0.8,False,2.996919806939676e-08
+210,<920824164003.37e00097@elettra.trieste.it>,,,,,False,-0.0,False,1.5211749380324767e-14
+211,<920825112648*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+212,<920825114310*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,1.0,False,0.49999999999999784
+213,<920825121322*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,5.772675485987443e-11
+214,<18709.714896055@nma.com>,,,,,False,0.0,False,9.02647191640819e-05
+215,<920826160842*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.008077096146296066
+216,<9208271236.AA28065@gateway.mitre.org>,,,,,False,0.8,False,0.006230265091472476
+217,<920828163428*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.006230265091472476
+218,<920828171627*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,7.218832354744595e-10
+219,<321*/S=Tsigaridas/OU=fokus/OU=berlin/PRMD=gmd/ADMD=dbp/C=de/@MHS>,,,,,False,0.8,False,0.7486588614010465
+220,"<""60318140902991/3227 INFN*""@MHS>",,,,,False,2.0,False,9.094540291656562e-12
+221,"<""93121171902991/3471 INFN*""@MHS>",,,,,False,2.0,False,9.220855924748725e-15
+222,<2910*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.3,False,2.2171547371879893e-11
+223,<9209221909.AA11420@ophelia.nersc.gov>,,,,,False,0.8,False,0.0005440568266182568
+224,"<""62923222902991/6219 INFN*""@MHS>",,,,,False,2.0,False,4.1917110722664424e-10
+225,"<""05239122902991/6145 INFN*""@MHS>",,,,,False,2.0,False,1.3041245681511359e-09
+226,<2926*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.3370130498596792e-06
+227,"<""83934132902991/6655 INFN*""@MHS>",,,,,False,2.0,False,5.292050409062099e-09
+228,<2921*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,8.101744934806182e-15
+229,"<""93122232902991/6957 INFN*""@MHS>",,,,,False,2.0,False,1.6353748549945547e-05
+230,<9209241118.AA17694@cs.wisc.edu>,,,,,False,-0.0,False,5.330490318505564e-08
+231,"<""81110052902991/7587 INFN*""@MHS>",,,,,False,2.0,False,0.49999999999999784
+232,"<""92210052902991/7591 INFN*""@MHS>",,,,,False,2.0,False,2.2937475379968565e-05
+233,<199209251129.AA24436@mailimailo.univ-rennes1.fr>,,,,,False,0.0,True,0.96910542322393
+234,<6771.717649459@ics.uci.edu>,,,,,False,0.0,False,0.0014747150598518094
+235,<9209281234.AA03816@outrigger.mitre.org>,,,,,False,0.8,False,2.549930004878158e-05
+236,<18367.717853373@ics.uci.edu>,,,,,False,0.0,False,0.03481168340193519
+237,<9210011122.AA14016@cs.wisc.edu>,,,,,False,0.8,False,0.49999999999999784
+238,<7929.718432992@nma.com>,,,,,False,0.0,False,0.49999999999999784
+239,<6310.718409878@isode.com>,,,,,False,-0.0,False,0.49999999999999784
+240,<1623.718453464@isode.com>,,,,,False,-0.0,False,0.0006149177297841022
+241,<20126.718914882@nma.com>,,,,,False,0.0,False,0.0012904322520340054
+242,<3013*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,1.0,False,0.49999999999999784
+243,<1926*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+244,<4628.719347111@isode.com>,,,,,False,-0.0,False,1.8928059105572393e-11
+245,<1178*/S=klarenberg/OU=cosine-mhs/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.00013772045418539923
+246,"<""survis.sur.213:19.09.92.17.12.25""@surfnet.nl>",,,,,False,-0.0,True,0.9999749300637889
+247,<9210191725.AA18181@survival.surfnet.nl>,,,,,False,-0.0,True,0.9628117591656733
+248,<199210201700.AA25412@kirk.retix.com>,,,,,False,2.5,False,5.967762289625091e-10
+249,<2007*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.00043510990095283836
+250,<199210211623.AA03155@garfield.inria.fr>,,,,,False,2.5,False,5.6843544228990986e-06
+251,<2055*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+252,<23908.720510181@nma.com>,,,,,False,0.0,False,0.00021849615736901714
+253,<2056*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.10920913313613663
+254,<2060*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+255,<1103.720576038@isode.com>,,,,,False,-0.0,False,8.880924916935438e-07
+256,<25357.720676871@nma.com>,,,,,False,0.0,False,1.6921978570433495e-06
+257,<3154*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.0015555685195803805
+258,<3158*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.006088905245925482
+259,<2527.720899424@nma.com>,,,,,False,0.0,False,0.5423029483809505
+260,<2088*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+261,<9211051719.AA28970@nuri.inria.fr>,,,,,False,-0.0,True,0.9822979037234202
+262,<2089*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,1.8,False,0.7486588614010465
+263,<921105152230*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,5.588207121398777e-05
+264,<1340*eskovgaa@cue.bc.ca>,,,,,False,-0.0,True,0.9732859778126258
+265,<2098*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.898384889996547
+266,<5886.721149668@isode.com>,,,,,False,-0.0,False,0.00024698759636400435
+267,<10662.721181356@nma.com>,,,,,False,0.0,False,0.022450242483251184
+268,<1085.721214948@isode.com>,,,,,False,-0.0,False,0.0002867974470129026
+269,<11664.721237571@nma.com>,,,,,False,0.0,False,0.005170044269527294
+270,<3173*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,3.0783500275915865e-11
+271,<13622.721341838@nma.com>,,,,,False,0.0,False,2.2935770315517068e-07
+272,<9211101040.AA00631@survival.surfnet.nl>,,,,,False,0.0,False,1.4102578755058346e-07
+273,<3185*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+274,<3187*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,1.0,False,0.6191380569758939
+275,<3190*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+276,<3195*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+277,<3196*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+278,<3197*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,5.336299486862033e-11
+279,<3189*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,1.0,False,0.49999999999999784
+280,<3192*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,1.0,False,0.49999999999999784
+281,<3194*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,7.952777412075795e-12
+282,<3193*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,4.9707142047585916e-08
+283,<1418*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.49999999999999784
+284,<1426*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,4.0975944924208503e-07
+285,<3200*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,7.00397604086865e-09
+286,<3204*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.4300043193131417e-13
+287,<2129*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.04888735317754369
+288,<1431*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.6412848302016785e-08
+289,<3211*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.2504421736151478e-09
+290,<3208*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.2591936181358546e-08
+291,<1438*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.020726023741536235
+292,<3217*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.1211881888723126e-13
+293,<3215*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.10920913313613663
+294,"<""8499*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.03716665309959565
+295,<1447*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.0018744735694956704
+296,<27700.721728602@nma.com>,,,,,False,0.0,False,0.49999999999999784
+297,<2142*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.6027174103399471
+298,<921114221127*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+299,<9211161309.AA28147@nuri.inria.fr>,,,,,False,-0.0,True,0.9227532257434344
+300,<9211160933.AA28710@cs.wisc.edu>,,,,,False,0.8,False,0.7672485013891925
+301,<199211161646.AA05768@zephyr.isi.edu>,,,,,False,-0.0,False,1.0317616466952781e-19
+302,<9211161725.AA01338@cs.wisc.edu>,,,,,False,0.8,False,5.316876535727594e-13
+303,<3218*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.0325656886866484e-10
+304,<01GR9EMYUSM88WVYOU@Arnold.Com>,,,,,False,0.0,False,0.49999999999999784
+305,<1482*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.020726023741536235
+306,<921120201154*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,3.716265489630153e-07
+307,<9211221815.AA16086@sirene.csi.forth.gr>,,,,,False,0.8,False,2.585009696159196e-05
+308,<3240*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,6.480776672108191e-10
+309,<1532*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.1157924020415401e-10
+310,<9211241953.AA00615@ophelia.nersc.gov>,,,,,False,0.8,False,1.1803900391983106e-05
+311,<9211251548.AA21480@odie.niaid.nih.gov>,,,,,False,1.3,True,0.9999999961486423
+312,<9211251405.AA14396@survival.surfnet.nl>,,,,,False,-0.0,False,0.006092991304461152
+313,<12015.722849599@nma.com>,,,,,False,0.0,False,0.02918784981319966
+314,<2181*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.5975656536691782
+315,<2189*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+316,<3284*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,5.383054324652114e-10
+317,<20908.723272734@nma.com>,,,,,False,0.0,False,0.49999999999999784
+318,<01GRU21O5WZ08WVYU5@Arnold.Com>,,,,,False,-0.0,False,0.0208826034440224
+319,<9212021822.AA05644@ophelia.nersc.gov>,,,,,False,0.8,False,0.00028256908995853746
+320,<921202112259.7316@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,True,0.9951454041414121
+321,<921202103257.7316@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,0.7033273553436793
+322,<9212022046.AA18163@lbl.gov>,,,,,False,0.0,False,0.7842933414091988
+323,<22547.723330152@nma.com>,,,,,False,0.0,True,0.9988048274579842
+324,<MailManager.723337970.260.mrc@Ikkoku-Kan.Panda.COM>,,,,,False,-0.0,False,0.410153313267155
+325,<921202153600.12463@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,True,0.9719500008318872
+326,<9212030028.AA20095@lbl.gov>,,,,,False,0.0,False,0.33432252866392675
+327,<13819.723343384@ics.uci.edu>,,,,,False,0.0,False,0.25125084098610917
+328,<921202185936.12463@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,0.49999999999999784
+329,<1656*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.0002811831618368308
+330,<964.723370157@isode.com>,,,,,False,-0.0,False,1.7325236305170517e-06
+331,<25207.723448894@nma.com>,,,,,False,0.0,False,2.8413451594675324e-06
+332,<23472.723371137@nma.com>,,,,,False,0.0,False,8.520856268292414e-06
+333,<921203073607.12463@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,True,0.9002652062463525
+334,<1662*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,2.294477634458189e-09
+335,<9212031631.AA23569@lbl.gov>,,,,,False,0.0,False,0.715627353402853
+336,<24090.723414166@nma.com>,,,,,False,0.0,False,0.49999999999999784
+337,<8216.723424941@isode.com>,,,,,False,-0.0,False,0.000551837028562621
+338,"<""11176 Fri Dec 4 10:37:53 1992""@cassiopeia.rl.af.mil>",,,,,False,2.0,False,0.00011116861599432287
+339,<9212050040.AA07818@ophelia.nersc.gov>,,,,,False,0.8,True,0.9408252074878583
+340,<28587.723543803@nma.com>,,,,,False,0.0,False,0.5507902535353758
+341,<29606.723629900@nma.com>,,,,,False,0.0,False,0.49999999999999784
+342,<921208164557*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,2.1157625300281822e-08
+343,<1736*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,2.3987690870016002e-08
+344,<921210130430*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.02391245024256769
+345,<199212111944.AA07778@ames.arc.nasa.gov>,,,,,False,-0.0,False,1.4708432064808254e-06
+346,<9212112312.AA24518@unix.sri.com>,,,,,False,0.8,False,0.00024310823282181138
+347,<2337*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.0175634856371935
+348,<3270.724149283@nma.com>,,,,,False,0.0,False,0.010247997656055604
+349,<9212141349.aa11457@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.20370980738187297
+350,"<""55550151212991/63583 INFN*""@MHS>",,,,,False,2.0,False,2.898871235563873e-13
+351,<9212161138.aa05203@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.00015736459430388153
+352,<921217110200*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+353,<31*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,1.3,False,2.3143937929694864e-07
+354,<3413*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.4354876135194162e-09
+355,<9212210934.AA03658@survival.surfnet.nl>,,,,,False,-0.0,False,4.424937272376273e-09
+356,<3415*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.725474675075947
+357,<9212211402.aa16490@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.012790221783135892
+358,<9212211920.AA13347@gateway.mitre.org>,,,,,False,0.8,False,0.49999999999999784
+359,<921221132348*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.762775046970711e-10
+360,<199212220116.AA27313@prism.gatech.edu>,,,,,False,-0.0,False,5.988385972920064e-09
+361,<3418*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.1801747540113067e-11
+362,<9212221250.aa06776@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.06201686580669831
+363,<9212291354.aa04941@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,8.671715302411065e-14
+364,<9212300950.aa01970@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,1.8253157708001152e-11
+365,<9301060908.aa03064@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.48327954346499863
+366,<3444*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,1.2270800147684082e-12
+367,<136.726384059@nma.com>,,,,,False,0.0,False,0.006240748692703571
+368,<930106133243*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.01920994151346154
+369,<9301071510.AA17193@ctt.ctt.bellcore.com>,,,,,False,0.8,True,0.9976944625263273
+370,<897.726441258@nma.com>,,,,,False,0.0,False,0.034014996039056125
+371,<930107173159*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+372,<9301081429.AA05427@erasmus.rare.nl>,,,,,False,0.0,False,0.49999999999999784
+373,<9301081511.AA05805@erasmus.rare.nl>,,,,,False,-0.0,False,0.7281119111972112
+374,"<""4034 Fri Jan 8 10:56:57 1993""@cassiopeia.rl.af.mil>",,,,,False,2.0,False,0.002796458480853872
+375,<9301081515.AA05983@erasmus.rare.nl>,,,,,False,0.0,False,0.49999999999999784
+376,<9301081125.aa05174@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,2.5217581888379343e-10
+377,<930108154041*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+378,<930108163559*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,2.243897338504807e-09
+379,<2439*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+380,<9301112151.AA00286@ophelia.nersc.gov>,,,,,False,0.8,False,2.5665695070842413e-07
+381,<930111143922*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+382,<9301120818.AA18217@survival.surfnet.nl>,,,,,False,-0.0,False,0.02422567384942899
+383,<9301131641.AA01504@ophelia.nersc.gov>,,,,,False,0.8,False,3.1827925867539168e-06
+384,<9301141002.aa12988@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.16468435745184976
+385,"<""44818141103991/79041 INFN*""@MHS>",,,,,False,2.0,False,6.887059900823761e-11
+386,<199301171734.AA07454@simpukka.funet.fi>,,,,,False,-0.0,False,0.00016033308175439066
+387,"<""survis.sur.645:17.00.93.19.55.47""@surfnet.nl>",,,,,False,-0.0,False,7.080074709086812e-07
+388,"<""survis.sur.637:17.00.93.19.55.31""@surfnet.nl>",,,,,False,-0.0,False,7.080074709086812e-07
+389,<199301171709.AA07412@simpukka.funet.fi>,,,,,False,-0.0,False,4.95759142757586e-06
+390,<199301181113.AA08612@simpukka.funet.fi>,,,,,False,-0.0,False,2.6802061630476862e-09
+391,<2489*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,1.8,False,0.7902227712470052
+392,<199301182257.AA23725@chsun.chuug.ch>,,,,,False,0.8,False,0.01894552990853662
+393,<3495*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.0007250327686459689
+394,<m0nEwyZ-0002bgC@mlutv.diab.se>,,,,,False,1.7,False,1.0560455622368374e-06
+395,<727709380.16116.0,,,,,False,2.0,False,0.0001954140031270945
+396,<9301252136.AA09810@ophelia.nersc.gov>,,,,,False,0.8,False,0.040814996209681854
+397,<199301261641.AA04485@erasmus.rare.nl>,,,,,False,-0.0,True,0.9980223342989195
+398,<3494*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,8.386606506338729e-12
+399,<199301271348.AA05846@nuri.inria.fr>,,,,,False,-0.0,True,0.9411683365973365
+400,<3536*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,3.1920119333405467e-10
+401,<2516*/S=Romaguera/OU=COSINE-MHS/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.8,False,0.49999999999999784
+402,<9301290804.AA10035@survival.surfnet.nl>,,,,,False,-0.0,False,6.246890451368502e-08
+403,<930129173632*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+404,"<""65856103103991/4835 INFN*""@MHS>",,,,,False,2.0,False,0.0412556363760675
+405,"<""14815 Mon Feb 1 09:30:10 1993""@cassiopeia.rl.af.mil>",,,,,False,2.0,False,0.4768205661383324
+406,<8365.728724966@nma.com>,,,,,False,0.0,False,0.7518490303964533
+407,<9302021752.aa18667@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.7498421866336438
+408,<9302040825.aa02626@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,True,0.990659208667795
+409,<199302050217.AA08152@zephyr.isi.edu>,,,,,False,-0.0,False,9.489680388356433e-19
+410,<930205105132*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+411,<199302051727.AA13037@zephyr.isi.edu>,,,,,False,-0.0,False,1.331312793794547e-16
+412,<930205111647*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,2.2368366724008634e-06
+413,<930205113339*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+414,<631*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.699220431313471e-10
+415,"<""05652290203991/14353 INFN*""@MHS>",,,,,False,2.0,False,1.0175370470980993e-09
+416,<9302101915.AA17237@shadow.eng.pyramid.com>,,,,,False,0.8,True,0.9998233595973898
+417,<672*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.49999999999999784
+418,"<""9410*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.8371547300343968
+419,<9302160911.ZM1514@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,0.11294984295962934
+420,"<""41349081203991/23683 INFN*""@MHS>",,,,,False,2.0,False,1.1169438095127595e-10
+421,<9302191601.AA22491@survival.surfnet.nl>,,,,,False,-0.0,False,3.136480693765946e-10
+422,<930222121138*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.577791252618356e-13
+423,<9302222239.AA00449@ophelia.nersc.gov>,,,,,False,0.8,False,3.2485099367696497e-05
+424,"<""60149032203991/27641 INFN*""@MHS>",,,,,False,2.0,False,2.9074497202009475e-07
+425,<903*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,4.6272079935959216e-11
+426,<917*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.49999999999999784
+427,<9302241015.aa06256@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.0002101958708802036
+428,"<""31642152203991/30073 INFN*""@MHS>",,,,,False,2.0,False,7.534559311035176e-09
+429,<9302260951.aa05372@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.7460358325824271
+430,<9302260951.aa05350@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.0005262954634979909
+431,"<""70856182203991/32203 INFN*""@MHS>",,,,,False,2.0,False,1.4844608290019486e-11
+432,<2301.731021193@odin>,,,,,False,0.0,False,0.00012918486761581436
+433,<9303011518.AA06110@netconsult.ch>,,,,,False,0.0,False,0.0001746316664046714
+434,"<""33053210303991/33563 INFN*""@MHS>",,,,,False,2.0,False,8.232146705387701e-11
+435,<9303021746.AA06112@ophelia.nersc.gov>,,,,,False,0.8,False,1.0923865540765754e-05
+436,"<""23733220303991/34919 INFN*""@MHS>",,,,,False,2.0,False,4.193329037418219e-07
+437,"<""3-Mar-93 16:57:52"".*.Margaret_Avino.CIN_OPS@Xerox.com>",,,,,False,1.2,False,1.4481943842788073e-07
+438,<9303051838.AA02837@cognition.pa.dec.com>,,,,,False,0.8,False,5.296349254172954e-05
+439,<27761.731360760@ics.uci.edu>,,,,,False,0.0,False,0.011444316103508713
+440,<12768.731448576@odin.nma.com>,,,,,False,0.0,False,7.571006604289564e-05
+441,<9303101038.aa01166@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.001992733344576349
+442,"<""9682*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.4266525458915678
+443,<3765*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,1.8,False,0.725474675075947
+444,<3766*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,7.628414613701639e-10
+445,<3764*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.49999999999999784
+446,<9303160941.AA16846@survival.surfnet.nl>,,,,,False,0.0,False,0.6401127548531231
+447,<9303161406.AA15222@netconsult.ch>,,,,,False,1.6,False,0.00031173873592956494
+448,"<""9721*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.4266525458915678
+449,<9303171034.aa03582@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.06813097805263048
+450,<9303172346.AA22522@ophelia.nersc.gov>,,,,,False,0.8,False,7.869998766230233e-06
+451,<1025*/S=martinez/O=rediris/PRMD=iris/ADMD=mensatex/C=es/@MHS>,,,,,False,0.0,False,5.263444235113995e-07
+452,<1194*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,8.873667362118593e-05
+453,"<""9731*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.0002632195258972345
+454,<930318135100*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.4377666903007942e-10
+455,<930318140929*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,7.287710295358544e-05
+456,<930318142428*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.10920913313613663
+457,<1211*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,5.013264928689912e-10
+458,"<""84942281303991/11891 INFN*""@MHS>",,,,,False,2.0,False,6.750915917853906e-12
+459,<930318165911*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.21720709331328636
+460,<9303190050.AA23533@ophelia.nersc.gov>,,,,,False,0.8,False,8.533567343312455e-05
+461,<1218*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.1811917969095288e-09
+462,"<""93619091303991/12199 INFN*""@MHS>",,,,,False,2.0,False,3.879746761428592e-09
+463,<1214*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.0012666646541431021
+464,<1230*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.00020965045381581346
+465,<199303191813.AA24892@simpukka.funet.fi>,,,,,False,-0.0,False,6.329553223637847e-12
+466,<1238*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.0232693136179595e-07
+467,<199303191648.AA20753@erasmus.rare.nl>,,,,,False,-0.0,False,0.0004548183181877954
+468,<930319132926*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+469,<9303200036.AA24555@ophelia.nersc.gov>,,,,,False,0.8,False,3.390080034975633e-06
+470,<930322233828*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+471,<9303221249.aa20276@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.06201686580669831
+472,"<""9765*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.49999999999999784
+473,<9303230010.AA26608@ophelia.nersc.gov>,,,,,False,0.8,False,4.780184178270518e-07
+474,<1267*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,2.2560543895468216e-08
+475,<3818*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,2.4947241305814366e-07
+476,<3826*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,7.101717487567328e-07
+477,<9303231509.AA24377@survival.surfnet.nl>,,,,,False,-0.0,True,0.9528894791280232
+478,<9303231859.AA27396@ophelia.nersc.gov>,,,,,False,0.8,False,1.1781674064182345e-07
+479,"<""21112232303991/16423 INFN*""@MHS>",,,,,False,2.0,False,0.007911508906199079
+480,<9303232242.AA27619@ophelia.nersc.gov>,,,,,False,0.8,False,1.4297919438324506e-06
+481,"<""10345142303991/17329 INFN*""@MHS>",,,,,False,2.0,False,0.49999999999999784
+482,<3834*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,3.706703252741786e-12
+483,<3835*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,4.727294232335956e-14
+484,<9303240955.aa18979@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.0002101958708802036
+485,<9303242132.AA28631@ophelia.nersc.gov>,,,,,False,0.8,False,7.752827122707022e-08
+486,<9303251000.aa05949@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.10557934135536647
+487,<9303251034.aa07132@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.0154794222401552
+488,<3855*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/C=no/@MHS>,,,,,False,0.0,False,0.725474675075947
+489,<9303261547.aa11815@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.0002504132766539102
+490,<i,,,,,False,2.3,True,0.9936675347029377
+491,<i,,,,,False,2.3,False,0.020916400699870354
+492,<9304061454.aa10695@odie.gta.doc.ca>,,,,,False,3.5,False,0.2854074362882349
+493,"<""9827*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.49999999999999784
+494,<9304070823.AA00916@survival.surfnet.nl>,,,,,False,-0.0,False,0.00010249275372786123
+495,"<""45329070403991/29707 INFN*""@MHS>",,,,,False,2.0,False,5.731178949066241e-05
+496,<2705.734258245@odin.nma.com>,,,,,False,0.0,False,0.14112189920753537
+497,"<""02100190403991/32639 INFN*""@MHS>",,,,,False,2.0,False,1.3173301838880143e-06
+498,<1394*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.020917069800728445
+499,"<""3899*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,8.443016696984982e-11
+500,<15708.734830258@odin.nma.com>,,,,,False,0.0,False,0.09697072804454374
+501,<1417*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,8.458654203321015e-11
+502,<9304142115.AA15625@ophelia.nersc.gov>,,,,,False,0.8,False,1.440224735264328e-07
+503,<930414174005*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+504,<9304151107.AA00452@netconsult.ch>,,,,,False,0.0,False,5.058897681887849e-05
+505,"<""9881*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.15963325696330424
+506,<1439*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,2.004826673087397e-11
+507,<1440*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,4.807209264302458e-10
+508,<199304150949.AA23288@erasmus.rare.nl>,,,,,False,-0.0,False,0.025550158912803655
+509,<9304151237.AA00569@netconsult.ch>,,,,,False,0.0,False,1.4504659363099467e-06
+510,<9304151312.AA00584@netconsult.ch>,,,,,False,0.0,False,0.00037567081930631066
+511,"<""survis.sur.043:15.03.93.13.28.34""@surfnet.nl>",,,,,False,-0.0,False,2.423475453930964e-06
+512,<16368.734861013@odin.nma.com>,,,,,False,0.0,False,0.8207143950732887
+513,<9304151553.AA23601@lbl.gov>,,,,,False,1.3,False,0.898533884493244
+514,<9304151728.AA05851@tango.cos.com>,,,,,False,0.8,True,0.9980051516627054
+515,<9304151826.AA25427@lbl.gov>,,,,,False,1.3,False,0.736811510098269
+516,"<""9902*/I=t/G=harald/S=alvestrand/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,2.2,False,0.8371547300343968
+517,<930415171015*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.0961598990209267e-06
+518,<17403.734897827@odin.nma.com>,,,,,False,0.0,False,5.0223828111585664e-08
+519,<930415181718*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+520,<930415184907*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.00016778766994501613
+521,<9304160737.AA00896@netconsult.ch>,,,,,False,0.0,False,7.371219461794156e-09
+522,<9304161111.AA03755@survival.surfnet.nl>,,,,,False,-0.0,False,4.968164290359763e-13
+523,<1473*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.49999999999999784
+524,"<""survis.sur.511:16.03.93.18.26.47""@surfnet.nl>",,,,,False,-0.0,False,0.013931430473699583
+525,<9304161653.AA17513@ophelia.nersc.gov>,,,,,False,0.8,False,3.570538512568912e-05
+526,<9304161954.AA17740@ophelia.nersc.gov>,,,,,False,0.8,False,0.007020477586058912
+527,<930419180546*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,1.0,False,0.49999999999999784
+528,"<""3954*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,8.316227784769001e-10
+529,"<""04026102403991/42927 INFN*""@MHS>",,,,,False,2.0,False,1.5403768840987337e-10
+530,<9304201501.AA09766@cs.wisc.edu>,,,,,False,2.0,False,0.49999999999999784
+531,<9304201606.AA27211@gateway.mitre.org>,,,,,False,0.8,False,0.07336972092192329
+532,<9304202018.AA28990@lbl.gov>,,,,,False,1.3,True,0.998688684408205
+533,<28138.735375995@odin.nma.com>,,,,,False,0.0,False,0.07710263341875663
+534,"<""3971*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,2.2,False,0.007412223961036263
+535,<930421110306*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.825438857477846e-12
+536,<29129.735422108@odin.nma.com>,,,,,False,0.0,False,7.807167322225216e-05
+537,<9304221326.aa23177@odie.gta.doc.ca>,,,,,False,3.5,False,0.49999999999999784
+538,<199305061336.AA13676@erasmus.rare.nl>,,,,,False,0.0,True,0.9943044547728038
+539,"<""4066*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,6.206101196570825e-07
+540,<9305111747.AA06112@ophelia.nersc.gov>,,,,,False,0.8,False,4.63695967422928e-07
+541,<9305270658.AA02387@survival.surfnet.nl>,,,,,False,-0.0,False,2.4701796778179413e-07
+542,<1976*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.7775656366734286e-09
+543,"<""4157*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.49999999999999784
+544,<2267*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,3.7824148683301007e-07
+545,<m0o8Wak-0001CxC@uts.uni-c.dk>,,,,,False,0.8,False,1.8080128926528068e-13
+546,<9306231658.AA13405@ophelia.nersc.gov>,,,,,False,0.8,False,1.1636102595726035e-07
+547,"<""4240*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,6.680821955832855e-11
+548,<199306241455.AA09059@simpukka.funet.fi>,,,,,False,-0.0,False,3.6323795288796677e-08
+549,<9306242006.AA24975@starnine.starnine.com>,,,,,False,0.0,False,7.36840397056438e-08
+550,"<""survis.sur.237:24.05.93.21.33.06""@surfnet.nl>",,,,,False,-0.0,False,2.499811826985738e-09
+551,<01GZRDYN48UW8WW012@INNOSOFT.COM>,,,,,False,-0.0,False,9.57256525693294e-07
+552,"<""4249*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,1.1612777929421479e-08
+553,"<""4248*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,0.49999999999999784
+554,<2292*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,9.077881314169878e-12
+555,<9306251548.AA14259@netconsult.ch>,,,,,False,0.0,False,1.1285752536676255e-07
+556,<9306251607.AA00792@survival.surfnet.nl>,,,,,False,-0.0,False,1.123112862002641e-05
+557,<6032.741330872@odin.nma.com>,,,,,False,0.0,False,0.5074215987888699
+558,"<""4252*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,1.9531360482482623e-10
+559,<9306281502.AA02147@survival.surfnet.nl>,,,,,False,-0.0,False,2.9952241304628865e-07
+560,<9306281459.AA02140@survival.surfnet.nl>,,,,,False,-0.0,False,2.135027341793067e-07
+561,<4040.741248162@odin.nma.com>,,,,,False,0.0,True,0.9946587817299795
+562,<5461.741303400@odin.nma.com>,,,,,False,0.0,False,0.0007869184498058444
+563,<9306290911.AA02795@survival.surfnet.nl>,,,,,False,-0.0,False,2.5852881001940922e-09
+564,<7014.741369093@odin.nma.com>,,,,,False,0.0,False,0.10914739404254202
+565,<9306291608.AA03621@survival.surfnet.nl>,,,,,False,-0.0,False,3.8055194550676575e-07
+566,"<""80419192603991/32067 INFN*""@MHS>",,,,,False,2.0,False,1.1837690856198968e-12
+567,<7494.741378818@odin.nma.com>,,,,,False,0.0,False,0.00024698759636400435
+568,<930630141805.23600099@elettra.trieste.it>,,,,,False,-0.0,False,3.0807882626083877e-09
+569,<930630093522.23600099@elettra.trieste.it>,,,,,False,0.0,False,0.49999999999999784
+570,<199306300930.AA12213@mitsou.inria.fr>,,,,,False,0.0,False,0.49999999999999784
+571,<199306301333.AA12589@mitsou.inria.fr>,,,,,False,-0.0,False,9.171544429907781e-07
+572,<9306301407.AA18375@euas58c30.eua.ericsson.se>,,,,,False,0.8,False,9.95888496531837e-09
+573,<930630162800.23600088@elettra.trieste.it>,,,,,False,0.0,False,0.042111942140185876
+574,<930701001721.236000e3@elettra.trieste.it>,,,,,False,-0.0,False,0.8965194401901876
+575,<9306302313.AA28870@ophelia.nersc.gov>,,,,,False,0.8,False,9.237422312045867e-09
+576,<01GZZXAQ3DZY8WW6RS@INNOSOFT.COM>,,,,,False,-0.0,False,8.270918353646016e-08
+577,<11207.741492173@odin.nma.com>,,,,,False,0.0,False,0.2585749459645384
+578,"<""4266*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,1.0751584369659173e-10
+579,<930701093754.236000ef@elettra.trieste.it>,,,,,False,-0.0,False,1.877511662467701e-09
+580,<m0oBkp1-00005IC@uts.uni-c.dk>,,,,,False,0.8,False,5.44857828545783e-15
+581,"<""4277*/G=Alf/S=Hansen/OU=delab/O=sintef/PRMD=uninett/ADMD= /C=no/""@MHS>",,,,,False,1.2,False,8.267573462466057e-07
+582,<9307021020.AA00913@survival.surfnet.nl>,,,,,False,-0.0,False,8.104596801038187e-06
+583,<2355*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,9.424542851386352e-10
+584,<9307021659.AA01264@ophelia.nersc.gov>,,,,,False,0.8,False,1.031898237289614e-07
+585,<9307022011.AA01450@ophelia.nersc.gov>,,,,,False,0.8,False,9.065221460181616e-08
+586,<9307022156.AA01644@ophelia.nersc.gov>,,,,,False,0.8,False,9.043523413890236e-08
+587,<9307030126.AA19820@netconsult.ch>,,,,,False,0.0,False,0.007803151917272361
+588,<9307030138.AA19836@netconsult.ch>,,,,,False,0.0,False,0.06612992172294324
+589,<930703121003.236001e9@elettra.trieste.it>,,,,,False,-0.0,False,1.7266127056024809e-13
+590,<199307030622.AA06549@simpukka.funet.fi>,,,,,False,-0.0,False,2.24139028340938e-11
+591,<930703120044.236001e9@elettra.trieste.it>,,,,,False,-0.0,False,9.312464545433322e-17
+592,<2361*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.0044111907462806e-07
+593,<199307031225.AA10480@simpukka.funet.fi>,,,,,False,1.2,False,3.6191843865957137e-07
+594,"<""survis.sur.751:03.06.93.22.04.57""@surfnet.nl>",,,,,False,-0.0,False,5.910660202601899e-06
+595,<199307041459.AA01611@simpukka.funet.fi>,,,,,False,-0.0,False,1.9224672664459676e-07
+596,<9307050913.AA20668@netconsult.ch>,,,,,False,0.0,False,0.5247436434332635
+597,<199307050623.AA07911@simpukka.funet.fi>,,,,,False,-0.0,False,6.667037160873049e-14
+598,<9307051949.AA14245@lbl.gov>,,,,,False,1.3,True,0.9845304212018877
+599,<9307052113.AA14529@lbl.gov>,,,,,False,1.3,True,0.9964910741923413
+600,<9307052237.AA14731@lbl.gov>,,,,,False,1.3,True,0.9214671783276478
+601,<9307061006.AA21628@netconsult.ch>,,,,,False,0.0,False,7.527623247978023e-05
+602,<9307061738.AA04100@ophelia.nersc.gov>,,,,,False,0.8,False,2.678996225018827e-06
+603,<9307062212.AA04389@ophelia.nersc.gov>,,,,,False,0.8,False,0.00020537411738628865
+604,<9307062310.AA04526@ophelia.nersc.gov>,,,,,False,0.8,False,2.660680431775203e-06
+605,<9307072157.AA05674@ophelia.nersc.gov>,,,,,False,0.8,False,0.7708367696556259
+606,<930708181226*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,1.0,False,0.49999999999999784
+607,<9307082345.AA07299@ophelia.nersc.gov>,,,,,False,0.8,False,3.22370814853901e-05
+608,<255.742201532@zh014.ubs.ubs.ch>,,,,,False,0.8,False,0.0004298037140373302
+609,<21079.742243340@odin.nma.com>,,,,,False,0.0,False,0.03481168340193519
+610,<21054.742242559@odin.nma.com>,,,,,False,0.0,False,0.036910305866535854
+611,<199307131209.AA06510@simpukka.funet.fi>,,,,,False,-0.0,False,0.009752126589734523
+612,<930713160426.26c0016f@elettra.trieste.it>,,,,,False,-0.0,False,8.98595787715759e-15
+613,<9307130732.ZM12936@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,True,0.9863504054960247
+614,<26745.742715221@odin.nma.com>,,,,,False,0.0,True,0.9396910920131686
+615,<26671.742714466@odin.nma.com>,,,,,False,0.0,False,0.2425618793112862
+616,<199307150638.AA01681@simpukka.funet.fi>,,,,,False,-0.0,False,1.4565583498911335e-06
+617,<930715104030*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,1.0,False,0.49999999999999784
+618,<9307150901.ZM15421@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,0.6484832828397377
+619,<9307151819.AA28784@netconsult.ch>,,,,,False,0.0,False,6.281526526962999e-10
+620,<29440.742846051@odin.nma.com>,,,,,False,0.0,False,5.356035850182625e-07
+621,<29545.742850059@odin.nma.com>,,,,,False,0.0,False,0.03656219578183553
+622,<9307161624.ZM16698@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,0.006803068167124697
+623,<199307191026.AA00705@mitsou.inria.fr>,,,,,False,-0.0,False,0.002187017276200132
+624,<199307200937.AA18659@erasmus.rare.nl>,,,,,False,0.0,False,4.536399547673579e-06
+625,<m0oIZoC-00002aC@uts.uni-c.dk>,,,,,False,0.8,False,7.671616153404896e-08
+626,<7639.743307079@odin.nma.com>,,,,,False,0.0,False,0.03481168340193519
+627,<199307220833.AA09078@mitsou.inria.fr>,,,,,False,-0.0,False,1.2629434780669531e-05
+628,<9466.743379824@odin.nma.com>,,,,,False,0.0,False,0.00042619415045512147
+629,<2485*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.2816794004276535e-12
+630,<9307271251.AA29330@sicsun.epfl.ch>,,,,,False,0.8,False,5.171286155585022e-05
+631,<ABRU012000000456*@MHS>,,,,,False,0.0,False,0.003619650665488852
+632,"<""00111272703991/56395 INFN*""@MHS>",,,,,False,2.0,False,7.547953889366526e-09
+633,<01H133996YVK984N33@INNOSOFT.COM>,,,,,False,-0.0,False,2.3320121739061276e-05
+634,<01H13703UG5W8ZEC1V@SIGURD.INNOSOFT.COM>,,,,,False,0.8,False,0.00047417742265589227
+635,<20545.743963914@odin.nma.com>,,,,,False,0.0,False,0.00024698759636400435
+636,<930921154125*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,1.0,False,0.49999999999999784
+637,<9309221140.AA18620@cs.wisc.edu>,,,,,False,-0.0,False,0.18964186641020256
+638,"<""23639022903991/1729 INFN*""@MHS>",,,,,False,2.0,False,0.49999999999999784
+639,<9309221035.AA18300@cs.wisc.edu>,,,,,False,0.0,False,0.0013394440711380431
+640,<9309221724.AA08086@ophelia.nersc.gov>,,,,,False,0.8,False,9.227349461594266e-05
+641,<930924185610*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,1.0,False,0.49999999999999784
+642,<9309270858.AA00473@survival.surfnet.nl>,,,,,False,-0.0,False,0.0002782253145525445
+643,<2157.749201687@glengoyne.isode.com>,,,,,False,0.0,False,0.00019023425380254827
+644,<9309291142.AA01844@survival.surfnet.nl>,,,,,False,-0.0,False,3.7072372334117057e-05
+645,<m0oi40E-0000YKC@uts.uni-c.dk>,,,,,False,0.8,False,0.11199985905318896
+646,<930929180018*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+647,<199309300836.AA26394@tavel.inria.fr>,,,,,False,-0.0,False,0.8554491249181635
+648,<9309302217.AA07941@cs.wisc.edu>,,,,,False,0.0,True,0.9965462959525466
+649,<13046.749464190@zh014.ubs.ubs.ch>,,,,,False,0.8,False,3.4315716740904304e-11
+650,<9310012151.AA29789@ophelia.nersc.gov>,,,,,False,0.8,False,0.0005512431858136578
+651,<17539.749750722@glengoyne.isode.com>,,,,,False,-0.0,False,2.754124838002936e-12
+652,<749797204.703726.KLENSIN@INFOODS.UNU.EDU>,,,,,False,-0.0,False,1.673007767059025e-05
+653,<5406.749815673@glengoyne.isode.com>,,,,,False,0.0,False,0.0030432303888486825
+654,"<""33151150013991/19901 INFN*""@MHS>",,,,,False,2.0,False,8.805864386771297e-11
+655,<749873467.313726.KLENSIN@INFOODS.UNU.EDU>,,,,,False,-0.0,False,7.587325510693951e-09
+656,<1180.749891307@glengoyne.isode.com>,,,,,False,0.0,False,2.1545563130011383e-11
+657,<749945248.376726.KLENSIN@INFOODS.UNU.EDU>,,,,,False,-0.0,False,5.752138799962982e-13
+658,<199310111238.AA06861@mitsou.inria.fr>,,,,,False,0.0,False,2.173761382083909e-08
+659,"<""74742111013991/726597 INFN*""@MHS>",,,,,False,2.0,False,1.0482146861432125e-09
+660,<931011182524.20800061@elettra.trieste.it>,,,,,False,0.0,False,1.1275425479648275e-07
+661,<3168*/S=Eppenberger/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,1.7907196492392015e-12
+662,<9310151321.AA27697@cs.wisc.edu>,,,,,False,-0.0,False,9.906811171039401e-09
+663,"<""75130002013991/43627 INFN*""@MHS>",,,,,False,2.0,False,7.697585414401443e-11
+664,<9310222334.AA03984@ophelia.nersc.gov>,,,,,False,0.8,False,0.23728787910887114
+665,<751364099.11485.0-faugeres.inria.fr*@MHS>,,,,,False,0.8,False,2.2067153846415314e-09
+666,<931023124443.20c0012d@elettra.trieste.it>,,,,,False,-0.0,False,6.255032830747098e-11
+667,<931023122509.20c0012d@elettra.trieste.it>,,,,,False,-0.0,False,4.604582360360354e-11
+668,<9310231245.AA27945@hsdndev.harvard.edu>,,,,,False,0.8,False,7.594572297656329e-17
+669,<19537.751391583@odin.nma.com>,,,,,False,0.0,True,0.9940096915006387
+670,<19555.751392033@odin.nma.com>,,,,,False,0.0,False,0.0002236093466236132
+671,<931024123459.20c00169@elettra.trieste.it>,,,,,False,0.0,False,8.836423405787089e-08
+672,<25764*demco@cs.ubc.ca>,,,,,False,0.0,False,1.7944584547950698e-09
+673,<931024235947.20c0016d@elettra.trieste.it>,,,,,False,0.0,False,0.0001046803168391734
+674,<2661.751565370@odin.nma.com>,,,,,False,0.0,False,0.3730148340464648
+675,<27256.751621981@zh014.ubs.ubs.ch>,,,,,False,0.8,False,6.310981480251751e-05
+676,<9310261626.AA07317@ophelia.nersc.gov>,,,,,False,2.6,False,3.654998838418358e-06
+677,<751654042.1655.0-faugeres.inria.fr*@MHS>,,,,,False,2.6,False,6.284099561923701e-09
+678,<5372.751647487@odin.nma.com>,,,,,False,0.0,False,2.3849152516215204e-06
+679,<9310262233.AA07907@ophelia.nersc.gov>,,,,,False,0.8,False,0.05765327831464323
+680,<6304.751672052@odin.nma.com>,,,,,False,0.0,False,0.49999999999999784
+681,<6317.751672826@odin.nma.com>,,,,,False,0.0,False,0.001299156153328721
+682,<931027225730*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.9180340291857358e-07
+683,<931027225934*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+684,<931027075909.218197e9@CCC.NERSC.GOV>,,,,,False,0.8,False,0.010879371540639005
+685,<751791822.24847.0-faugeres.inria.fr*@MHS>,,,,,False,0.8,False,0.04977086692810097
+686,<9310281450.AA03036@cs.wisc.edu>,,,,,False,-0.0,False,6.106359057516831e-14
+687,<10663.751832361@odin.nma.com>,,,,,False,0.0,False,0.49999999999999784
+688,<931029162840.20c00426@elettra.trieste.it>,,,,,False,-0.0,False,4.045923445464535e-10
+689,<13525.751922788@odin.nma.com>,,,,,False,0.0,False,0.49999999999999784
+690,<931029173420*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,1.703450894772276e-05
+691,<931029172028*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+692,<931029181832*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+693,<14293.751935605@odin.nma.com>,,,,,False,0.0,False,0.013908013588721152
+694,<15223.751964949@odin.nma.com>,,,,,False,0.0,False,0.7518871393675862
+695,<15291.751966388@odin.nma.com>,,,,,False,0.0,False,0.0006441502147951837
+696,<16183.752028635@odin.nma.com>,,,,,False,0.0,False,0.0007122519871417373
+697,<931109230752*/G=Allan/S=Cargille/OU=cs/O=uw-madison/PRMD=xnren/C=us/@MHS>,,,,,False,0.0,False,0.49999999999999784
+698,<9311092244.AA14963@ophelia.nersc.gov>,,,,,False,0.8,False,1.2374186486239183e-07
+699,<6962.753150109@odin.nma.com>,,,,,False,0.0,False,0.004728687619687253
+700,<12923.753420034@odin.nma.com>,,,,,False,0.0,False,0.53466965679131
+701,<199311151822.TAA24183@chsun.eunet.ch>,,,,,False,-0.0,False,7.80175847128375e-08
+702,<199311160952.AA14396@mitsou.inria.fr>,,,,,False,-0.0,False,0.00041424665918305905
+703,<9311160837.AA07390@acrab25.ecrc>,,,,,False,-0.0,False,1.8513914622591083e-13
+704,<9311160808.AA07330@acrab25.ecrc>,,,,,False,-0.0,False,4.0660630974233386e-14
+705,<199311160823.JAA28162@eunet.ch>,,,,,False,-0.0,False,0.005689884955929069
+706,<199311161006.LAA28334@eunet.ch>,,,,,False,-0.0,False,0.04893166404023067
+707,<9311161022.AA07791@cs.wisc.edu>,,,,,False,-0.0,False,1.8397221552990362e-06
+708,<9311160958.AA07531@acrab25.ecrc>,,,,,False,-0.0,False,0.00044109139438135777
+709,<1008*/G=Christoph/S=Graf/O=switch/PRMD=SWITCH/ADMD=ARCOM/C=CH/@MHS>,,,,,False,0.0,False,0.10920913313613663
+710,<9311161748.AA11036@ophelia.nersc.gov>,,,,,False,0.8,False,0.00010062590383491604
+711,<199311161033.LAA28364@eunet.ch>,,,,,False,-0.0,False,0.36181851053414466
+712,<9311162215.AA11876@ophelia.nersc.gov>,,,,,False,2.1,False,2.4133654288720165e-05
+713,<9311170925.AA21566@cs.wisc.edu>,,,,,False,0.0,False,0.0015526436397981206
+714,<17243.753565999@odin.nma.com>,,,,,False,0.0,True,0.9895543663680444
+715,"<""52038102113991/40569 INFN*""@MHS>",,,,,False,2.0,False,1.0651931688261008e-06
+716,<199311231741.AA03846@mitsou.inria.fr>,,,,,False,0.0,False,0.024760965758733128
+717,<931123221916.2240005c@elettra.trieste.it>,,,,,False,0.0,True,0.999089183126666
+718,<931123224139.2240005c@elettra.trieste.it>,,,,,False,0.0,False,9.159481672167736e-07
+719,<199311241022.AA05674@mitsou.inria.fr>,,,,,False,0.0,False,0.6916877258904658
+720,<199311241633.AA22463@tavel.inria.fr>,,,,,False,-0.0,False,0.250216460787965
+721,<931124212016.224000a0@elettra.trieste.it>,,,,,False,-0.0,False,3.3368608388532725e-05
+722,<9311251552.AA03094@acrab25.ecrc>,,,,,False,-0.0,False,1.9557083990206312e-11
+723,<199311261333.AA23963@tavel.inria.fr>,,,,,False,-0.0,False,3.327139922397863e-06
+724,"<""72409192113991/52771 INFN*""@MHS>",,,,,False,2.0,False,4.709529695311638e-10
+725,"<""23919003113991/53185 INFN*""@MHS>",,,,,False,2.0,False,8.001429822599496e-11
+726,"<""55421142213991/91055 INFN*""@MHS>",,,,,False,2.0,False,1.1078159748146467e-11
+727,"<""23918152213991/91341 INFN*""@MHS>",,,,,False,2.0,False,5.52778806879398e-06
+728,<9402232253.AA11968@calypso.cs.wisc.edu>,,,,,False,0.8,False,0.7882151596328854
+729,<9402232343.AA17790@ophelia.nersc.gov>,,,,,False,-0.0,False,0.006533182828063777
+730,<9402232345.AA01687@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,4.18316077356214e-05
+731,<9402241143.AA06269@netman.tip.net>,,,,,False,0.0,True,0.993718526972748
+732,<9402241514.AA02154@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,True,0.9329694900176759
+733,<9402241806.AA17219@lbl.gov>,,,,,False,1.3,True,0.9980716840498901
+734,<9402242222.AA02740@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,0.0003495889733592028
+735,<27055.762127158@odin.nma.com>,,,,,False,0.0,True,0.9999767928639333
+736,<26531.762118740@odin.nma.com>,,,,,False,0.0,False,0.044570549712088896
+737,<9402250019.AA03210@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,1.0158698247223968e-05
+738,<9402250910.AA08734@netman.tip.net>,,,,,False,0.0,False,0.671920674607694
+739,<01H9AA1Q78XC000BIW@INFOODS.UNU.EDU>,,,,,False,-0.0,False,2.4224618212112726e-10
+740,<9402251417.AA03937@maverick.ssf-sys.DHL.COM>,,,,,False,0.8,False,0.0005420562512820446
+741,<01H9APG5DBXU8WWPAG@mr.rtpnc.epa.gov>,,,,,False,2.5,False,0.018216795874634824
+742,<9402251515.AA09700@netman.tip.net>,,,,,False,0.0,False,3.2830482490625445e-05
+743,<9402252058.AA17421@calypso.cs.wisc.edu>,,,,,False,0.8,False,0.49999999999999784
+744,<9403011007.AA15135@netman.tip.net>,,,,,False,0.0,False,0.004147113066713345
+745,<9403021311.AA03075@netman.tip.net>,,,,,False,0.0,False,5.230335390516934e-08
+746,<9403070910.AA11940@netman.tip.net>,,,,,False,0.0,False,3.4894648481148636e-09
+747,<199403240824.AA27959@mitsou.inria.fr>,,,,,False,-0.0,False,3.9076109975986864e-13
+748,<940324111238.210006de@elettra.trieste.it>,,,,,False,-0.0,False,8.916924583854467e-15
+749,<9403250030.AA08611@calypso.cs.wisc.edu>,,,,,False,0.8,False,0.49999999999999784
+750,<H200000000016555*@MHS>,,,,,False,0.0,False,1.650571286293309e-08
+751,<9405191859.AA14846@calypso.cs.wisc.edu>,,,,,False,0.8,False,0.49999999999999784
+752,<9405201116.aa06910@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,1.696796149758969e-15
+753,<9405201132.aa07373@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,0.006672807968781027
+754,<9406131520.aa07657@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,3.653461684458297e-06
+755,<9406251324.aa04350@IETF.CNRI.Reston.VA.US>,,,,,False,-1.0,False,1.3521907260480654e-12
+756,<9406270741.AA03134@cs.wisc.edu>,,,,,False,-0.0,False,7.287691275625392e-11
+757,<9407271156.AA13117@cs.wisc.edu>,,,,,False,-0.0,False,1.3030521337562635e-07
+758,<Pine.3.89.9408121131.A29142-0100000@access1.digex.net>,,,,,False,-0.0,False,3.5658847691656105e-08
+759,<9408181735.AA06813@calypso.cs.wisc.edu>,,,,,False,2.8,False,5.937282507578176e-07
+760,<9408181750.AA06900@calypso.cs.wisc.edu>,,,,,False,2.0,False,4.481045366218171e-05
+761,<9408190123.AA10057@siren.com>,,,,,False,0.7,True,0.9810009583120463
+762,<9410171815.AA00738@avd28.larc.nasa.gov>,,,,,True,5.1,False,0.0021325432155858055
+763,<25021013125271@WISCMACC.BitNet>,,,,,False,3.8,True,0.9931455022102992
+764,<950321184009.41a00344@elettra.trieste.it>,,,,,False,0.0,False,1.6921978570433495e-06
+765,<950323125654.41a00344@elettra.trieste.it>,,,,,False,-0.0,False,3.35693554600658e-06
+766,<950629222711.20400a38@elettra.trieste.it>,,,,,False,-0.0,False,4.2058008752422405e-07
+767,<WIN821-950704151038-25D2*/G=ANDREW/S=NORRIS/OU=ES/OU=LON/O=SITA/ADMD=SITAMAIL/C=WW/@MHS>,,,,,False,0.8,True,0.9570872103724182
+768,<199508011427.QAA25585@interbusiness.it>,,,,,False,0.7,False,9.12208655504553e-13

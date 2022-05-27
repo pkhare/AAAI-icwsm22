@@ -1,0 +1,4 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<74CCBBDF76102846AFA7B29F3A98D3F603ADC85F@PACDCEXCMB06.cable.comcast.com>,NO,-6.974,,"No, score=-6.974 tagged_above=-999 required=5 tests=[BAYES_05=-1.11, HELO_EQ_MODEMCABLE=0.768, HOST_EQ_MODEMCABLE=1.368, RCVD_IN_DNSWL_HI=-8]",False,1.2,False,0.22232577085441851
+2,<17438.1300222596@marajade.sandelman.ca>,NO,-0.077,,"No, score=-0.077 tagged_above=-999 required=5 tests=[AWL=1.877, BAYES_00=-2.599, HOST_MISMATCH_NET=0.311, IP_NOT_FRIENDLY=0.334]",False,-2.0,False,0.49999999999999784
+3,<4D7FDCCF.403@danwing.org>,NO,-0.185,,"No, score=-0.185 tagged_above=-999 required=5 tests=[BAYES_40=-0.185]",False,-2.0,False,0.49999999999999784

@@ -1,0 +1,295 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<5991801693.20031209162550@psg.com>,,,,,False,0.5,False,0.00747371667236491
+2,<20031216014335.12C943F746@Mail.MAP-NE.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+3,<339049717.1071514486@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+4,<20031216021612.E3B0A3F746@Mail.MAP-NE.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+5,<7D5D48D2CAA3D84C813F5B154F43B155032D949F@nl0006exch001u.nl.lucent.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.010673682937986421
+6,<016a01c3c3d2$8b773620$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.6328552385253586
+7,<20031216152911.299412db.moore@cs.utk.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+8,<27100647563.20031216143431@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.03813740723243072
+9,<153101100604.20031216144204@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.03813740723243072
+10,<80102041748.20031216145746@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.16605644023286953
+11,<78635541-301F-11D8-97F7-000393DB5366@cs.utk.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-0.8,False,0.49999999999999784
+12,<8B5C8BAB-3023-11D8-B7AE-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+13,<026f01c3c497$cf935170$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.03813740723243072
+14,<3FE05F15.8040701@alcatel.be>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,False,0.49999999999999784
+15,<20031217144222.3D567A7994@newdev.harvard.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+16,<Pine.BSF.4.53.0312170910500.3995@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.11529928627752146
+17,<Pine.BSF.4.53.0312171111390.3995@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.00747371667236491
+18,<5.1.0.14.0.20031217140123.019a1208@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+19,<Pine.BSF.4.53.0312171305450.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+20,<11571753696.20031217124615@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.03813740723243072
+21,<13271763570.20031217124624@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.16605644023286953
+22,<3272354950.20031217125616@psg.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,False,0.49999999999999784
+23,<5372533748.20031217125915@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.03813740723243072
+24,<Pine.BSF.4.53.0312171355520.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+25,<15072691845.20031217130153@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.49999999999999784
+26,<BA03B41AFFEA154B80DEB5BC9E4B65D007B8887B@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+27,<2473295463.20031217131156@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.49999999999999784
+28,<Pine.BSF.4.53.0312171414120.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+29,<5.1.0.14.0.20031217162219.01ab7008@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+30,<15673952257.20031217132253@psg.com>,,,,"No, hits=0.3 required=5.0 tests=RCVD_NUMERIC_HELO autolearn=no  version=2.60",False,0.5,False,0.16605644023286953
+31,<5474606788.20031217133348@psg.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,False,0.49999999999999784
+32,<20031217213555.7492C77A704@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.16605644023286953
+33,<Pine.BSF.4.53.0312171445010.13687@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.03813740723243072
+34,<3FE0F7AA.1090006@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+35,<20031218005644.GA24014@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+36,<031001c3c50c$99131570$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.49999999999999784
+37,<04cc01c3c515$ffdc2b30$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.03813740723243072
+38,<3FE1B817.3040707@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+39,<9627AE40-3168-11D8-B7AE-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.07970566712219727
+40,<20031218163028.GA28430@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+41,<3FE24147.8030103@txc.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+42,<20031219005615.GA19126@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.49999999999999784
+43,<20031219012224.69D26AD21A@newdev.harvard.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.16605644023286953
+44,<BA03B41AFFEA154B80DEB5BC9E4B65D0059179DD@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.49999999999999784
+45,<1364301485.20040107121916@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+46,<1044648133.20040107122503@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+47,<Pine.BSF.4.58.0401071353430.52120@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+48,<30863767-415A-11D8-AFFF-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+49,<838686851.20040107133222@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+50,<Pine.BSF.4.58.0401071445310.52120@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+51,<5.1.0.14.0.20040107171310.01a40458@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8674304598559883
+52,<BA03B41AFFEA154B80DEB5BC9E4B65D005917A03@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+53,<BA03B41AFFEA154B80DEB5BC9E4B65D005917A07@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+54,<50108437695.20040108171453@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,-4.5,True,0.9436217532232828
+55,<196108581021.20040108171716@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+56,<7D5D48D2CAA3D84C813F5B154F43B155033D3AAA@nl0006exch001u.nl.lucent.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+57,<Pine.LNX.4.44.0401091652260.29733-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,True,0.912777912911502
+58,<BA03B41AFFEA154B80DEB5BC9E4B65D005917A0E@hq-ex-3.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+59,<20040109185350.GA12600@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+60,<3FFF35DF.1080400@alcatel.be>,,,,"No, hits=0.3 required=5.0 tests=AWL, NO_REAL_NAME autolearn=no  version=2.60",False,-1.0,True,0.912777912911502
+61,<029201c3d712$48293870$606015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+62,<5.1.0.14.2.20040109203410.04552a28@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.8035799187328447
+63,<12198909396.20040109182244@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,True,0.912777912911502
+64,<003701c3d737$5b361530$386015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+65,<Pine.BSF.4.58.0401092229580.93125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+66,<5.1.0.14.0.20040110013737.018ef758@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+67,<2004110988.424309@bbprime>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+68,<5.1.0.14.2.20040110075158.0385bbd0@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+69,<2004110163353.077341@bbprime>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.8380923741461609
+70,<2004111185020.818584@bbprime>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+71,<01e501c3d8bf$7e382df0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+72,<2004111202637.788100@bbprime>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+73,<Pine.BSF.4.58.0401120916540.15125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,True,0.912777912911502
+74,<01c401c3d936$19675690$606015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+75,<Pine.BSF.4.58.0401121101220.15125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+76,<Pine.LNX.4.44.0401122027210.1130-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+77,<Pine.BSF.4.58.0401121110540.15125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+78,<16A45988-4541-11D8-9AF0-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+79,<5.1.0.14.0.20040112154956.01a86878@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+80,<Pine.BSF.4.58.0401121338490.15125@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+81,<Pine.BSF.4.58.0401121401500.15125@measurement-factory.com>,,,,"No, hits=1.0 required=5.0 tests=AWL,DRASTIC_REDUCED  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+82,<20040112222037.GA18177@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+83,<031701c3d95b$0c997220$606015ac@dclkempt40>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,3.6,False,0.7189408625521978
+84,<5.1.0.14.0.20040112175429.01a88040@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+85,<20040112232354.GA19886@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+86,<200401131538.i0DFcDLE029186@rtp-core-1.cisco.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+87,<20040113163222.8E65CCBF5C@newdev.harvard.edu>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+88,<20040113132604.C01DA3F746@Mail.MAP-NE.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+89,<20040113131211.7AD0A3F746@Mail.MAP-NE.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8674304598559883
+90,<20040113182948.1B5BD77A703@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+91,<200411310345.801759@bbprime>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+92,<Pine.BSF.4.58.0401131142110.67107@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+93,<110547685570.20040113191913@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,0.5,False,0.7189408625521978
+94,<144370974.1074032554@localhost>,,,,"No, hits=0.3 required=5.0 tests=AWL,DATE_IN_PAST_06_12  autolearn=no version=2.60",False,-0.9,False,0.7189408625521978
+95,<Pine.BSF.4.58.0401141149320.23494@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+96,<525543380.20040114110413@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,-4.5,True,0.912777912911502
+97,<003801c3db0e$7789a3c0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+98,<6595610370.20040115120520@psg.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,-4.5,False,0.7189408625521978
+99,<5.1.0.14.2.20040119153928.03719df0@ms101.mail1.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.6,False,0.7189408625521978
+100,<5.1.0.14.0.20040212195919.01999630@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+101,<20040216184102.0F8E577A6DD@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+102,<192333100.1076941218@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+103,<7D5D48D2CAA3D84C813F5B154F43B155039627E2@nl0006exch001u.nl.lucent.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+104,<01e401c3f555$93ca9ba0$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+105,<361528079.1077110417@[192.168.1.43]>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+106,<20040301035811.5700010D065@lawyers.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+107,<5.1.0.14.0.20040229234325.01a25d98@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+108,<01d301c3ff4c$3d6d3370$f0e125da@DFNJGL21>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.6,False,0.7189408625521978
+109,<5.1.0.14.0.20040301013010.019448a0@localhost>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+110,<1097854518.20040301173144@brandenburg.com>,,,,"No, hits=0.8 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+111,<359897983.20040301200116@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+112,<1062267814.20040301200203@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+113,<901255565.20040301200221@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+114,<1221060422.20040308164330@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+115,<1609599601.20040308174508@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+116,<035201c40588$c86cc840$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+117,<20040309040424.175D510F427@lawyers.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+118,<44347062.20040308231614@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+119,<20040309134438.CACC477A6D5@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+120,<227129254.1078828209@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+121,<p06020437bc73bfaf336f@[192.168.2.2]>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+122,<31173904.20040309130231@brandenburg.com>,,,,"No, hits=1.9 required=5.0 tests=AWL,OPT_HEADER, PRIORITY_NO_NAME autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+123,<161118984.20040310131612@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+124,<p0602044ebc75384bb9a3@[192.168.2.2]>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+125,<20040310225839.GA17999@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+126,<20040310230136.GA18259@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+127,<332932651.1078934012@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+128,<p06020451bc75580f2b76@[192.168.2.2]>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.8,False,0.7189408625521978
+129,<20040311003054.GA20694@1-4-5.net>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+130,<200403111540.i2BFetU7018907@rtp-core-1.cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+131,<20040311163741.GE2460@sbrim-w2k01>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+132,<400945459.1079002028@[192.168.1.51]>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+133,<8FB31AF3-73AC-11D8-B275-000393CC2112@acm.org>,,,,"No, hits=0.3 required=5.0 tests=NO_REAL_NAME autolearn=no  version=2.60",False,-0.8,False,0.7189408625521978
+134,<1328606943.20040311184935@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+135,<200403121530.i2CFU8U7026102@rtp-core-1.cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+136,<191DA4FAE235D24C9BCC8D50F6B17AB906EAF9@hq-ex-11.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+137,<191DA4FAE235D24C9BCC8D50F6B17AB9093322@hq-ex-11.corp.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+138,<1428866288.20040312081256@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+139,<200403121632.i2CGW3Uk008151@rtp-core-2.cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.8035799187328447
+140,<478614561.1079079700@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+141,<004101c4089d$2797e450$0400a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+142,<5.1.0.14.0.20040315145735.022c45a8@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL, HTML_MESSAGE autolearn=no  version=2.60",False,-1.0,False,0.7189408625521978
+143,<200403152055.PAA24125@ietf.org>,,,,"No, hits=0.5 required=5.0 tests=AWL,MIME_BOUND_NEXTPART, NO_REAL_NAME autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+144,<Pine.LNX.4.44.0403152334310.6903-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+145,<10669074413.20040318111753@psg.com>,,,,"No, hits=0.3 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",False,-4.5,False,0.7189408625521978
+146,<5.1.0.14.0.20040319144516.023d73c8@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL, HTML_MESSAGE autolearn=no  version=2.60",False,-1.0,False,0.8035799187328447
+147,<4063F7B9.5424BB6E@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+148,<7D5D48D2CAA3D84C813F5B154F43B15503ED0805@nl0006exch001u.nl.lucent.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+149,<039701c41330$9ba24f00$0300a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+150,<344298074.1080283979@localhost>,,,,"No, hits=0.1 required=5.0 tests=AWL,MIME_SUSPECT_NAME  autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+151,<40669B7E.4D9156DA@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+152,<406695D1.7A94B506@zurich.ibm.com>,,,,"No, hits=0.4 required=5.0 tests=AWL,DATE_IN_PAST_03_06  autolearn=no version=2.60",False,1.3,False,0.7189408625521978
+153,<96350946.20040328085739@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,2.2,False,0.7189408625521978
+154,<406823FF.D6452F26@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+155,<20040329142420.2776977AB5A@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+156,<40683D27.21D7BB2A@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+157,<00c601c415c5$5449cd80$0300a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+158,<20040329205035.8201F77AB5A@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+159,<20040309042849.2E00310F4AE@lawyers.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+160,<234596892.1081165551@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+161,<00bc01c41b7d$465ae340$0200a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+162,<407263F9.A59CB224@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+163,<5.1.0.14.0.20040413211842.022b1918@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+164,<579550769.1081928470@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+165,<1396035342.20040414094134@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+166,<407EBCBA.EC753D6B@zurich.ibm.com>,,,,"No, hits=0.2 required=5.0 tests=AWL,DATE_IN_PAST_12_24  autolearn=no version=2.60",False,1.1,False,0.7189408625521978
+167,<717382561.20040416091907@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+168,<408389DB.CEE7850E@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+169,<001601c42603$e8de0bc0$0300a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+170,<20040419143609.564DB77A6D5@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+171,<20040419163838.39B5C77A6D5@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+172,<Pine.BSF.4.58.0404191032021.84525@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+173,<45741475.20040419100642@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+174,<20040419172603.3DEBC77A6D5@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+175,<20040419172807.CC56177A6D5@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+176,<1768034839.20040419110405@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+177,<003b01c42677$1d144d50$0300a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+178,<007a01c42678$04c002c0$0300a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+179,<20040420031545.6C3F213AF5E@lawyers.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+180,<191DA4FAE235D24C9BCC8D50F6B17AB92E7C68@hq-ex-11.brocade.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+181,<20040425135901.CB57D1401DA@lawyers.icir.org>,,,,"No, hits=0.3 required=5.0 tests=AWL,DATE_IN_PAST_06_12  autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+182,<310594881.1082974604@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+183,<038101c42c01$4ae4baf0$0300a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+184,<386908845.1083050918@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+185,<5.1.0.14.0.20040427140938.0246d478@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+186,<408F7A88.40306@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+187,<408FA8B6.30704@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+188,<159749067.1083333395@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+189,<4094AEB2.4050606@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-0.1,False,0.7189408625521978
+190,<316605053.1083490253@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+191,<4096080E.7020601@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+192,<156105829.20040508084848@brandenburg.com>,,,,"No, hits=0.7 required=5.0 tests=AWL,PRIORITY_NO_NAME  autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+193,<20040518180234.313BA77AB51@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+194,<7D5D48D2CAA3D84C813F5B154F43B1550455911D@nl0006exch001u.nl.lucent.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+195,<20040518194321.8C0DC77AB51@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+196,<Pine.LNX.4.44.0405182256370.31301-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+197,<40AB15A0.5090804@zurich.ibm.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,0.3,False,0.7189408625521978
+198,<068e01c43d97$24266ab0$0200a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+199,<20040519130710.F21BA77AA5C@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+200,<00FC40D4-A9A2-11D8-8468-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+201,<20040519144950.EB9D977AA5C@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+202,<C6CEDAD9-A9A5-11D8-8468-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+203,<Pine.BSF.4.58.0405191316190.77504@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+204,<183112141.1084970367@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+205,<20040519200812.9C98277AA5C@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+206,<20040519201717.D137477AA5C@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+207,<Pine.LNX.4.44.0405192317000.23234-100000@netcore.fi>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+208,<5.1.0.14.0.20040519161941.0241a008@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+209,<E1BQXer-0007gP-00@ietf-mx>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+210,<Pine.BSF.4.58.0405191419570.77504@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+211,<Pine.BSF.4.58.0405191436030.77504@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+212,<5.1.0.14.0.20040519173932.0224dec0@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+213,<9FA9743C-A9DD-11D8-8468-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+214,<Pine.BSF.4.58.0405191610300.77504@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+215,<20040520024811.8E28814FE9D@lawyers.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+216,<20040520025614.9C9BD14FED8@lawyers.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+217,<07f601c43e1b$4ce1ebd0$0200a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+218,<Pine.BSF.4.58.0405192209340.15559@measurement-factory.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-1.0,False,0.7189408625521978
+219,<082e01c43e62$e0e30cf0$0200a8c0@DFNJGL21>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,2.9,False,0.7189408625521978
+220,<20040520142514.EAEB777A6D5@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+221,<20040520143043.205F977A6D5@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+222,<247198773.1085034455@localhost>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.8035799187328447
+223,<20040521031254.8C949150C05@lawyers.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+224,<200405241337.31199.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+225,<20040524121145.E9A4877ACFC@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+226,<20040524122006.8BF8077ACFC@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+227,<200405241443.42813.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+228,<200405241454.54899.david.partain@ericsson.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-1.0,False,0.8035799187328447
+229,<41EAFA5C-AD8F-11D8-82A2-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+230,<20040524144930.A4EC977ACFC@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+231,<20040524150105.2C70A77ACFC@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+232,<F6A0E884-AD95-11D8-82A2-000A95E35274@cisco.com>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+233,<20040524153539.CABED77ACFC@guns.icir.org>,,,,"No, hits=0.0 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
+234,<Pine.LNX.4.44.0408011748080.31045-100000@netcore.fi>,,0.0 (/),,,False,-1.0,False,0.009095766536244297
+235,<003101c47a81$de7361d0$2d828182@DFNJGL21>,,0.5 (/),,,False,0.4,False,0.7189408625521978
+236,<20040811160002.5A4E977AED4@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+237,<80C51526-EBB9-11D8-923B-000A95E35274@cisco.com>,,0.0 (/),,,False,-2.0,False,0.4294826038093731
+238,<Pine.LNX.4.44.0408112048370.30836-100000@netcore.fi>,,0.0 (/),,,False,-1.0,False,0.08446617402939192
+239,<516932251.20040811194338@brandenburg.com>,,0.8 (/),,,False,-1.0,False,0.7189408625521978
+240,<09DBDE432925E7F06745323B@[192.168.1.43]>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+241,<411B6F3A.8090509@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+242,<1186621368.20040812084106@brandenburg.com>,,0.8 (/),,,False,-1.0,False,0.7189408625521978
+243,<20040825161005.091A077AA5C@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+244,<20040825163039.54C8D77AA5C@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.17920805280673321
+245,<84310048.20040825134848@brandenburg.com>,,0.8 (/),,,False,-1.0,False,0.7189408625521978
+246,<5.1.0.14.0.20040825195347.02417230@localhost>,,0.1 (/),,,False,-1.0,False,0.8035799187328447
+247,<1157021322.20040825170332@brandenburg.com>,,0.8 (/),,,False,-1.0,False,0.7189408625521978
+248,<412D8AF7.7060700@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+249,<20040826142153.807F377A6DD@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+250,<8F32DC8C857CD719D677D6D1@[192.168.1.225]>,,0.0 (/),,,False,-2.0,False,0.8035799187328447
+251,<412EE4BA.7010406@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+252,<20040907164312.69B2C77A6E0@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+253,<20040921145602.0C05E77ADC0@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.17920805280673321
+254,<20041013172154.9291677AE41@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+255,<20041013184130.GC1128@sbrim-w2k01>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+256,<20041013184438.5143677A6E0@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+257,<20041013185040.A970477A6E0@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+258,<Pine.LNX.4.44.0410140744440.27831-100000@netcore.fi>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+259,<416E5208.1070903@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+260,<20041014113759.10CAB1EBB79@lawyers.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+261,<66CFE0CA1DDEB54493E63A2C7C52924608CE52@hq-ex-6.brocade.com>,,0.0 (/),,,False,0.3,False,0.8035799187328447
+262,<opsfvcoambiz3etf@pail.measurement-factory.com>,,0.0 (/),,,False,-0.1,False,0.7189408625521978
+263,<20041014171730.GA1368@sbrim-w2k01>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+264,<20041014101917.683652@bbprime>,,0.0 (/),,,False,-2.0,False,0.8380923741461609
+265,<478899E747FF11567DC3F101@B50854F0A9192E8EC6CDA126>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+266,<007d01c4b267$e0aa4f90$0200a8c0@DFNJGL21>,,0.1 (/),,,False,2.9,False,0.7189408625521978
+267,<416FBBDC.7030506@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+268,<0a1c01c4b979$20412c60$0200a8c0@DFNJGL21>,,0.1 (/),,,False,2.9,False,0.8035799187328447
+269,<p06020428bdb18a2866e4@[192.168.2.2]>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+270,<418D4E0A.8030504@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+271,<7D5D48D2CAA3D84C813F5B154F43B15505A98572@nl0006exch001u.nl.lucent.com>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+272,<002c01c4c54d$4cdd9440$90878182@DFNJGL21>,,0.0 (/),,,False,2.0,False,0.7189408625521978
+273,<Pine.LNX.4.61.0411081411380.9056@netcore.fi>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+274,<6.1.2.0.0.20041108095627.03b67ec0@localhost>,,0.0 (/),,,False,-1.0,False,0.8035799187328447
+275,<00b501c4c5a7$e9d95040$90878182@DFNJGL21>,,0.0 (/),,,False,0.3,False,0.17920805280673321
+276,<08b301c4c8c0$c76641a0$90878182@DFNJGL21>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+277,<99BABBE88AACBD9FCD65A33C@B50854F0A9192E8EC6CDA126>,,1.2 (+),,,False,-0.9,False,0.7189408625521978
+278,<20041114100640.O60832@measurement-factory.com>,,0.5 (/),,,False,-1.0,False,0.7189408625521978
+279,<20041114101954.L60832@measurement-factory.com>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+280,<90A0817794F914F2E2716B6B@askvoll.hjemme.alvestrand.no>,,0.0 (/),,,False,-0.4,False,0.8035799187328447
+281,<20041115131009.2392277A9D5@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+282,<Pine.LNX.4.61.0411160003410.23830@netcore.fi>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+283,<0b1101c4cb83$219fc690$90878182@DFNJGL21>,,0.1 (/),,,False,2.9,False,0.7189408625521978
+284,<20041116142954.5409577AA12@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+285,<419A214C.5040509@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+286,<20041116155523.7740E77AA12@guns.icir.org>,,0.0 (/),,,False,-2.0,False,0.7189408625521978
+287,<20041116160618.GE516@sbrim-w2k02>,,0.0 (/),,,False,-1.0,False,0.7189408625521978
+288,<opshkidyrjiz3etf0c9082f7@pail.measurement-factory.com>,,0.0 (/),,,False,-0.1,False,0.7189408625521978
+289,<108e01c4cc56$db2fc050$90878182@DFNJGL21>,,0.1 (/),,,False,2.9,False,0.7189408625521978
+290,<419B18FC.1080203@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.7189408625521978
+291,<Pine.GSO.4.58.0411170930380.10985@darkwing.uoregon.edu>,,0.0 (/),,,False,-1.0,False,0.326959085371362
+292,<5DB3F67EE758DFF382B3854D@B50854F0A9192E8EC6CDA126>,,0.0 (/),,,False,-2.0,False,0.49999999999999784
+293,<423EF98D.5020101@zurich.ibm.com>,,0.0 (/),,,False,0.3,False,0.42069953925179354
+294,<200503222036.PAA29757@ietf.org>,,0.0 (/),,,False,-2.0,False,0.09104101603020599

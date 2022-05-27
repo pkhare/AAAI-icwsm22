@@ -1,0 +1,35 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<8deb0b5b0901211845g24d8585csd88497b6e74ee381@mail.gmail.com>,NO,-1.109,,"No, score=-1.109 tagged_above=-999 required=5 tests=[BAYES_05=-1.11, HTML_MESSAGE=0.001]",False,0.4,False,0.8037307242061429
+2,<1232613159.6879.523.camel@vulcan.aspl.local>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.000, BAYES_00=-2.599]",False,-1.8,False,0.669270692071739
+3,<1232625743.6879.529.camel@vulcan.aspl.local>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,-1.8,False,0.669270692071739
+4,<1233232921.6879.729.camel@vulcan.aspl.local>,NO,-1.392,,"No, score=-1.392 tagged_above=-999 required=5 tests=[AWL=-1.207, BAYES_40=-0.185]",False,-1.8,False,0.669270692071739
+5,<1233660736.6879.871.camel@vulcan.aspl.local>,NO,-1.798,,"No, score=-1.798 tagged_above=-999 required=5 tests=[AWL=-0.399, BAYES_00=-2.599, J_CHICKENPOX_41=0.6, J_CHICKENPOX_63=0.6]",False,-1.8,False,0.669270692071739
+6,<1236942381.17324.180.camel@vulcan.aspl.local>,NO,-0.299,,"No, score=-0.299 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, MANGLED_SAVELE=2.3]",False,-1.8,False,0.669270692071739
+7,<1236946017.17324.182.camel@vulcan.aspl.local>,NO,-0.149,,"No, score=-0.149 tagged_above=-999 required=5 tests=[AWL=-0.150, BAYES_50=0.001]",False,-1.8,False,0.669270692071739
+8,<9471C896-E007-4745-8A49-885D51B6B130@apple.com>,NO,-102.598,,"No, score=-102.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, UNPARSEABLE_RELAY=0.001, USER_IN_WHITELIST=-100]",False,0.1,False,0.8037307242061429
+9,<ffc28d54-b4e6-4eaa-ba21-2d6d9f94a2b8@v38g2000yqb.googlegroups.com>,NO,3.178,***,"No, score=3.178 tagged_above=-999 required=5 tests=[BAYES_50=0.001, X_IP=3.177]",False,0.3,False,0.669270692071739
+10,<1237193719.5260.27.camel@vulcan.aspl.local>,NO,-0.294,,"No, score=-0.294 tagged_above=-999 required=5 tests=[AWL=0.146, BAYES_20=-0.74, MIME_8BIT_HEADER=0.3]",False,-1.8,False,0.669270692071739
+11,<1237381829.5260.269.camel@vulcan.aspl.local>,NO,-1.423,,"No, score=-1.423 tagged_above=-999 required=5 tests=[AWL=1.177, BAYES_00=-2.599]",False,-1.8,False,0.669270692071739
+12,<1237382051.5260.273.camel@vulcan.aspl.local>,NO,-1.717,,"No, score=-1.717 tagged_above=-999 required=5 tests=[AWL=0.882, BAYES_00=-2.599]",False,-1.8,False,0.669270692071739
+13,<E51D5B15BFDEFD448F90BDD17D41CFF1058BCB58@AHQEX1.andrew.com>,NO,-1.723,,"No, score=-1.723 tagged_above=-999 required=5 tests=[AWL=-0.613, BAYES_05=-1.11]",False,0.3,False,0.8037307242061429
+14,<1237916132.27593.169.camel@vulcan.aspl.local>,NO,-1.893,,"No, score=-1.893 tagged_above=-999 required=5 tests=[AWL=0.706, BAYES_00=-2.599]",False,-1.8,False,0.669270692071739
+15,<49C9F02A.60806@ateme.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,-1.8,False,0.8037307242061429
+16,<1237977022.20276.51.camel@vulcan.aspl.local>,NO,-2.011,,"No, score=-2.011 tagged_above=-999 required=5 tests=[AWL=0.588, BAYES_00=-2.599]",False,-1.8,False,0.669270692071739
+17,<1237978233.20276.55.camel@vulcan.aspl.local>,NO,-2.095,,"No, score=-2.095 tagged_above=-999 required=5 tests=[AWL=0.504, BAYES_00=-2.599]",False,-1.8,False,0.669270692071739
+18,<1240587458.32420.441.camel@vulcan.aspl.local>,NO,-0.651,,"No, score=-0.651 tagged_above=-999 required=5 tests=[AWL=-1.066, BAYES_40=-0.185, J_CHICKENPOX_53=0.6]",False,-1.8,False,0.669270692071739
+19,<1246016828.4749.94.camel@vulcan.aspl.local>,NO,-0.74,,"No, score=-0.74 tagged_above=-999 required=5 tests=[BAYES_20=-0.74]",False,-1.8,False,0.669270692071739
+20,<1267787988.27381.29.camel@vulcan.aspl.local>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,-1.8,False,0.8923203972144867
+21,<1271429330.644.521.camel@vulcan.aspl.local>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[BAYES_50=0.001]",False,-1.8,True,0.9437233545620936
+22,<1272908210.6898.147.camel@vulcan.aspl.local>,NO,2.65,**,"No, score=2.65 tagged_above=-999 required=5 tests=[AWL=-2.649, BAYES_99=3.5, J_CHICKENPOX_35=0.6, J_CHICKENPOX_53=0.6, J_CHICKENPOX_92=0.6]",False,-1.8,True,0.9565151887688277
+23,<1284138202.1513.1503.camel@vulcan.aspl.local>,NO,1.329,*,"No, score=1.329 tagged_above=-999 required=5 tests=[AWL=1.328, BAYES_50=0.001]",False,-1.8,True,0.9437233545620936
+24,<1288115953.6603.9701.camel@vulcan.aspl.local>,NO,0.063,,"No, score=0.063 tagged_above=-999 required=5 tests=[AWL=2.062, BAYES_00=-2.599, J_CHICKENPOX_65=0.6]",False,-1.8,True,0.9437233545620936
+25,<1293183338.26824.80.camel@vulcan.aspl.local>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[BAYES_50=0.001]",False,-1.8,True,0.9437233545620936
+26,<1296149914.31159.734.camel@vulcan.aspl.local>,NO,-1.299,,"No, score=-1.299 tagged_above=-999 required=5 tests=[AWL=1.300, BAYES_00=-2.599]",False,-1.8,True,0.9437233545620936
+27,<1300692577.3000.5.camel@tot.local>,NO,-0.499,,"No, score=-0.499 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, J_CHICKENPOX_45=0.6, J_CHICKENPOX_63=0.6, J_CHICKENPOX_73=0.6, MIME_8BIT_HEADER=0.3]",False,-1.8,True,0.9437233545620936
+28,<1305881656.8790.434.camel@vulcan.aspl.local>,NO,-0.81,,"No, score=-0.81 tagged_above=-999 required=5 tests=[BAYES_05=-1.11, MIME_8BIT_HEADER=0.3]",False,-1.8,False,0.8923203972144867
+29,<1308935531.25278.75.camel@vulcan.aspl.local>,NO,0.963,,"No, score=0.963 tagged_above=-999 required=5 tests=[AWL=2.362, BAYES_00=-2.599, J_CHICKENPOX_63=0.6, J_CHICKENPOX_92=0.6]",False,-1.8,True,0.9437233545620936
+30,<1308938443.25278.90.camel@vulcan.aspl.local>,NO,0.269,,"No, score=0.269 tagged_above=-999 required=5 tests=[AWL=2.268, BAYES_00=-2.599, J_CHICKENPOX_26=0.6]",False,-1.8,True,0.9437233545620936
+31,<1310480980.26452.333.camel@vulcan.aspl.local>,NO,1.143,*,"No, score=1.143 tagged_above=-999 required=5 tests=[AWL=3.742, BAYES_00=-2.599]",False,-1.8,False,0.8923203972144867
+32,<1319564844.6594.129.camel@vulcan.aspl.local>,NO,2.884,**,"No, score=2.884 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, FH_HOST_ALMOST_IP=1.889, HOST_EQ_STATIC=1.172, HOST_EQ_STATICIP=1.511, HOST_MISMATCH_NET=0.311, J_CHICKENPOX_92=0.6]",False,-1.8,False,0.49999999999999784
+33,<1319638355.17148.10.camel@vulcan.aspl.local>,NO,2.584,**,"No, score=2.584 tagged_above=-999 required=5 tests=[AWL=0.300, BAYES_00=-2.599, FH_HOST_ALMOST_IP=1.889, HOST_EQ_STATIC=1.172, HOST_EQ_STATICIP=1.511, HOST_MISMATCH_NET=0.311]",False,-1.8,False,0.49999999999999784
+34,<1337590683.27695.33.camel@vulcan.aspl.local>,NO,4.884,****,"No, score=4.884 tagged_above=-999 required=5 tests=[BAYES_50=0.001, FH_HOST_ALMOST_IP=1.889, HOST_EQ_STATIC=1.172, HOST_EQ_STATICIP=1.511, HOST_MISMATCH_NET=0.311]",False,-1.8,False,0.49999999999999784

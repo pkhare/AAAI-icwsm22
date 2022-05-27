@@ -1,0 +1,19 @@
+imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
+1,<49A6CCB2-B484-4F0E-B489-F1D1DAEBAEE8@ietf.org>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
+2,<20110317143354.6FB653A694E@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+3,<20110324150944.DDD3528C11E@core3.amsl.com>,,,,,False,-0.8,False,0.15960297761042466
+4,<20110326091939.7A5F43A6904@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+5,,NO,-2.299,,"No, score=-2.299 tagged_above=-999 required=5 tests=[AWL=-0.300, BAYES_00=-2.599, J_CHICKENPOX_23=0.6]",False,-2.0,False,0.669270692071739
+6,<20110328093833.1E06D3A6867@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
+7,<07B2B5BC-D80B-4016-B626-039F6BD1E812@amsl.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[AWL=0.001, BAYES_00=-2.599]",False,-2.0,False,0.49999999999999784
+8,<37CA7EA6-49D0-4FDE-ADB8-0A1614F042EC@amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.22737794128918348
+9,<8E5D557F-F348-4DC5-8AB3-F9AC7F4C25D7@amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.22737794128918348
+10,,NO,-1.913,,"No, score=-1.913 tagged_above=-999 required=5 tests=[AWL=-0.514, BAYES_00=-2.599, J_CHICKENPOX_23=0.6, J_CHICKENPOX_32=0.6]",False,-2.0,False,0.7639566121555612
+11,<AAFC23E5-F6AC-453F-8674-46E5B8F543B3@amsl.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[AWL=-0.000, BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.49999999999999784
+12,,NO,-2.504,,"No, score=-2.504 tagged_above=-999 required=5 tests=[AWL=0.095, BAYES_00=-2.599]",False,-2.0,False,0.669270692071739
+13,,NO,-1.917,,"No, score=-1.917 tagged_above=-999 required=5 tests=[AWL=-0.518, BAYES_00=-2.599, J_CHICKENPOX_23=0.6, J_CHICKENPOX_32=0.6]",False,-2.0,False,0.7639566121555612
+14,<1A2CC21F-831D-484F-8617-24BEA09181AA@amsl.com>,NO,-2.482,,"No, score=-2.482 tagged_above=-999 required=5 tests=[AWL=0.116, BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,-2.0,False,0.49999999999999784
+15,,NO,-1.898,,"No, score=-1.898 tagged_above=-999 required=5 tests=[AWL=-0.499, BAYES_00=-2.599, J_CHICKENPOX_23=0.6, J_CHICKENPOX_32=0.6]",False,-2.0,False,0.669270692071739
+16,<A82C9A73-5436-4473-8744-B80A92AE2AE4@amsl.com>,NO,-1.918,,"No, score=-1.918 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, SARE_MONEYTERMS=0.681]",False,-2.0,False,0.49999999999999784
+17,<E2F38E13-001F-4857-B642-C5934C0BD2C8@isoc.org>,NO,-101.619,,"No, score=-101.619 tagged_above=-999 required=5 tests=[AWL=-1.199, BAYES_05=-1.11, DATE_IN_PAST_96_XX=1.69, RCVD_IN_DNSWL_LOW=-1, USER_IN_WHITELIST=-100]",False,1.1,False,0.09108992600534209
+18,<31E6E70D-C8E7-40B1-9D25-291321867941@isoc.org>,NO,-101.695,,"No, score=-101.695 tagged_above=-999 required=5 tests=[AWL=-0.986, BAYES_00=-2.599, DATE_IN_PAST_96_XX=1.69, J_CHICKENPOX_23=0.6, J_CHICKENPOX_32=0.6, RCVD_IN_DNSWL_LOW=-1, USER_IN_WHITELIST=-100]",False,1.1,False,0.6152907348201759
