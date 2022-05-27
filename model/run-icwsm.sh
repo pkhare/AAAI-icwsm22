@@ -5,12 +5,12 @@ python model.py --feats "SNA-BWC-ALL.csv" --do_fs f1t --mode adopt --model lr > 
 python model.py --feats "SNA-EC-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/EC.txt
 python model.py --feats "SNA-AGE-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/AGE.txt
 python model.py --feats "SNA-NUM-AUTH.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/NAU.txt
-python model.py --feats "SNA-TOP-AUTH.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/TOP.txt
-python model.py --feats "SNA-DRAFTS-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/DRAFTS.txt
-python model.py --feats "SNA-AREAS-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/AREAS.txt
-python model.py --feats "SNA-MLIST-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/MLIST.txt
-python model.py --feats "SNA-AFF.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/AFF.txt
-python model.py --feats "TDIV.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/TDIV.txt
+python model.py --feats "SNA-TOP-AUTH.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/TOP.txt 
+python model.py --feats "SNA-DRAFTS-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/DRAFTS.txt 
+python model.py --feats "SNA-AREAS-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/AREAS.txt 
+python model.py --feats "SNA-MLIST-ALL.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/MLIST.txt 
+python model.py --feats "SNA-AFF.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/AFF.txt 
+python model.py --feats "TDIV.csv" --do_fs f1t --mode adopt --model lr > output-lr-adopt/TDIV.txt 
 
 python model.py --feats "emails-text-feats.pickle" --do_fs f1t --mode adopt --model lr > output-lr-adopt/TEXT.txt
 

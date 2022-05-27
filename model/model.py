@@ -33,7 +33,6 @@ parser.add_argument("-verbose", "--verbose", help = "Whether to print out some a
 parser.add_argument("-do_fs", "--do_fs", help = "Whether to do feature selection - f1 or f1t for f1/f1 (2 class) optimiziation, auc for auc optimization, or none for no selection. If turned off all features are used. Default is f1t", default="f1t", type=str)
 parser.add_argument("-feats", "--feats", help = "Whitespace separated list of feature file names, they should be in the feats subfolder. For example --feats 'orig-feats.csv example-feats.csv'. There is no default, this is required. Feature files are csv files with one column containing draft name (should be called 'doc_name') and all other columns containing feature values. The first row should contain feature names, which must end in _cat for categorical features and _num for numerical features. There are some example feature files in the feats subfolder.", type = str, required = True)
 parser.add_argument("-model","--model", help = "Model - lr (logistic regression) or mfc (most frequent class) or dt (decision tree) or mlp (multilayer perceptron)", default = "lr", type = str)
-parser.add_argument("-mode","--mode", help = "Mode of operation - 'adopt' for the 'does draft get assigned to working group' task and 'rfc' for the 'does draft become published as rfc' task. Default is 'rfc'", default = "rfc", type = str)
 parser.add_argument("-parallel","--parallel", help = "Parallelize the feature selection loop, 1 for yes and 0 for no. Paralellizing will speed things up considerably when including text features, but will waste A LOT of ram (best used when running on a server). Default is 0.", default = 0, type = int)
 parser.add_argument("-final_feats_filename","--final_feats_filename", help = "Name of the file (will be in csv format) to which the final feature set and label used in the statistical analysis will be written. If empty no file will be created. Default is empty.", default = "", type = str)
 parser.add_argument("-weights_filename","--weights_filename", help = "Name of the file (will be in csv format) to which the final feature weights will be written. If empty no file will be created. Default is empty.", default = "", type = str)
@@ -52,17 +51,9 @@ label_df = pd.read_csv("./feats/gold-labels.csv")
 
 
 print(label_df.shape)
-if args.mode == "adopt":
-    adopt_df = pd.read_csv("../data/ids_adoption.csv")
-    adopt_ids = set(adopt_df["doc_name"].tolist())
-    label_df = label_df[label_df.doc_name.isin(adopt_ids)]
-elif args.mode == "rfc":
-    pub_df = pd.read_csv("../data/ids_pub.csv")
-    pub_ids = set(pub_df["doc_name"].tolist())
-    label_df = label_df[label_df.doc_name.isin(pub_ids)]
-else:
-    raise Exception("Uknonwn mode :" + args.mode)
-
+adopt_df = pd.read_csv("ids_adoption.csv")
+adopt_ids = set(adopt_df["doc_name"].tolist())
+label_df = label_df[label_df.doc_name.isin(adopt_ids)]
 
 #print(label_df.shape)
 
@@ -147,15 +138,9 @@ print(df.shape)
 def binlab(x):
     return 1 if (str(x) == "yes" or str(x) == "1" or str(x).lower() == "true") else 0
 
-if args.mode == "rfc":
-    y = [str(x) for x in df.is_rfc]
-    y = [binlab(x) for x in y]
-elif args.mode == "adopt":
-    y = [str(x) for x in df.is_expired] 
-    y = [binlab(x) for x in y]
-    y = [1 - x for x in y]
-else:
-    raise Exception("Unknown mode: " + args.mode)
+y = [str(x) for x in df.is_expired] 
+y = [binlab(x) for x in y]
+y = [1 - x for x in y]
 
 
 print("Processing columns of different types ...")
@@ -179,9 +164,8 @@ for col in X.columns:
             res = X[col].apply(binlab)
             X.loc[:, col] = res
     elif col.endswith("_num"):
-        if args.verbose:
-            print(" Type: numerical, turning to float" + str(do_norm))
-        X[col] = X[col].astype(float)
+        if not str(X[col].dtype).startswith("float"):
+            X[col] = X[col].astype(float)
     else:
         raise Exception("Undefined column type (cat/num) for column : " + col)
 
