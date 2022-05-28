@@ -41,9 +41,7 @@ for model in ["notext", "text"]:
       for fname, lab in filenames_per_run:
           try:
               f1t = None
-              print(model + " " + dataset + " " + fname)
               file_to_process = "./output-lr-" + dataset + "/" + modify(fname, model)
-              print(file_to_process)
               with open(file_to_process) as modelOutputFile:
                 for line in modelOutputFile:
                     if "Test set" in line:
@@ -56,7 +54,6 @@ for model in ["notext", "text"]:
                         rt = float(line[4].split()[-1])
                         break
               result_lists[model][dataset].append((f1t,pt,rt,auc))
-              print(f1t)
           except:
               result_lists[model][dataset].append(None)
 
