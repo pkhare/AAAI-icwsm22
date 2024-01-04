@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<F795F152-93F9-4CE1-B22B-4848AF707545@amsl.com>,NO,-0.511,,"No, score=-0.511 tagged_above=-999 required=5 tests=[BAYES_05=-0.5, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.49999999999999784
-2,<5E2EE32E-E24B-4548-98AB-2E6EB8FEF354@amsl.com>,NO,-1.91,,"No, score=-1.91 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.49999999999999784

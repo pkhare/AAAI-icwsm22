@@ -1,5 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<996835.1261.qm@web31302.mail.mud.yahoo.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001]",False,2.5,False,0.006803068167124697
-2,<48737354.9020407@isoc.org>,NO,-102.598,,"No, score=-102.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, USER_IN_WHITELIST=-100]",False,0.2,False,0.49999999999999784
-3,<1DA8C62E-C746-4CE1-8CC4-AB5045768E32@isoc.org>,NO,-100.998,,"No, score=-100.998 tagged_above=-999 required=5 tests=[AWL=-0.001, BAYES_50=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-1, USER_IN_WHITELIST=-100, WHOIS_NETSOLPR=0.001]",False,-0.8,False,0.07970566712219727
-4,<428614.44836.qm@web46010.mail.sp1.yahoo.com>,NO,3.49,***,"No, score=3.49 tagged_above=-999 required=5 tests=[BAYES_50=0.001, HTML_MESSAGE=0.001, RCVD_IN_BL_SPAMCOP_NET=1.96, UPPERCASE_75_100=1.528]",True,6.4,False,0.49999999999999784

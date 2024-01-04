@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<20140418091155.2560.56692.ARCHIVE@ietfa.amsl.com>,,4.9 (++++),,,True,12.4,False,1.816918628513705e-11
-2,<20140418091155.2560.53137.ARCHIVE@ietfa.amsl.com>,,0.2 (/),,,False,0.0,False,0.001304920933205366

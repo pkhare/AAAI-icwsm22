@@ -1,4 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<20151202002457.27203.72249.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.15960297761042466
-2,<20190510092655.Horde.vEOifs3ogyOZsO_l5Wo9ad4@cp85.box.co.il>,NO,-2,,"No, score=-2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9,  DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, SPF_PASS=-0.001,  URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-1.9,False,0.5876668185585097
-3,<0D963B11-702E-4185-8ED1-B72ED0C0069A@puck.nether.net>,NO,-1.901,,"No, score=-1.901 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784

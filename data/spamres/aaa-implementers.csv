@@ -1,4 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<EDC652A26FB23C4EB6384A4584434A0401892EAD@307622ANEX5.global.avaya.com>,NO,-1.624,,"No, score=-1.624 tagged_above=-999 required=5 tests=[AWL=-0.155, BAYES_00=-2.599, DNS_FROM_OPENWHOIS=1.13]",False,1.2,False,0.49999999999999784
-2,<EDC652A26FB23C4EB6384A4584434A0406982256@307622ANEX5.global.avaya.com>,NO,-103.307,,"No, score=-103.307 tagged_above=-999 required=5 tests=[AWL=0.292, BAYES_00=-2.599, RCVD_IN_DNSWL_LOW=-1, USER_IN_WHITELIST=-100]",False,1.2,True,0.9438731762290005
-3,<EDC652A26FB23C4EB6384A4584434A0406D8250D@307622ANEX5.global.avaya.com>,NO,-103.343,,"No, score=-103.343 tagged_above=-999 required=5 tests=[AWL=0.256, BAYES_00=-2.599, RCVD_IN_DNSWL_LOW=-1, USER_IN_WHITELIST=-100]",False,1.2,False,0.49999999999999784

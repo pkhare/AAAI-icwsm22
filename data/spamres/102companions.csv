@@ -1,2 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<AAE671B9-1140-43E5-BBD2-856B340C06EB@amsl.com>,NO,-2.302,,"No, score=-2.302 tagged_above=-999 required=5 tests=[BAYES_20=-0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784

@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<267aae3a4756a07972c9bc57cbd1da5e.squirrel@www.amsl.com>,NO,-4.211,,"No, score=-4.211 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784
-2,<e094c57c38e5be7c5b80751c174a2135.squirrel@www.amsl.com>,NO,-4.211,,"No, score=-4.211 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham autolearn_force=no",False,-2.0,False,0.7049884895020615

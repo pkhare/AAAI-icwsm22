@@ -1,6 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<20141103184305.22298.82388.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
-2,<2770FB71-B99B-4B92-B78A-9EE336EE9C16@ericsson.com>,NO,-6.2,,"No, score=-6.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, GB_I_INVITATION=-2, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham",False,0.3,False,0.5231955227565752
-3,<47D341CC8B26E84FB8A5F7108884CFD47A23356D@VOEXM01W.internal.vodafone.com>,NO,-2.7,,"No, score=-2.7 tagged_above=-999 required=5 tests=[BAYES_40=-0.001, FREEMAIL_FROM=0.001, GB_I_INVITATION=-2, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_HELO_PASS=-0.001] autolearn=ham",False,0.3,False,0.5231955227565752
-4,<54899920.3030608@gmx.de>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=ham",False,-2.0,False,0.49999999999999784
-5,<548B17EE.2020809@htt-consult.com>,NO,-1.911,,"No, score=-1.911 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.49999999999999784

@@ -1,9 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
-2,,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
-3,,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
-4,<401EC033.8060206@solidmatrix.com>,,,,"No, hits=0.1 required=5.0 tests=AWL autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
-5,<40998DDA.9080909@solidmatrix.com>,,,,"No, hits=0.2 required=5.0 tests=AWL,RCVD_NUMERIC_HELO  autolearn=no version=2.60",True,5.5,False,0.7189408625521978
-6,<40AD9EBD.3080407@solidmatrix.com>,,,,"No, hits=0.0 required=5.0 tests=none autolearn=no version=2.60",False,-2.0,False,0.7189408625521978
-7,<20050124171905.26605.qmail@xuxa.iecc.com>,,0.3 (/),,,False,-1.0,False,0.49999999999999784
-8,<48EA8C8C.8030406@amsl.com>,NO,-99.981,,"No, score=-99.981 tagged_above=-999 required=5 tests=[AWL=-0.285, BAYES_00=-2.599, FH_RELAY_NODNS=1.451, HELO_MISMATCH_COM=0.553, RDNS_NONE=0.1, SARE_SUB_RAND_LETTRS4=0.799, USER_IN_WHITELIST=-100]",False,1.4,False,0.49999999999999784

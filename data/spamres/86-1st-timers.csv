@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<75491724-497E-4ED3-9368-B287DB001EDF@ietf.org>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.07970566712219727
-2,<0FD76435-6DF8-428A-8C14-082D6832BE02@amsl.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,-2.0,False,0.22737794128918348

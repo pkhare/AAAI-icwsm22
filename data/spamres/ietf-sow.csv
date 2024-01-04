@@ -1,9 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<0E2027BD-03FD-42F5-A6D4-CC27052C16E0@isoc.org>,NO,-103.411,,"No, score=-103.411 tagged_above=-999 required=5 tests=[AWL=0.188, BAYES_00=-2.599, RCVD_IN_DNSWL_LOW=-1, USER_IN_WHITELIST=-100]",False,-1.0,False,0.07970566712219727
-2,<D8BAEA17-F755-417F-906A-F1BE47F0C70A@nostrum.com>,NO,-102.599,,"No, score=-102.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, SPF_PASS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
-3,<DCC302FAA9FE5F4BBA4DCAD4656937791451A6ECD9@PRVPEXVS03.corp.twcable.com>,NO,0.969,,"No, score=0.969 tagged_above=-999 required=5 tests=[AWL=-1.169, BAYES_50=0.001, HELO_EQ_MODEMCABLE=0.768, HOST_EQ_MODEMCABLE=1.368, HTML_MESSAGE=0.001]",False,-2.0,False,0.49999999999999784
-4,<D00104E7-E14A-445F-9CA1-961DAF3D6D10@vigilsec.com>,NO,-101.371,,"No, score=-101.371 tagged_above=-999 required=5 tests=[AWL=0.609, BAYES_00=-2.599, RCVD_IN_SORBS_WEB=0.619, USER_IN_WHITELIST=-100]",False,2.0,False,0.49999999999999784
-5,<17B2D62F-04B8-4367-BD54-A2B6F8599BB2@nostrum.com>,NO,-102.6,,"No, score=-102.6 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, SPF_PASS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
-6,<9DC8E7E4-EBAA-4EF0-8A9A-0E7ACCB184E9@vigilsec.com>,NO,-102.449,,"No, score=-102.449 tagged_above=-999 required=5 tests=[AWL=0.150, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,0.5,False,0.49999999999999784
-7,<4EC0F215.4040801@levkowetz.com>,NO,-102.446,,"No, score=-102.446 tagged_above=-999 required=5 tests=[AWL=0.153, BAYES_00=-2.599, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
-8,<BAFE8178-E69C-4562-80B2-47069EE83C98@amsl.com>,NO,0,,"No, score=x tagged_above=-999 required=5 tests=[]",False,-2.0,False,0.016182055177790217

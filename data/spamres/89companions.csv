@@ -1,5 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,,NO,-2.301,,"No, score=-2.301 tagged_above=-999 required=5 tests=[BAYES_40=-0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001] autolearn=ham",False,-2.0,False,0.669270692071739
-2,<B650C5AE-0460-4DD3-A4D1-DDE5CAE0AA59@isoc.org>,NO,-102.602,,"No, score=-102.602 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_LOW=-0.7, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, USER_IN_WHITELIST=-100] autolearn=ham",False,-0.1,False,0.49999999999999784
-3,<FDD025D3-3A8F-475A-8551-44FB28CEF387@amsl.com>,NO,-2.448,,"No, score=-2.448 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RP_MATCHES_RCVD=-0.547, SPF_PASS=-0.001] autolearn=ham",False,-2.0,False,0.49999999999999784
-4,<F6C506A6-DE79-4698-9C8C-F2E8E86D9847@amsl.com>,NO,-2.447,,"No, score=-2.447 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RP_MATCHES_RCVD=-0.547, SPF_PASS=-0.001] autolearn=ham",False,0.3,False,0.49999999999999784

@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<da57d4211003160724o54b19210p440cb62df958dae6@mail.gmail.com>,NO,3.524,***,"No, score=3.524 tagged_above=-999 required=5 tests=[BAYES_50=0.001, FM_FORGED_GMAIL=0.622, HTML_MESSAGE=0.001, J_CHICKENPOX_13=0.6, MANGLED_TOOL=2.3]",False,-1.0,False,0.49999999999999784
-2,<000b01caca8f$a5891900$f09b4b00$@org>,NO,4.032,****,"No, score=4.032 tagged_above=-999 required=5 tests=[BAYES_50=0.001, DNS_FROM_OPENWHOIS=1.13, HTML_MESSAGE=0.001, J_CHICKENPOX_13=0.6, MANGLED_TOOL=2.3]",False,-2.0,False,0.49999999999999784

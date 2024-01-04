@@ -1,2 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<048a01d3c4b4$e387c6c0$aa975440$@org.cn>,NO,-0.5,,"No, score=-0.5 tagged_above=-999 required=5 tests=[BAYES_05=-0.5, HTML_MESSAGE=0.001, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.006803068167124697

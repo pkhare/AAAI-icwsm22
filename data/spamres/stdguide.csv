@@ -1,8 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<9608190949.aa04208@ietf.org>,,,,,False,1.0,False,0.08153361687929318
-2,<9608191735.aa20896@ietf.org>,,,,,False,1.0,False,0.08153361687929318
-3,<9611191004.aa15752@ietf.org>,,,,,False,1.0,False,0.08153361687929318
-4,<9703180851.aa19172@ietf.org>,,,,,False,1.0,False,0.08153361687929318
-5,<9705010949.aa15279@ietf.org>,,,,,False,1.0,False,0.08153361687929318
-6,<9705290944.aa08803@ietf.org>,,,,,False,1.0,False,0.08153361687929318
-7,<9709040855.aa07120@ietf.org>,,,,,False,0.0,False,1.3232404153569094e-13

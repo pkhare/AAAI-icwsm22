@@ -1,7 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<20150609195904.5247.53543.idtracker@ietfa.amsl.com>,NO,-1.9,,"No, score=-1.9 tagged_above=-999 required=5 tests=[BAYES_00=-1.9] autolearn=ham",False,-2.0,False,0.49999999999999784
-2,<ECA43DA70480A3498E43C3471FB2E1F01C35C77C@eusaamb103.ericsson.se>,NO,-2.371,,"No, score=-2.371 tagged_above=-999 required=5 tests=[BAYES_05=-0.5, HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.428, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, TVD_SPACE_RATIO=0.001] autolearn=ham",False,1.9,False,0.001299156153328721
-3,<90DFB06D-337C-4130-AD0D-F41D022C886D@sics.se>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7] autolearn=ham",False,-2.0,False,0.49999999999999784
-4,<2EE4538C-872C-432C-BCBD-39C434C504D2@sics.se>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7] autolearn=ham",False,-2.0,False,0.49999999999999784
-5,<BD5B1955-F937-4D92-BB0B-3C9328E8B674@um.es>,NO,-4.211,,"No, score=-4.211 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.49999999999999784
-6,<E2628CB7186C7D4F9E2B2D5B325866205347C31F@ESESSMB205.ericsson.se>,NO,-4.2,,"No, score=-4.2 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3] autolearn=ham",False,2.3,False,0.49999999999999784

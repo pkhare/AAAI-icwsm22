@@ -1,4 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<49D203AD.9070807@gmail.com>,NO,-0.191,,"No, score=-0.191 tagged_above=-999 required=5 tests=[BAYES_05=-1.11, MIME_8BIT_HEADER=0.3, RCVD_IN_SORBS_WEB=0.619]",False,-0.9,False,0.49999999999999784
-2,<ca722a9e0903310743r6513df5cm64245a0af8bb5809@mail.gmail.com>,NO,-1.861,,"No, score=-1.861 tagged_above=-999 required=5 tests=[AWL=0.438, BAYES_00=-2.599, MIME_8BIT_HEADER=0.3]",False,0.1,False,0.49999999999999784
-3,<20100312221729.GK14993@Sun.COM>,NO,-6.283,,"No, score=-6.283 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4, SARE_MILLIONSOF=0.315, UNPARSEABLE_RELAY=0.001]",False,-0.8,False,0.49999999999999784

@@ -1,2 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<4C9067F2.1040402@belv.com>,NO,4.916,****,"No, score=4.916 tagged_above=-999 required=5 tests=[BAYES_50=0.001, RCVD_IN_PBL=0.905, RCVD_IN_SORBS_DUL=0.877, RCVD_IN_XBL=3.033, RDNS_DYNAMIC=0.1]",False,3.9,False,0.49999999999999784

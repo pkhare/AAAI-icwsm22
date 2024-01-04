@@ -1,6 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<rb8jr4h5bes498mtbk1maclmkbdfrc3abh@hive.bjoern.hoehrmann.de>,NO,0.001,,"No, score=0.001 tagged_above=-999 required=5 tests=[BAYES_50=0.001]",False,-2.0,False,0.49999999999999784
-2,<IkeeTWscmdhSPrs/s0A93g.md5@lochnagar.oryx.com>,NO,-2.598,,"No, score=-2.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, UNPARSEABLE_RELAY=0.001]",False,-1.0,False,0.49999999999999784
-3,<uivkr45ijt77m95rfgpnc9rigu2kjpuepv@hive.bjoern.hoehrmann.de>,NO,-1.999,,"No, score=-1.999 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, J_CHICKENPOX_15=0.6]",False,-2.0,False,0.49999999999999784
-4,<r0slr4phld2bpf9lqrlu96igalj2ca1ffp@hive.bjoern.hoehrmann.de>,NO,-2.299,,"No, score=-2.299 tagged_above=-999 required=5 tests=[AWL=0.300, BAYES_00=-2.599]",False,-2.0,False,0.49999999999999784
-5,<3ij595h4fspsgvp9fctfr7fqmhah1qian7@hive.bjoern.hoehrmann.de>,NO,-0.038,,"No, score=-0.038 tagged_above=-999 required=5 tests=[AWL=-1.239, BAYES_50=0.001, J_CHICKENPOX_15=0.6, J_CHICKENPOX_19=0.6]",False,-2.0,False,0.49999999999999784

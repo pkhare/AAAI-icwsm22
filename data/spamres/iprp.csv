@@ -1,5 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<D4FD16C4FE1EDA4BBF3C1CC556EB6C18CB0AA64F@REXMC.intranet.epfl.ch>,NO,-1.91,,"No, score=-1.91 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,0.3,False,0.013866454498862799
-2,<72CC502C2C615C42B081A9E5FC057D053AE847@SJEXCHMB09.corp.ad.broadcom.com>,NO,-4.209,,"No, score=-4.209 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.001299156153328721
-3,<D25CFB4D.5743%maaz.mohiuddin@epfl.ch>,NO,-1.91,,"No, score=-1.91 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,0.3,False,0.03481168340193519
-4,<2FF8D1CC-2BE4-4D52-B03A-2021387A5546@kuehlewind.net>,NO,-2.45,,"No, score=-2.45 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RP_MATCHES_RCVD=-0.548, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.05293206580006849

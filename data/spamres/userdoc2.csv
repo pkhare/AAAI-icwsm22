@@ -1,5 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<19277639@um.cc.umich.edu>,,,,,False,0.8,False,1.3571348509453521e-15
-2,<21530840@um.cc.umich.edu>,,,,,False,0.8,False,5.3662420382338664e-06
-3,<9307291609.AA11510@merit.edu>,,,,,False,-0.0,False,5.301880060353559e-16
-4,<9403232349.AA05579@nsipo.arc.nasa.gov>,,,,,False,0.8,False,0.001106107805857497

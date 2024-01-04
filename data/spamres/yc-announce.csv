@@ -1,8 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-3,<9b60458a-1217-ee01-4c24-b17db350344c@cisco.com>,,,,,False,4.2,False,5.938023946148841e-06
-4,<8688d135-c50c-978f-24f2-ca7bca51af82@cisco.com>,,,,,False,4.2,False,2.900532869213652e-06
-5,<0f4b088e-72f1-5b2f-6c08-9b7e250f468e@cisco.com>,,,,,False,4.2,False,3.194997520628504e-06
-11,<d1247165-7950-8a3c-2836-ba56d41aa1fa@cisco.com>,,,,,False,4.2,False,0.49999999999999784
-14,<8887438b-f497-18ad-4e66-71269ecab674@cisco.com>,,,,,False,4.2,False,1.3103271481827517e-07
-16,<9689d6db-eca9-52f0-7134-c2b6ec6ccfcb@cisco.com>,,,,,False,4.2,False,0.49999999999999784
-50,<a4f1e47c-97dc-0491-7e79-5a31f6efe00b@marcuscom.com>,,,,,False,4.2,False,0.35936110225535933

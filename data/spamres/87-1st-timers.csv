@@ -1,7 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<20130702215701.30457.81057.idtracker@ietfa.amsl.com>,NO,-104.1,,"No, score=-104.1 tagged_above=-999 required=5 tests=[AWL=0.500, BAYES_00=-2.599, GB_I_INVITATION=-2, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.15960297761042466
-2,<EEA68272-3067-4765-A109-B06EF2F988A4@amsl.com>,NO,-3.963,,"No, score=-3.963 tagged_above=-999 required=5 tests=[AWL=0.636, BAYES_00=-2.599, GB_I_INVITATION=-2]",False,-2.0,False,0.22737794128918348
-3,<20130717225841.14002.89245.idtracker@ietfa.amsl.com>,NO,-104.6,,"No, score=-104.6 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, GB_I_INVITATION=-2, NO_RELAYS=-0.001, USER_IN_WHITELIST=-100]",False,-2.0,False,0.03481168340193519
-4,<F01C6545-0A33-4551-996C-768774C8143C@amsl.com>,NO,-4.016,,"No, score=-4.016 tagged_above=-999 required=5 tests=[AWL=0.583, BAYES_00=-2.599, GB_I_INVITATION=-2]",False,-2.0,False,0.22737794128918348
-5,<BD82CA97-EF79-4FEE-BB30-8D5AAB858089@amsl.com>,NO,-2.599,,"No, score=-2.599 tagged_above=-999 required=5 tests=[BAYES_00=-2.599]",False,-2.0,False,0.07970566712219727
-6,<1375007958.009428772@apps.rackspace.com>,NO,-103.598,,"No, score=-103.598 tagged_above=-999 required=5 tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-1, USER_IN_WHITELIST=-100]",False,-1.0,False,0.006803068167124697

@@ -1,5 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<0265D2B3-F78C-44C3-BE19-E40C58C6BC6A@amsl.com>,NO,-4.986,,"No, score=-4.986 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, RP_MATCHES_RCVD=-0.786, SPF_PASS=-0.001] autolearn=ham",False,-2.0,False,0.22737794128918348
-2,<D170C59A-F6AE-4D18-8A86-325D7F38D78B@amsl.com>,NO,0.79,,"No, score=0.79 tagged_above=-999 required=5 tests=[BAYES_50=0.8, HTML_MESSAGE=0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.22737794128918348
-3,<2B3F5160-EC41-4B39-ABC0-26E9EB9A39E0@amsl.com>,NO,-2.495,,"No, score=-2.495 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, RP_MATCHES_RCVD=-0.594, SPF_PASS=-0.001] autolearn=ham",False,-2.0,False,0.49999999999999784
-4,<74D85385-8C17-412F-96EE-76CBD6BC2A11@amsl.com>,NO,-2.311,,"No, score=-2.311 tagged_above=-999 required=5 tests=[BAYES_40=-0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham",False,-2.0,False,0.07760509279565901

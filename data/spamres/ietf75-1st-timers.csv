@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<20090715123618.2269D3A6B09@core3.amsl.com>,,,,,False,-0.8,False,0.49999999999999784
-2,<28DE829B-23B3-4F6B-B344-29224D98D58C@amsl.com>,NO,-100.495,,"No, score=-100.495 tagged_above=-999 required=5 tests=[AWL=0.001, BAYES_00=-2.599, FH_RELAY_NODNS=1.451, HELO_MISMATCH_COM=0.553, RDNS_NONE=0.1, USER_IN_WHITELIST=-100]",False,-0.1,False,0.49999999999999784

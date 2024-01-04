@@ -1,4 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<1206F76B-BB93-4646-BCE3-6F73F2D77518@amsl.com>,NO,-100.268,,"No, score=-100.268 tagged_above=-999 required=5 tests=[AWL=-1.399, BAYES_50=0.001, DNS_FROM_OPENWHOIS=1.13, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
-2,<0AEF610D-4B8D-4A69-9962-85EC37AD5E16@amsl.com>,NO,-98.869,,"No, score=-98.869 tagged_above=-999 required=5 tests=[BAYES_50=0.001, DNS_FROM_OPENWHOIS=1.13, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
-3,<23266DAC32BA463CB29107719BD0EABB@ams3mxglf1>,NO,-98.869,,"No, score=-98.869 tagged_above=-999 required=5 tests=[BAYES_50=0.001, DNS_FROM_OPENWHOIS=1.13, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784

@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<153668448029.16821.1381663396484452180.idtracker@ietfa.amsl.com>,,,,,False,-2.0,False,0.49999999999999784
-2,<4A95BA014132FF49AE685FAB4B9F17F66B1473F5@sjceml521-mbs.china.huawei.com>,NO,-1.899,,"No, score=-1.899 tagged_above=-999 required=5 tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=ham autolearn_force=no",False,-2.0,False,0.49999999999999784

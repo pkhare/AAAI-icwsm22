@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<262126412.5785515.1438346994501.JavaMail.yahoo@mail.yahoo.com>,NO,0.101,,"No, score=0.101 tagged_above=-999 required=5 tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7] autolearn=ham",False,0.1,False,0.001299156153328721
-2,<000e01d0cb95$3b047d60$b10d7820$@is.naist.jp>,NO,3.799,***,"No, score=3.799 tagged_above=-999 required=5 tests=[BAYES_80=2,  HELO_EQ_JP=1.244, HOST_EQ_JP=1.265, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=no",False,-1.0,False,0.03481168340193519

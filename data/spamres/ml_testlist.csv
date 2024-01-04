@@ -1,3 +1,0 @@
-imap_uid,mid,header_flag,header_score,header_level,header_status,SA_flag,SA_score,AS_flag,AS_score
-1,<C6937BDE-DBFD-4C62-B27C-1E278CDD0B0B@mac.com>,NO,-100.185,,"No, score=-100.185 tagged_above=-999 required=5 tests=[BAYES_40=-0.185, USER_IN_WHITELIST=-100]",False,-2.0,False,0.49999999999999784
-2,<9D430571-3C06-407B-B70C-97334C2D38C3@amsl.com>,NO,-4.185,,"No, score=-4.185 tagged_above=-999 required=5 tests=[BAYES_40=-0.185, RCVD_IN_DNSWL_MED=-4]",False,-2.0,False,0.49999999999999784
